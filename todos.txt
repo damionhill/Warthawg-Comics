@@ -1,0 +1,8 @@
+Ordered by Descending Priority: 
+
+TODO: Look into image rendering - grab a "loading" component (display loading while images are queuing up)
+TODO: find a prettier + more professional font for literally everything
+TODO: edit index.html to render something small
+TODO: Error codes/ 404 page
+
+

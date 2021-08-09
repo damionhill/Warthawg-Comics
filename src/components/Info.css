@@ -1,0 +1,45 @@
+
+/*mobile*/
+
+  .info-wrapper{
+      text-align:center;
+      margin: 4vw 13vw;
+
+  }
+
+  .info-header{
+    color:rgb(0, 0, 128);
+    text-align: center;
+    font-size: 4.5vh;
+    font-family: 'Arvo', serif;
+  }
+
+  .info-paragraph{
+    color:black;
+    margin-top: 1rem;
+    font-size: 3.5vw;
+    font-family: 'Arvo', serif;
+  }
+
+
+/*desktop*/
+/*really just increasing margin between the title and nav bar*/
+@media(min-width: 1008px){
+  .info-wrapper{
+    margin: 5vh 10vw;
+    margin-bottom: 4vh;
+  }
+
+  .info-header{
+    font-size: 3rem;
+    margin-top: 1vh;
+  }
+
+  .info-paragraph{
+    font-size: 1.5rem;
+  }
+}
+
+
+
+

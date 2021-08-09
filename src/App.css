@@ -1,38 +1,62 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.router-wrapper{
+  background-color: rgb(227, 234, 255);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+
+@media(min-width: 0px) and (max-width: 640px){
+
+  .carousel-wrapper{
+    align-items: center;
+    padding-bottom: 5vw;
   }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .HomeGallery{
+    display: none;
   }
-  to {
-    transform: rotate(360deg);
+
+  .gallery-wrapper{
+    display:none;
   }
+  
+}
+
+
+/*tablet sized*/
+@media(min-width: 641px) and (max-width: 1007px){
+  .carousel-wrapper{
+    display: none;
+  }
+
+  .HomeGallery{
+    display:relative;
+
+  }
+
+  .gal-pic{
+    height: 15rem;
+    width: 8rem;
+  }
+
+}
+
+
+/*desktop*/
+@media(min-width: 1008px){
+    .carousel-wrapper{
+    display: none;
+  }
+  
+  .HomeGallery{
+    opacity: 1;
+    margin-top: 100vh;
+    display:relative;
+  }
+
 }

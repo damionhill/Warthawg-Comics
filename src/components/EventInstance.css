@@ -1,0 +1,52 @@
+/*mobile*/
+
+
+.event-wrapper{
+    justify-content: center;
+    text-align: center;
+    margin-top: 3vh;
+   
+}
+
+.event-wrapper a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    color:navy;
+    font-size: 20px;
+    font-family: 'Arvo', serif;
+
+}
+
+.event-wrapper a:hover{
+    text-decoration: underline;
+    text-decoration-color:rgb(102, 126, 61);    
+}
+
+.event-wrapper a:visited{
+    color: navy;
+
+}
+
+.event-info{
+    font-size: 18px;
+    color: black;
+    font-family: 'Arvo', serif;
+
+}
+
+/*desktop*/
+@media(min-width: 1008px){
+    
+    .event-wrapper a{
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 4vh;
+        color:navy;
+    }
+    
+    .event-info{
+        font-size:3vh;
+    }
+
+}

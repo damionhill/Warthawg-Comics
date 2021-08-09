@@ -1,0 +1,119 @@
+/*mobile*/
+.contact-form{
+    color: navy;
+    display:inline-grid;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Arvo', serif;
+
+}
+
+.contact-form label{
+    font-size: 16px;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arvo', serif;
+
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid navy;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=email], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid navy;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+textarea[name=message], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid navy;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid navy;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: gold;
+    color:navy;
+    font-family: 'Arvo', serif;
+
+}
+
+
+input[type = submit]:hover{
+    background-color: navy;
+    color: gold
+}
+
+
+/*desktop*/
+@media(min-width: 1008px){
+
+    .contact-form{
+        margin-top: 1.5rem;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        display: inline-grid;
+    }
+
+    .contact-form label{
+        font-size: 3vh;
+        display: inline-block;
+    }
+
+    input[type=text], select {
+        width:50vw;
+        display: inline-block;;
+    }
+    
+    input[type=email], select {
+        width: 50vw;
+        display: inline-block;;
+
+    }
+    
+    textarea[name=message], select {
+        width: 48vw;
+        display: inline-block;
+
+    }
+    
+    input[type=submit], select {
+        width: 60w;
+        display: inline-block;
+
+    }
+
+    .submitBtn{
+        justify-self: center;
+        align-items: center;
+    }
+    
+
+
+}
