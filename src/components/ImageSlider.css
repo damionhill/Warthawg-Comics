@@ -45,4 +45,22 @@
     transform: scale(1.08);
 }
 
+/*tablet-sized*/
+@media(min-width: 641px) and (max-width: 900){
+
+    .image{
+        width: 10rem;
+        height: 18rem;
+    }
+}
+
+@media(min-width: 901px){
+    .image{
+        width:12rem;
+        height:20rem;
+    }
+}
+
+
+
 

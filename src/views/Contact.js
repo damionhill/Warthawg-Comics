@@ -1,6 +1,7 @@
 import React from 'react';
 import { Info } from '../components/Info.js'; 
 import ContactForm from '../components/ContactForm.js';
+import '../App.css';
 
 function Contact()
 {
@@ -17,8 +18,6 @@ function Contact()
         <ContactForm/>
 
     
-        
-
     </div>
 
     </>

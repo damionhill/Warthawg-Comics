@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import GenreList from '../components/GenreList.js';
 import { Info } from '../components/Info.js';
 import Archie from './Archie.js';
-import BooksTPBs from './Books-TPBs.js';
+import BooksTPBs from './Books.js';
 import Charlton from './Charlton.js';
 import DC from './DC.js';
 import Dell from './Dell.js';
@@ -13,7 +13,6 @@ import Magazines from './Magazines.js';
 import Marvel from './Marvel.js';
 import Misc4059 from './Misc1940-59';
 import Misc60P from './Misc1960-Present';
-import Romance from './Romance.js';
 import Undergrounds from './Undergrounds.js';
 
  
@@ -35,7 +34,7 @@ function Catalog()
         <Switch>
             <Route path = '/' exact component = {Catalog}/>           
             <Route path = '/Archie' exact component = {Archie}/>
-            <Route path = '/Books-TPBs' exact component = {BooksTPBs}/>
+            <Route path = '/Books' exact component = {BooksTPBs}/>
             <Route path = '/Charlton' exact component = {Charlton}/>
             <Route path = '/DC' exact component = {DC}/>           
             <Route path = '/Dell' exact component = {Dell}/>           
@@ -46,7 +45,6 @@ function Catalog()
             <Route path = '/Marvel' exact component = {Marvel}/>           
             <Route path = '/Misc1940-59' exact component = {Misc4059}/>           
             <Route path = '/Misc1960-Present' exact component = {Misc60P}/> 
-            <Route path = '/Romance' exact component = {Romance}/>           
             <Route path = '/Undergrounds' exact component = {Undergrounds}/>           
         </Switch>
     </Router>

@@ -1,11 +1,8 @@
 import React, {useState} from 'react';
-import { SliderData } from './SliderData';
-import {FaArrowAltCircleRight, FaArrowAltCircleLeft} from 'react-icons/fa'
+import { SliderData } from '../Data/SliderData';
 import './HomeGallery.css'
 
 const HomeGallery = ({slides}) => {
-
-    const [current, setCurrent] = useState(0);
     const length = slides.length;
 
 
@@ -16,7 +13,7 @@ const HomeGallery = ({slides}) => {
 
     return (
         <section className = "gallery">
-            {SliderData.map((slide) => {
+            {slides.map((slide) => {
                 return (
                     <div >
                         {(<img className = "gallery-image" src = {slide.image} alt = "comic image" />)}

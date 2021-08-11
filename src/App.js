@@ -10,7 +10,7 @@ import Ordering from './views/Ordering';
 import Catalog from './views/Catalog';
 import Archie from './views/Archie';
 import Charlton from './views/Charlton';
-import BooksTPBs from './views/Books-TPBs';
+import BooksTPBs from './views/Books';
 import DC from './views/DC';
 import Dell from './views/Dell';
 import EC from './views/EC';
@@ -19,7 +19,6 @@ import Magazines from './views/Magazines';
 import Marvel from './views/Marvel';
 import Misc4059 from './views/Misc1940-59';
 import Misc60P from './views/Misc1960-Present';
-import Romance from './views/Romance';
 import Undergrounds from './views/Undergrounds';
 
 
@@ -40,7 +39,7 @@ function App() {
             <Route path = '/I-Buy-Comics' exact component = {IBuyComics}/>
             <Route path = '/Ordering' exact component = {Ordering}/> 
             <Route path = '/Archie' exact component = {Archie}/>    
-            <Route path = 'Books-TPBs' exact component = {BooksTPBs}/>
+            <Route path = '/Books' exact component = {BooksTPBs}/>
             <Route path = '/Charlton' exact component = {Charlton}/>       
             <Route path = '/DC' exact component = {DC}/>
             <Route path = '/Dell' exact component = {Dell}/>
@@ -50,9 +49,7 @@ function App() {
             <Route path = '/Marvel' exact component = {Marvel}/>
             <Route path = '/Misc1940-59' exact component = {Misc4059}/>
             <Route path = '/Misc1960-Present' exact component = {Misc60P}/>
-            <Route path = '/Romance' exact component = {Romance}/>
             <Route path = '/Undergrounds' exact component = {Undergrounds}/> 
-
         </Switch>
         </Router>
 

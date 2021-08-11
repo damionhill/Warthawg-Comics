@@ -3,9 +3,6 @@ import './GenreList.css';
 import { FaArchive } from 'react-icons/fa';
 import {Link} from 'react-router-dom';
 
-
-
-
 export const GenreList = () => {
 
     return(
@@ -16,7 +13,7 @@ export const GenreList = () => {
                 </li>
 
                 <li className="genre-item">
-                    <Link to = '/Books-TPBs' className="genre-links">  BOOKS/TPB </Link>
+                    <Link to = '/Books' className="genre-links">  BOOKS/TPB </Link>
                 </li>
 
                 <li className="genre-item">
@@ -52,10 +49,6 @@ export const GenreList = () => {
 
                 <li className="genre-item">
                     <Link to = '/Misc1960-Present' className="genre-links">  MICS. 1960-PRESENT </Link>
-                </li>
-
-                <li className="genre-item">
-                    <Link to = '/Romance' className="genre-links">  ROMANCE </Link>
                 </li>
 
                 <li className="genre-item">

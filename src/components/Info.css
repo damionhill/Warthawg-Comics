@@ -3,6 +3,7 @@
 
   .info-wrapper{
       text-align:center;
+      align-items:center;
       margin: 4vw 13vw;
 
   }
@@ -19,15 +20,28 @@
     margin-top: 1rem;
     font-size: 3.5vw;
     font-family: 'Arvo', serif;
+    text-align:justify;
   }
+
+
+/*tablet-sized*/
+/*font size a bit large*/
+@media(min-width: 641px) and (max-width: 1024px){
+
+  .info-paragraph{
+    font-size: 1.5rem;
+  }
+
+}
 
 
 /*desktop*/
 /*really just increasing margin between the title and nav bar*/
-@media(min-width: 1008px){
+@media(min-width: 1025px){
   .info-wrapper{
     margin: 5vh 10vw;
     margin-bottom: 4vh;
+    align-items:center;
   }
 
   .info-header{

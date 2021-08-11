@@ -32,7 +32,7 @@ export const columns = [
 
     {
       name: 'Notes',
-      selector: 'Notes',
+      selector: 'Website Notes',
       center: true,
       compact: true,
       width: '30%',
