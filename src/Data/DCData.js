@@ -1,11 +1,10 @@
-export const data = [
+export const data=[
   {
     "Title": "Action Comics",
     "Issue #": 80,
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -14,7 +13,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 90
   },
   {
@@ -23,7 +21,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -32,7 +29,6 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -41,7 +37,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -50,7 +45,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Supergirl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -59,7 +53,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Supergirl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -68,7 +61,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Origin Bizarro World",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -77,7 +69,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -86,7 +77,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -95,7 +85,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "6th Legion",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -104,7 +93,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -113,7 +101,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "16 Legion",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -122,7 +109,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "Superhorse",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -131,7 +117,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": 50,
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -140,7 +125,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": 20,
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -149,7 +133,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Parasite Man",
     "Personal Notes (Not on website)": "two avail",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -158,7 +141,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Parasite Man",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -167,7 +149,6 @@ export const data = [
     "Condition": "CBCS 9.2",
     "Website Notes": "Parasite Man",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 390
   },
   {
@@ -176,7 +157,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -185,7 +165,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -194,7 +173,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -203,7 +181,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -212,7 +189,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -221,7 +197,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Classic C",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -230,7 +205,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -239,7 +213,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -248,7 +221,6 @@ export const data = [
     "Condition": "FA",
     "Website Notes": "CFO",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -257,7 +229,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -266,7 +237,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -275,7 +245,6 @@ export const data = [
     "Condition": "CGC 2.5",
     "Website Notes": "1st Legion",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 1325
   },
   {
@@ -284,7 +253,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -293,7 +261,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Origin Green Arrow",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 70
   },
   {
@@ -302,7 +269,6 @@ export const data = [
     "Condition": "CGC 7.0",
     "Website Notes": "Origin Aquaman",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 600
   },
   {
@@ -311,7 +277,6 @@ export const data = [
     "Condition": "CGC 6.0",
     "Website Notes": "Origin Aquaman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 455
   },
   {
@@ -320,7 +285,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -329,7 +293,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -338,7 +301,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "1st Bizarro Titano",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -347,7 +309,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -356,7 +317,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -365,7 +325,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Legion Begins",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 70
   },
   {
@@ -374,7 +333,6 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "Origin Bouncing Boy",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -383,7 +341,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Classic C",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -392,7 +349,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -401,7 +357,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -410,7 +365,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -419,7 +373,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -428,7 +381,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "1st Dream Girl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -437,7 +389,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "1st Dream Girl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -446,7 +397,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Time Trapper",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -455,7 +405,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -464,7 +413,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -473,7 +421,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -482,7 +429,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -491,7 +437,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Super Pets",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -500,7 +445,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -509,7 +453,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "1st Duplcate Boy",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -518,7 +461,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Luther c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -527,7 +469,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -536,7 +477,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "1st Timberwolf",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -545,7 +485,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "1st Bizarro Legionairres",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -554,7 +493,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -563,7 +501,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -572,7 +509,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -581,7 +517,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -590,7 +525,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -599,7 +533,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "1st Starfinger",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -608,7 +541,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Classic C",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -617,7 +549,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Classic C",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -626,7 +557,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -635,7 +565,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -644,7 +573,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "1st Computo",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -653,7 +581,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "1st Duo Damsel",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -662,7 +589,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Classic C",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -671,7 +597,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -680,7 +605,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -689,7 +613,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -698,7 +621,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Superman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -707,7 +629,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -716,7 +637,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "1st Quantum Queen",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -725,7 +645,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -734,7 +653,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -743,7 +661,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st Solo Supergirl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -752,7 +669,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "1st Solo Supergirl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -761,7 +677,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -770,7 +685,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -779,7 +693,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -788,7 +701,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "1st Black Orchid",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -797,7 +709,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "1st Black Orchid",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -806,7 +717,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Spectre begins",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -815,7 +725,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -824,7 +733,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "pence stamp",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -833,7 +741,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -842,7 +749,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -851,7 +757,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -860,7 +765,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -869,7 +773,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Robot Cover",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -878,7 +781,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -887,7 +789,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -896,7 +797,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -905,7 +805,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 32
   },
   {
@@ -914,7 +813,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 32
   },
   {
@@ -923,7 +821,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -932,7 +829,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -941,7 +837,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -950,7 +845,6 @@ export const data = [
     "Condition": "G",
     "Website Notes": "piece out int",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -959,7 +853,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -968,7 +861,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -977,7 +869,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -986,7 +877,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 62
   },
   {
@@ -995,7 +885,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -1004,7 +893,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -1013,7 +901,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -1022,7 +909,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -1031,7 +917,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 44
   },
   {
@@ -1040,7 +925,6 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -1049,7 +933,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 72
   },
   {
@@ -1058,7 +941,6 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -1067,7 +949,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -1076,7 +957,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 32
   },
   {
@@ -1085,7 +965,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 32
   },
   {
@@ -1094,7 +973,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st Frogman sty",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -1103,7 +981,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Easy Co",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -1112,7 +989,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -1121,7 +997,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -1130,7 +1005,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -1139,7 +1013,6 @@ export const data = [
     "Condition": "G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -1148,7 +1021,6 @@ export const data = [
     "Condition": "G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -1157,7 +1029,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "Classic Cvr",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -1166,7 +1037,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Classic Cvr",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -1175,7 +1045,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -1184,7 +1053,6 @@ export const data = [
     "Condition": "G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -1193,7 +1061,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1202,7 +1069,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "1st Tank Killer c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -1211,7 +1077,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -1220,7 +1085,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -1229,7 +1093,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "1st Minute Commandos",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1238,7 +1101,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "1st Minute Commandos",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1247,7 +1109,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -1256,7 +1117,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -1265,7 +1125,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -1274,7 +1133,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "1st Johnny Cloud",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -1283,7 +1141,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -1292,7 +1149,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -1301,7 +1157,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -1310,7 +1165,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Classic Heath Cover",
     "Personal Notes (Not on website)": 90,
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -1319,7 +1173,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -1328,7 +1181,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -1337,7 +1189,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -1346,7 +1197,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Color Touch",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 275
   },
   {
@@ -1355,7 +1205,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -1364,7 +1213,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "1st Power Girl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1373,7 +1221,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -1382,7 +1229,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -1391,7 +1237,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 16
   },
   {
@@ -1400,7 +1245,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -1409,7 +1253,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -1418,7 +1261,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -1427,7 +1269,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 21
   },
   {
@@ -1436,7 +1277,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -1445,7 +1285,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -1454,7 +1293,6 @@ export const data = [
     "Condition": "CGC 9.0",
     "Website Notes": "1st Jonah Hex",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 650
   },
   {
@@ -1463,7 +1301,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "2nd Jonah Hex",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -1472,7 +1309,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Wood Art",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -1481,7 +1317,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 300
   },
   {
@@ -1490,7 +1325,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -1499,7 +1333,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "1st Mera",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -1508,7 +1341,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "1st Ocean Master",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 190
   },
   {
@@ -1517,7 +1349,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st Ocean Master",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 110
   },
   {
@@ -1526,7 +1357,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "1st Ocean Master",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -1535,7 +1365,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -1544,7 +1373,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -1553,7 +1381,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -1562,7 +1389,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -1571,7 +1397,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Deadman Adams",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 23
   },
   {
@@ -1580,7 +1405,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 23
   },
   {
@@ -1589,7 +1413,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Deadman Adams",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 23
   },
   {
@@ -1598,7 +1421,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -1607,7 +1429,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 165
   },
   {
@@ -1616,7 +1437,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -1625,7 +1445,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -1634,7 +1453,6 @@ export const data = [
     "Condition": "GD",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -1643,7 +1461,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1652,7 +1469,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1661,7 +1477,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1670,7 +1485,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1679,7 +1493,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1688,7 +1501,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1697,7 +1509,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1706,7 +1517,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1715,7 +1525,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1724,7 +1533,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1733,7 +1541,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1742,7 +1549,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1751,7 +1557,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Chronos c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1760,7 +1565,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1769,7 +1573,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1778,7 +1581,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "2nd Zatanna",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1787,7 +1589,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1796,7 +1597,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1805,7 +1605,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1814,7 +1613,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1823,7 +1621,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1832,7 +1629,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1841,7 +1637,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1850,7 +1645,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -1859,7 +1653,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -1868,7 +1661,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -1877,7 +1669,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": 1988,
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -1886,7 +1677,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -1895,7 +1685,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -1904,7 +1693,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 320
   },
   {
@@ -1913,7 +1701,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 325
   },
   {
@@ -1922,7 +1709,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Sci Fi C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 430
   },
   {
@@ -1931,7 +1717,6 @@ export const data = [
     "Condition": "CGC 7.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 700
   },
   {
@@ -1940,7 +1725,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "Joker C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 385
   },
   {
@@ -1949,7 +1733,6 @@ export const data = [
     "Condition": "CGC 4.0",
     "Website Notes": "1st Deadshot",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 1600
   },
   {
@@ -1958,7 +1741,6 @@ export const data = [
     "Condition": "CGC 5.5",
     "Website Notes": "1st Killer Moth",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 800
   },
   {
@@ -1967,7 +1749,6 @@ export const data = [
     "Condition": "CGC 5.5",
     "Website Notes": "Joker C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 900
   },
   {
@@ -1976,7 +1757,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Joker C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 450
   },
   {
@@ -1985,7 +1765,6 @@ export const data = [
     "Condition": "CGC 5.0",
     "Website Notes": "Joker C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 1200
   },
   {
@@ -1994,7 +1773,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Flying Batman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 400
   },
   {
@@ -2003,7 +1781,6 @@ export const data = [
     "Condition": "GD+",
     "Website Notes": "Joker Story",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -2012,7 +1789,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 86
   },
   {
@@ -2021,7 +1797,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 127
   },
   {
@@ -2030,7 +1805,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 127
   },
   {
@@ -2039,7 +1813,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -2048,7 +1821,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -2057,7 +1829,6 @@ export const data = [
     "Condition": "F/G",
     "Website Notes": "Anniversary",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 228
   },
   {
@@ -2066,7 +1837,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -2075,7 +1845,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 145
   },
   {
@@ -2084,7 +1853,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -2093,7 +1861,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Joker sty",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 135
   },
   {
@@ -2102,7 +1869,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -2111,7 +1877,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -2120,7 +1885,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 54
   },
   {
@@ -2129,7 +1893,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -2138,7 +1901,6 @@ export const data = [
     "Condition": "CBCS 8.5",
     "Website Notes": "Joker C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 360
   },
   {
@@ -2147,7 +1909,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2156,7 +1917,6 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "Last .10 issue",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -2165,7 +1925,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -2174,7 +1933,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -2183,7 +1941,6 @@ export const data = [
     "Condition": "CGC 7.0",
     "Website Notes": "1st SA Penguin",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 680
   },
   {
@@ -2192,7 +1949,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "1st SA Penguin",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 220
   },
   {
@@ -2201,7 +1957,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2210,7 +1965,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 110
   },
   {
@@ -2219,7 +1973,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 80
   },
   {
@@ -2228,7 +1981,6 @@ export const data = [
     "Condition": "CGC 9.0",
     "Website Notes": "Penguin C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 220
   },
   {
@@ -2237,7 +1989,6 @@ export const data = [
     "Condition": "GD",
     "Website Notes": "1st SA Riddler",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -2246,7 +1997,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "2nd SA Riddler",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -2255,7 +2005,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "2nd SA Riddler",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -2264,7 +2013,6 @@ export const data = [
     "Condition": "CGC 5.5",
     "Website Notes": "1st Poison Ivy",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 550
   },
   {
@@ -2273,7 +2021,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2282,7 +2029,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Pence Stamp",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -2291,7 +2037,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "2nd Poison Ivy",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -2300,7 +2045,6 @@ export const data = [
     "Condition": "GD+",
     "Website Notes": "1st SA Scarecrow",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -2309,7 +2053,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "1st SA Scarecrow",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 214
   },
   {
@@ -2318,7 +2061,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st SA Scarecrow",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 180
   },
   {
@@ -2327,7 +2069,6 @@ export const data = [
     "Condition": "CGC 6.5",
     "Website Notes": "1st SA Scarecrow",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 255
   },
   {
@@ -2336,7 +2077,6 @@ export const data = [
     "Condition": "CGC 8.0",
     "Website Notes": "Penguin C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 95
   },
   {
@@ -2345,7 +2085,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -2354,7 +2093,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -2363,7 +2101,6 @@ export const data = [
     "Condition": "GD",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -2372,7 +2109,6 @@ export const data = [
     "Condition": "CGC 8.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 210
   },
   {
@@ -2381,7 +2117,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 178
   },
   {
@@ -2390,7 +2125,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -2399,7 +2133,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -2408,7 +2141,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Beatles",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 78
   },
   {
@@ -2417,7 +2149,6 @@ export const data = [
     "Condition": "CBCS 7.0",
     "Website Notes": "Beatles",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 260
   },
   {
@@ -2426,7 +2157,6 @@ export const data = [
     "Condition": "CGC 7.0",
     "Website Notes": "Beatles",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 285
   },
   {
@@ -2435,7 +2165,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -2444,7 +2173,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "1st Ras Al Ghul",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 321
   },
   {
@@ -2453,7 +2181,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 275
   },
   {
@@ -2462,7 +2189,6 @@ export const data = [
     "Condition": "CGC 8.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 68
   },
   {
@@ -2471,7 +2197,6 @@ export const data = [
     "Condition": "CGC 8.5",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 145
   },
   {
@@ -2480,7 +2205,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 112
   },
   {
@@ -2489,7 +2213,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2498,7 +2221,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -2507,7 +2229,6 @@ export const data = [
     "Condition": "CGC 9.2",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 180
   },
   {
@@ -2516,7 +2237,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Adama Joker Cvr",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 160
   },
   {
@@ -2525,7 +2245,6 @@ export const data = [
     "Condition": "CGC 6.0",
     "Website Notes": "Adams Joker Cvr",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 255
   },
   {
@@ -2534,7 +2253,6 @@ export const data = [
     "Condition": "CGC 8.0",
     "Website Notes": "Adams Joker Cvr",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 600
   },
   {
@@ -2543,7 +2261,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -2552,7 +2269,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2561,7 +2277,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2570,7 +2285,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2579,7 +2293,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -2588,7 +2301,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "Joker C/S",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2597,7 +2309,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2606,7 +2317,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2615,7 +2325,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "whitman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2624,7 +2333,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "whitman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2633,7 +2341,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "whitman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2642,7 +2349,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2651,7 +2357,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Joker C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2660,7 +2365,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2669,7 +2373,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "1st Jason Todd",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2678,7 +2381,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "1st Black Mask",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2687,7 +2389,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2696,7 +2397,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2705,7 +2405,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2714,7 +2413,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2723,7 +2421,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2732,7 +2429,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2741,7 +2437,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "1st Red Hood",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -2750,7 +2445,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -2759,7 +2453,6 @@ export const data = [
     "Condition": "CGC 7.5",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 180
   },
   {
@@ -2768,7 +2461,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2777,7 +2469,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2786,7 +2477,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2795,7 +2485,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2804,7 +2493,6 @@ export const data = [
     "Condition": "CGC 9.6",
     "Website Notes": "1st Harley Quinn",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 650
   },
   {
@@ -2813,7 +2501,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "H Quinn",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -2822,7 +2509,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "H Quinn",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -2831,7 +2517,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -2840,7 +2525,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "H. Quinn",
     "Personal Notes (Not on website)": "4 avail",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -2849,7 +2533,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Joker/H Quinn",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -2858,7 +2541,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "1st print",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -2867,7 +2549,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -2876,7 +2557,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -2885,16 +2565,14 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
     "Title": "Batman Harley and Ivy",
-    "Issue #": 43833,
+    "Issue #": "1-3",
     "Condition": "NM-",
     "Website Notes": "Set",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -2903,16 +2581,14 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
     "Title": "Batman Beyond",
-    "Issue #": "",
+    "Issue #": "TPB",
     "Condition": "NM",
     "Website Notes": "1st print",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 19.95
   },
   {
@@ -2921,7 +2597,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -2930,7 +2605,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -2939,7 +2613,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Set",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -2948,7 +2621,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -2957,7 +2629,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "1st Batwoman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -2966,7 +2637,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Ditko",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -2975,7 +2645,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -2984,7 +2653,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -2993,7 +2661,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3002,7 +2669,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3011,7 +2677,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3020,7 +2685,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3029,7 +2693,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3038,7 +2701,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3047,7 +2709,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3056,7 +2717,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3065,7 +2725,6 @@ export const data = [
     "Condition": "CGC 8.5",
     "Website Notes": "1st DC Issue",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 675
   },
   {
@@ -3074,7 +2733,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -3083,7 +2741,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "2nd Lady Blackhawk",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 26
   },
   {
@@ -3092,7 +2749,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Cat-Man",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 32
   },
   {
@@ -3101,7 +2757,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3110,7 +2765,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3119,7 +2773,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3128,7 +2781,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3137,7 +2789,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3146,7 +2797,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3155,7 +2805,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -3164,7 +2813,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -3173,7 +2821,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -3182,7 +2829,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 8
   },
   {
@@ -3191,7 +2837,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Infiniy Cover",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -3200,16 +2845,14 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
     "Title": "Boy Commandos",
-    "Issue #": 43832,
+    "Issue #": "1-2",
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3218,7 +2861,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -3227,7 +2869,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Millenium Edition",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3236,7 +2877,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "2nd Suicide Squad",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -3245,7 +2885,6 @@ export const data = [
     "Condition": "CGC 3.0",
     "Website Notes": "1st JLA",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 1800
   },
   {
@@ -3254,7 +2893,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "slt ct",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 215
   },
   {
@@ -3263,7 +2901,6 @@ export const data = [
     "Condition": "G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 176
   },
   {
@@ -3272,7 +2909,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "slt ct",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 225
   },
   {
@@ -3281,7 +2917,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "3rd JLA",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 255
   },
   {
@@ -3290,7 +2925,6 @@ export const data = [
     "Condition": "CGC 4.5",
     "Website Notes": "3rd JLA",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 280
   },
   {
@@ -3299,7 +2933,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -3308,7 +2941,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 77
   },
   {
@@ -3317,7 +2949,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -3326,7 +2957,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Grey Tone C",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -3335,7 +2965,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -3344,7 +2973,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -3353,7 +2981,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -3362,7 +2989,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Sgt Rock",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 89
   },
   {
@@ -3371,7 +2997,6 @@ export const data = [
     "Condition": "CGC 7.5",
     "Website Notes": "Sgt Rock",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 255
   },
   {
@@ -3380,7 +3005,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -3389,7 +3013,6 @@ export const data = [
     "Condition": "GD",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -3398,7 +3021,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -3407,7 +3029,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "1st Metamorpho",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 145
   },
   {
@@ -3416,7 +3037,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -3425,7 +3045,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -3434,7 +3053,6 @@ export const data = [
     "Condition": "CGC 7.5",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 425
   },
   {
@@ -3443,7 +3061,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 100
   },
   {
@@ -3452,7 +3069,6 @@ export const data = [
     "Condition": "GD+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3461,7 +3077,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3470,7 +3085,6 @@ export const data = [
     "Condition": "GD+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3479,7 +3093,6 @@ export const data = [
     "Condition": "GD+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3488,7 +3101,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "W.Woman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -3497,7 +3109,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Adams Art",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -3506,7 +3117,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -3515,7 +3125,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -3524,7 +3133,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -3533,7 +3141,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -3542,7 +3149,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -3551,7 +3157,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -3560,7 +3165,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -3569,7 +3173,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -3578,7 +3181,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -3587,7 +3189,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -3596,7 +3197,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "whitman",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3605,7 +3205,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "whitman",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3614,7 +3213,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -3623,7 +3221,6 @@ export const data = [
     "Condition": "CGC 5.5",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 380
   },
   {
@@ -3632,7 +3229,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Grey tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -3641,7 +3237,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -3650,7 +3245,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -3659,7 +3253,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 145
   },
   {
@@ -3668,7 +3261,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -3677,7 +3269,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 145
   },
   {
@@ -3686,7 +3277,6 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 80
   },
   {
@@ -3695,7 +3285,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3704,7 +3293,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3713,7 +3301,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -3722,7 +3309,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3731,7 +3317,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Jones Cover",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -3740,7 +3325,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3749,7 +3333,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3758,7 +3341,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3767,7 +3349,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3776,7 +3357,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Whitman Variant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -3785,7 +3365,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "Whitman variant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3794,7 +3373,6 @@ export const data = [
     "Condition": "CGC 9.4",
     "Website Notes": "1st New Teen Titans",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 185
   },
   {
@@ -3803,7 +3381,6 @@ export const data = [
     "Condition": "CGC 8.0",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 122
   },
   {
@@ -3812,7 +3389,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -3821,7 +3397,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -3830,7 +3405,6 @@ export const data = [
     "Condition": "PGX 9.4",
     "Website Notes": "Sgt Rock",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 145
   },
   {
@@ -3839,7 +3413,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Sgt Rock",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -3848,7 +3421,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Batman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -3857,7 +3429,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -3866,7 +3437,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -3875,7 +3445,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -3884,7 +3453,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -3893,7 +3461,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -3902,7 +3469,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -3911,7 +3477,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 4
   },
   {
@@ -3920,7 +3485,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Zatanna",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 4
   },
   {
@@ -3929,7 +3493,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 4
   },
   {
@@ -3938,7 +3501,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "Miller art",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 8
   },
   {
@@ -3947,7 +3509,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -3956,7 +3517,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -3965,7 +3525,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -3974,7 +3533,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -3983,7 +3541,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -3992,7 +3549,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -4001,7 +3557,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -4010,7 +3565,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -4019,7 +3573,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -4028,7 +3581,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -4037,7 +3589,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -4046,7 +3597,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -4055,7 +3605,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -4064,7 +3613,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Haunted Tank C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -4073,7 +3621,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "2nd Penguin",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 895
   },
   {
@@ -4082,7 +3629,6 @@ export const data = [
     "Condition": "FA",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -4091,7 +3637,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 155
   },
   {
@@ -4100,7 +3645,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 155
   },
   {
@@ -4109,7 +3653,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 145
   },
   {
@@ -4118,7 +3661,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 215
   },
   {
@@ -4127,7 +3669,6 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -4136,7 +3677,6 @@ export const data = [
     "Condition": "G",
     "Website Notes": "Two Face",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 200
   },
   {
@@ -4145,7 +3685,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 125
   },
   {
@@ -4154,7 +3693,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -4163,7 +3701,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 90
   },
   {
@@ -4172,7 +3709,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -4181,7 +3717,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 86
   },
   {
@@ -4190,7 +3725,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4199,7 +3733,6 @@ export const data = [
     "Condition": "CGC 6.0",
     "Website Notes": "1st Martian Manhunter",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5300
   },
   {
@@ -4208,7 +3741,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -4217,7 +3749,6 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -4226,7 +3757,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 68
   },
   {
@@ -4235,8 +3765,15 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
+  },
+  {
+    "Title": "Detective Comics",
+    "Issue #": 241,
+    "Condition": "CGC 3.5",
+    "Website Notes": "Rainbow Batman",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 150
   },
   {
     "Title": "Detective Comics",
@@ -4244,7 +3781,6 @@ export const data = [
     "Condition": "CGC 7.0",
     "Website Notes": "1st Bat-Mite",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 900
   },
   {
@@ -4253,7 +3789,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -4262,7 +3797,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Batwoman C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -4271,7 +3805,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 52
   },
   {
@@ -4280,7 +3813,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 43
   },
   {
@@ -4289,8 +3821,7 @@ export const data = [
     "Condition": "CGC 5.5",
     "Website Notes": "1st SA Clayface",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
-    "Cost Basis": 400
+    "Cost Basis": 360
   },
   {
     "Title": "Detective Comics",
@@ -4298,7 +3829,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -4307,7 +3837,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -4316,7 +3845,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -4325,7 +3853,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -4334,7 +3861,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Joker Cvr/Sty",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -4343,7 +3869,6 @@ export const data = [
     "Condition": "CGC 8.0",
     "Website Notes": "Joker C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 88
   },
   {
@@ -4352,7 +3877,6 @@ export const data = [
     "Condition": "CGC 7.0",
     "Website Notes": "Joker C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 78
   },
   {
@@ -4361,7 +3885,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -4370,8 +3893,15 @@ export const data = [
     "Condition": "CGC 6.0",
     "Website Notes": "1st Batgirl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 1050
+  },
+  {
+    "Title": "Detective Comics",
+    "Issue #": 359,
+    "Condition": "CGC 4.5",
+    "Website Notes": "1st Batgirl",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 350
   },
   {
     "Title": "Detective Comics",
@@ -4379,7 +3909,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "1st Batgirl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -4388,7 +3917,6 @@ export const data = [
     "Condition": "CGC 8.0",
     "Website Notes": "2nd Batgirl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 128
   },
   {
@@ -4397,7 +3925,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "2nd Batgirl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -4406,7 +3933,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "2nd Batgirl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -4415,7 +3941,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -4424,7 +3949,6 @@ export const data = [
     "Condition": "CBCS 6.5",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -4433,7 +3957,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Batgirl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -4442,7 +3965,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Batgirl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -4451,7 +3973,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Mr Freeze",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -4460,7 +3981,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -4469,7 +3989,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -4478,7 +3997,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 32
   },
   {
@@ -4487,7 +4005,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 32
   },
   {
@@ -4496,7 +4013,6 @@ export const data = [
     "Condition": "CGC 8.5",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 125
   },
   {
@@ -4505,7 +4021,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -4514,7 +4029,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -4523,7 +4037,6 @@ export const data = [
     "Condition": "CGC 8.0",
     "Website Notes": "1st Man Bat",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 385
   },
   {
@@ -4532,8 +4045,15 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "1st Man Bat",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 135
+  },
+  {
+    "Title": "Detective Comics",
+    "Issue #": 400,
+    "Condition": "CGC 7.0",
+    "Website Notes": "1st Man Bat",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 225
   },
   {
     "Title": "Detective Comics",
@@ -4541,7 +4061,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st Man Bat",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -4550,7 +4069,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -4559,7 +4077,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "1st League of Assassins",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 40
   },
   {
@@ -4568,7 +4085,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st League o Asasins",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -4577,7 +4093,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -4586,7 +4101,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4595,7 +4109,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4604,7 +4117,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4613,7 +4125,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Adams Art",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4622,7 +4133,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "1st Talia",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4631,7 +4141,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "1st Talia",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -4640,7 +4149,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st Talia",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -4649,7 +4157,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4658,7 +4165,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4667,7 +4173,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4676,7 +4181,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4685,7 +4189,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Creeper",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4694,7 +4197,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4703,7 +4205,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4712,7 +4213,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4721,7 +4221,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4730,7 +4229,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4739,7 +4237,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4748,7 +4245,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4757,7 +4253,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4766,7 +4261,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4775,7 +4269,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4784,7 +4277,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4793,7 +4285,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4802,7 +4293,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4811,7 +4301,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4820,7 +4309,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Man Bat",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4829,7 +4317,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4838,7 +4325,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4847,7 +4333,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4856,7 +4341,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4865,7 +4349,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Manhunter",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4874,7 +4357,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4883,7 +4365,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "100 pg",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4892,7 +4373,6 @@ export const data = [
     "Condition": "CGC 9.4",
     "Website Notes": "100 pg",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 155
   },
   {
@@ -4901,7 +4381,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "100 pg",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -4910,7 +4389,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "100 pg",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4919,7 +4397,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "100pg",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4928,7 +4405,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "100 pg",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4937,7 +4413,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4946,7 +4421,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4955,7 +4429,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Origin retold",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -4964,7 +4437,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -4973,7 +4445,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -4982,7 +4453,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -4991,7 +4461,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "1st Deadshot",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -5000,7 +4469,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "Adams Art",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -5009,7 +4477,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -5018,7 +4485,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -5027,7 +4493,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -5036,7 +4501,6 @@ export const data = [
     "Condition": 5,
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -5045,7 +4509,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -5054,7 +4517,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "3 avail",
-    "Publisher": "DC",
     "Cost Basis": 22
   },
   {
@@ -5063,7 +4525,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5072,7 +4533,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5081,7 +4541,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5090,7 +4549,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5099,7 +4557,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5108,7 +4565,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5117,7 +4573,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "1st Black Canary",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5126,7 +4581,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5135,7 +4589,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Joker C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5144,7 +4597,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5153,7 +4605,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": 10,
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5162,7 +4613,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5171,7 +4621,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -5180,7 +4629,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Death of DP",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -5189,7 +4637,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 34
   },
   {
@@ -5198,7 +4645,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Last Issue",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -5207,7 +4653,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Sgt Rock",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -5216,7 +4661,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Sgt Rock",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -5225,7 +4669,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -5234,7 +4677,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -5243,7 +4685,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Stevens Cover",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -5252,7 +4693,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Romance",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -5261,7 +4701,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Romance",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -5270,7 +4709,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": 2004,
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -5279,7 +4717,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5288,7 +4725,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5297,7 +4733,6 @@ export const data = [
     "Condition": "CGC 4.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 800
   },
   {
@@ -5306,7 +4741,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 355
   },
   {
@@ -5315,7 +4749,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -5324,7 +4757,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Last .10 Iss",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -5333,7 +4765,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -5342,7 +4773,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -5351,7 +4781,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -5360,7 +4789,6 @@ export const data = [
     "Condition": "GD",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -5369,7 +4797,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -5378,7 +4805,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -5387,7 +4813,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -5396,7 +4821,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -5405,7 +4829,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -5414,7 +4837,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -5423,7 +4845,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5432,7 +4853,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5441,7 +4861,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5450,7 +4869,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5459,7 +4877,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5468,7 +4885,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5477,7 +4893,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5486,7 +4901,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5495,7 +4909,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5504,7 +4917,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5513,7 +4925,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5522,7 +4933,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5531,7 +4941,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5540,7 +4949,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Grodd",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5549,7 +4957,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Grodd",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5558,7 +4965,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Grodd",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -5567,7 +4973,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "Flash/Sup race",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -5576,7 +4981,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Flash/Sup race",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -5585,7 +4989,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -5594,7 +4997,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -5603,7 +5005,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -5612,7 +5013,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -5621,7 +5021,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -5630,7 +5029,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -5639,7 +5037,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Zoom c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -5648,7 +5045,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -5657,16 +5053,14 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "1st Zoom",
     "Personal Notes (Not on website)": 50,
-    "Publisher": "DC",
     "Cost Basis": 80
   },
   {
     "Title": "Flash Season Zero",
     "Issue #": 2,
-    "Condition": "",
+    "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -5675,7 +5069,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5684,7 +5077,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -5693,7 +5085,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5702,7 +5093,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5711,7 +5101,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5720,7 +5109,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5729,7 +5117,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5738,7 +5125,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5747,7 +5133,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5756,7 +5141,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5765,7 +5149,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "1st Glorious Godfrey",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5774,7 +5157,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5783,7 +5165,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5792,7 +5173,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5801,7 +5181,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5810,7 +5189,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5819,7 +5197,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5828,7 +5205,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5837,7 +5213,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5846,7 +5221,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5855,7 +5229,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5864,7 +5237,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5873,7 +5245,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -5882,7 +5253,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -5891,7 +5261,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -5900,7 +5269,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -5909,7 +5277,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -5918,7 +5285,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -5927,7 +5293,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -5936,7 +5301,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -5945,7 +5309,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -5954,7 +5317,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -5963,7 +5325,6 @@ export const data = [
     "Condition": "GD+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -5972,7 +5333,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -5981,7 +5341,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -5990,7 +5349,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 56
   },
   {
@@ -5999,7 +5357,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Killer Frost",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -6008,7 +5365,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "1st Felicity Smoak",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -6017,7 +5373,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -6026,7 +5381,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -6035,322 +5389,286 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 44,
     "Condition": "FN",
     "Website Notes": "Greytone 1st DC",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 210
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 44,
     "Condition": "G/VG",
     "Website Notes": "Greytone 1st DC",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 155
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 47,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 47,
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 48,
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 49,
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 53,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 53,
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 54,
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 54,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 56,
     "Condition": "CGC 6.0",
     "Website Notes": "Sgt Rock Proto",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 360
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 56,
     "Condition": "VG",
     "Website Notes": "Sgt Rock Proto",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 59,
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 66,
     "Condition": "FA",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 74,
     "Condition": "VG",
     "Website Notes": "Flag Cvr",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 77,
     "Condition": "VG/F",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 82,
     "Condition": "G/VG",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 84,
     "Condition": "VG/F",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 85,
     "Condition": "VG/F",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 85,
     "Condition": "VG+",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 87,
     "Condition": "CGC 5.5",
     "Website Notes": "1st Haunted Tank",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 590
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 91,
     "Condition": "CGC 8.0",
     "Website Notes": "1st HT Cvr",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 385
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 91,
     "Condition": "VG/F",
     "Website Notes": "1st HT Cvr",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 98,
     "Condition": "FN",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 98,
     "Condition": "VG/F",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 99,
     "Condition": "FN",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 99,
     "Condition": "VG/F",
     "Website Notes": "2 Avail",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 101,
     "Condition": "VG+",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 26
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 102,
     "Condition": "GD",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 103,
     "Condition": "G/VG",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 105,
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 106,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 107,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 152,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
-    "Title": "Ghosts",
+    "Title": "G.I. Combat",
     "Issue #": 154,
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -6359,7 +5677,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "H Quinn",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -6368,7 +5685,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "H Quinn",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -6377,7 +5693,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -6386,7 +5701,6 @@ export const data = [
     "Condition": "Poor",
     "Website Notes": "Coverless",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -6395,7 +5709,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 1300
   },
   {
@@ -6404,7 +5717,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6413,7 +5725,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Grey Tone c",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6422,7 +5733,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": 70,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6431,7 +5741,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": 95,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6440,7 +5749,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": 65,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6449,7 +5757,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6458,7 +5765,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": 90,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6467,7 +5773,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": 65,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6476,7 +5781,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "1st Dr Polaris",
     "Personal Notes (Not on website)": 75,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6485,7 +5789,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": 95,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6494,7 +5797,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": 75,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6503,7 +5805,6 @@ export const data = [
     "Condition": "FN/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": 90,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6512,7 +5813,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": 80,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6521,7 +5821,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "JLA Cameo",
     "Personal Notes (Not on website)": 75,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6530,7 +5829,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6539,7 +5837,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": 125,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6548,7 +5845,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6557,7 +5853,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": 90,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6566,7 +5861,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6575,7 +5869,6 @@ export const data = [
     "Condition": "GD",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6584,7 +5877,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6593,7 +5885,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Dr Polaris",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -6602,7 +5893,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 400
   },
   {
@@ -6611,7 +5901,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6620,7 +5909,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6629,7 +5917,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": 48,
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6638,7 +5925,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": 200,
-    "Publisher": "DC",
     "Cost Basis": 135
   },
   {
@@ -6647,7 +5933,6 @@ export const data = [
     "Condition": "CGC 6.5",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 420
   },
   {
@@ -6656,7 +5941,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6665,7 +5949,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6674,7 +5957,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6683,7 +5965,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6692,7 +5973,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6701,7 +5981,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6710,7 +5989,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6719,7 +5997,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6728,7 +6005,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -6737,7 +6013,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6746,7 +6021,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6755,7 +6029,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -6764,7 +6037,6 @@ export const data = [
     "Condition": "CGC 5.5",
     "Website Notes": "1st John Stewart",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 515
   },
   {
@@ -6773,7 +6045,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "1st John Stewart",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 300
   },
   {
@@ -6782,7 +6053,6 @@ export const data = [
     "Condition": "CGC 9.4",
     "Website Notes": "1st John Stewart",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 1000
   },
   {
@@ -6791,7 +6061,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6800,7 +6069,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6809,7 +6077,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6818,7 +6085,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6827,7 +6093,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6836,7 +6101,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6845,16 +6109,14 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
     "Title": "Green Lantern",
-    "Issue #": "",
+    "Issue #": "141-143",
     "Condition": "NM",
     "Website Notes": "Omega Men Set",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -6863,16 +6125,14 @@ export const data = [
     "Condition": "CGC 9.8",
     "Website Notes": "Green Lantern Corps",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 110
   },
   {
     "Title": "Harley and Ivy",
-    "Issue #": "",
+    "Issue #": "Love on the Lam",
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -6881,17 +6141,7 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
-  },
-  {
-    "Title": "Hawkeye",
-    "Issue #": 1,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
-    "Cost Basis": 15
   },
   {
     "Title": "Hawkman",
@@ -6899,7 +6149,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 115
   },
   {
@@ -6908,7 +6157,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 115
   },
   {
@@ -6917,7 +6165,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 90
   },
   {
@@ -6926,7 +6173,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 90
   },
   {
@@ -6935,7 +6181,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "1st Zatanna",
     "Personal Notes (Not on website)": "Pence stamp",
-    "Publisher": "DC",
     "Cost Basis": 1025
   },
   {
@@ -6944,7 +6189,6 @@ export const data = [
     "Condition": "CGC 7.5",
     "Website Notes": "1st Zatanna",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 1350
   },
   {
@@ -6953,7 +6197,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -6962,7 +6205,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -6971,7 +6213,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Atom",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -6980,7 +6221,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -6989,7 +6229,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -6998,7 +6237,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -7007,7 +6245,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -7016,7 +6253,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -7025,7 +6261,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -7034,7 +6269,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -7043,7 +6277,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -7052,7 +6285,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -7061,7 +6293,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -7070,7 +6301,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -7079,7 +6309,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Puppet C",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -7088,7 +6317,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "classic c",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -7097,7 +6325,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7106,7 +6333,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7115,7 +6341,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7124,7 +6349,6 @@ export const data = [
     "Condition": "CGC 9.4",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 90
   },
   {
@@ -7133,7 +6357,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7142,7 +6365,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7151,7 +6373,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7160,53 +6381,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
-  },
-  {
-    "Title": "Hot Wheels",
-    "Issue #": 2,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
-    "Cost Basis": 5
-  },
-  {
-    "Title": "Hot Wheels",
-    "Issue #": 3,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
-    "Cost Basis": 5
-  },
-  {
-    "Title": "Hot Wheels",
-    "Issue #": 4,
-    "Condition": "FN+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
-    "Cost Basis": 5
-  },
-  {
-    "Title": "Hot Wheels",
-    "Issue #": 5,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
-    "Cost Basis": 5
-  },
-  {
-    "Title": "Hot Wheels",
-    "Issue #": 6,
-    "Condition": "VF/NM",
-    "Website Notes": "Adams",
-    "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
-    "Cost Basis": 40
   },
   {
     "Title": "House of Mystery",
@@ -7214,7 +6389,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 180
   },
   {
@@ -7223,7 +6397,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -7232,7 +6405,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7241,7 +6413,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7250,7 +6421,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7259,7 +6429,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "1st Jonn Jonzz",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 260
   },
   {
@@ -7268,7 +6437,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7277,7 +6445,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -7286,7 +6453,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -7295,7 +6461,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7304,7 +6469,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -7313,7 +6477,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -7322,7 +6485,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 26
   },
   {
@@ -7331,7 +6493,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -7340,7 +6501,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -7349,7 +6509,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -7358,7 +6517,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -7367,7 +6525,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "1st Mystery Issue",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 180
   },
   {
@@ -7376,7 +6533,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7385,7 +6541,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7394,7 +6549,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7403,7 +6557,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7412,7 +6565,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7421,7 +6573,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7430,7 +6581,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7439,7 +6589,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7448,7 +6597,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7457,7 +6605,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7466,7 +6613,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7475,7 +6621,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7484,7 +6629,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Adams C Toth",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7493,7 +6637,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7502,7 +6645,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7511,7 +6653,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7520,7 +6661,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Adams,Wood",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7529,7 +6669,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Adams,Wood",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7538,7 +6677,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7547,7 +6685,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7556,7 +6693,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7565,7 +6701,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7574,7 +6709,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "2 avail",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7583,7 +6717,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7592,7 +6725,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Adams, Wood",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7601,7 +6733,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7610,7 +6741,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Adams cvr",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7619,7 +6749,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7628,7 +6757,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7637,7 +6765,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7646,7 +6773,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7655,7 +6781,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7664,7 +6789,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7673,7 +6797,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7682,7 +6805,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7691,7 +6813,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7700,7 +6821,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7709,7 +6829,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7718,7 +6837,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7727,7 +6845,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7736,7 +6853,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7745,7 +6861,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7754,7 +6869,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7763,7 +6877,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7772,7 +6885,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "1st I Vampire",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -7781,7 +6893,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Grey Tone Cover",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 280
   },
   {
@@ -7790,7 +6901,6 @@ export const data = [
     "Condition": "CGC 5.0",
     "Website Notes": "Grey Tone Cover",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 345
   },
   {
@@ -7799,7 +6909,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7808,7 +6917,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7817,7 +6925,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7826,7 +6933,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Origin Mark Merlin",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7835,7 +6941,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7844,7 +6949,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7853,7 +6957,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st Eclipso",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 215
   },
   {
@@ -7862,7 +6965,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7871,7 +6973,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "1st Eclipso Cover",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7880,7 +6981,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7889,7 +6989,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -7898,7 +6997,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "1st Mystery",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 145
   },
   {
@@ -7907,7 +7005,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st Mystery",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -7916,7 +7013,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7925,7 +7021,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7934,7 +7029,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7943,7 +7037,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7952,7 +7045,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7961,7 +7053,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7970,7 +7061,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7979,7 +7069,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7988,7 +7077,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -7997,7 +7085,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8006,7 +7093,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Adams Art",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8015,7 +7101,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8024,7 +7109,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8033,7 +7117,6 @@ export const data = [
     "Condition": "CGC 7.5",
     "Website Notes": "1st Swamp Thing",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 1550
   },
   {
@@ -8042,7 +7125,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "1st Swamp Thing",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 600
   },
   {
@@ -8051,7 +7133,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Wrightson C",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8060,7 +7141,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8069,7 +7149,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8078,7 +7157,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8087,7 +7165,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8096,7 +7173,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8105,7 +7181,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8114,7 +7189,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8123,7 +7197,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8132,7 +7205,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Wrightson Autograph",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8141,7 +7213,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8150,7 +7221,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8159,7 +7229,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8168,7 +7237,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8177,7 +7245,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -8186,7 +7253,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -8195,7 +7261,6 @@ export const data = [
     "Condition": "P",
     "Website Notes": "One page missing",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -8204,7 +7269,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -8213,7 +7277,6 @@ export const data = [
     "Condition": "G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -8222,7 +7285,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -8231,7 +7293,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -8240,7 +7301,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8249,7 +7309,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8258,7 +7317,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 12
   },
   {
@@ -8267,7 +7325,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8276,7 +7333,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8285,7 +7341,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -8294,7 +7349,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 56
   },
   {
@@ -8303,7 +7357,6 @@ export const data = [
     "Condition": "CGC 9.6",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -8312,7 +7365,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8321,7 +7373,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8330,7 +7381,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8339,7 +7389,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8348,7 +7397,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -8357,7 +7405,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 900
   },
   {
@@ -8366,7 +7413,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 89
   },
   {
@@ -8375,7 +7421,6 @@ export const data = [
     "Condition": "coverless",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -8384,7 +7429,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8393,7 +7437,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8402,7 +7445,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8411,7 +7453,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8420,7 +7461,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8429,7 +7469,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8438,7 +7477,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8447,7 +7485,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8456,7 +7493,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8465,7 +7501,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8474,7 +7509,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8483,7 +7517,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Crisis on Earth-2",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8492,7 +7525,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "Crisis on Earth-2",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -8501,7 +7533,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Crisis on Earth-2",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -8510,7 +7541,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8519,7 +7549,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -8527,8 +7556,7 @@ export const data = [
     "Issue #": 29,
     "Condition": "F/VF",
     "Website Notes": "1st SA Starman",
-    "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
+    "Personal Notes (Not on website)": "@CGC",
     "Cost Basis": 35
   },
   {
@@ -8537,7 +7565,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8546,7 +7573,6 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "Intro Brain Storm",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8555,7 +7581,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8564,7 +7589,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8573,7 +7597,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8582,7 +7605,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8591,7 +7613,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8600,7 +7621,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8609,7 +7629,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8618,7 +7637,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "3rd SA Penguin",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8627,7 +7645,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Intro The Key",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8636,7 +7653,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8645,7 +7661,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8654,7 +7669,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8663,7 +7677,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8672,7 +7685,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8681,7 +7693,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8690,7 +7701,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8699,7 +7709,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8708,7 +7717,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8717,7 +7725,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8726,7 +7733,6 @@ export const data = [
     "Condition": "V/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8735,7 +7741,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8744,7 +7749,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8753,7 +7757,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8762,7 +7765,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8771,7 +7773,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8780,7 +7781,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8789,7 +7789,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8798,7 +7797,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "100 pg",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -8807,7 +7805,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "100 pg",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -8816,7 +7813,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "100 pg",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -8825,7 +7821,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "100 pg",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -8834,7 +7829,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "100 pg",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -8843,7 +7837,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "100 pg",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -8852,7 +7845,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8861,7 +7853,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8870,7 +7861,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8879,7 +7869,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8888,7 +7877,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8897,7 +7885,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8906,7 +7893,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Whitman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8915,7 +7901,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -8924,7 +7909,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8933,7 +7917,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8942,7 +7925,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8951,7 +7933,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8960,7 +7941,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8969,7 +7949,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "1st Issue",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8978,7 +7957,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -8987,7 +7965,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -8996,7 +7973,6 @@ export const data = [
     "Condition": "GD-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -9005,7 +7981,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -9014,7 +7989,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -9023,7 +7997,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -9032,7 +8005,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -9041,7 +8013,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -9050,7 +8021,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -9059,7 +8029,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -9068,7 +8037,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 140
   },
   {
@@ -9077,7 +8045,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 140
   },
   {
@@ -9086,7 +8053,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 140
   },
   {
@@ -9095,7 +8061,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 140
   },
   {
@@ -9104,7 +8069,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 140
   },
   {
@@ -9113,7 +8077,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9122,7 +8085,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -9131,7 +8093,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -9140,7 +8101,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -9149,7 +8109,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -9158,7 +8117,6 @@ export const data = [
     "Condition": "CGC 6.5",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 155
   },
   {
@@ -9167,7 +8125,6 @@ export const data = [
     "Condition": "CGC 8.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 325
   },
   {
@@ -9176,7 +8133,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9185,7 +8141,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -9194,7 +8149,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -9203,7 +8157,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "1st App",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -9212,7 +8165,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "1st App",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -9221,7 +8173,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "1st Granny",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9230,7 +8181,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "1st Granny",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9239,7 +8189,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "1st Granny",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -9248,7 +8197,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "1st Dr Bedlam",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9257,7 +8205,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st Dr Bedlam",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -9266,7 +8213,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "1st Big Barda",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 40
   },
   {
@@ -9275,7 +8221,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -9284,7 +8229,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -9293,7 +8237,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "1st Kanto",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9302,7 +8245,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "1st Giloina",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9311,7 +8253,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "1st Gilotina",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9320,7 +8261,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "1st Himon",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9329,7 +8269,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9338,7 +8277,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9347,7 +8285,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9356,7 +8293,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9365,7 +8301,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9374,7 +8309,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9383,7 +8317,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9392,7 +8325,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9401,7 +8333,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9410,7 +8341,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -9419,7 +8349,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -9428,7 +8357,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -9437,7 +8365,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9446,7 +8373,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9455,7 +8381,6 @@ export const data = [
     "Condition": "CGC 7.0",
     "Website Notes": "1st Doom Patrol",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 1100
   },
   {
@@ -9464,7 +8389,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9473,7 +8397,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -9482,7 +8405,6 @@ export const data = [
     "Condition": "F/G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -9491,7 +8413,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -9500,7 +8421,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -9509,7 +8429,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -9518,7 +8437,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Grey Tone C",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -9527,7 +8445,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Grey Tone C",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -9536,7 +8453,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -9545,7 +8461,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -9554,7 +8469,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -9563,7 +8477,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -9572,7 +8485,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9581,7 +8493,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9590,7 +8501,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9599,7 +8509,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9608,7 +8517,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9617,7 +8525,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9626,7 +8533,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9635,7 +8541,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9644,7 +8549,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9653,7 +8557,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -9662,7 +8565,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9671,7 +8573,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9680,7 +8581,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9689,7 +8589,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9698,7 +8597,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9707,7 +8605,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9716,7 +8613,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9725,7 +8621,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9734,7 +8629,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9743,7 +8637,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9752,7 +8645,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -9761,7 +8653,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -9770,7 +8661,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -9779,7 +8669,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 165
   },
   {
@@ -9788,7 +8677,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 165
   },
   {
@@ -9797,7 +8685,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": 140,
-    "Publisher": "DC",
     "Cost Basis": 165
   },
   {
@@ -9806,7 +8693,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 165
   },
   {
@@ -9815,7 +8701,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 165
   },
   {
@@ -9824,7 +8709,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 165
   },
   {
@@ -9833,7 +8717,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 165
   },
   {
@@ -9842,7 +8725,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 180
   },
   {
@@ -9851,7 +8733,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9860,7 +8741,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9869,7 +8749,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9878,7 +8757,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st Slig",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9887,7 +8765,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "1sr Steppenwolf",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9896,7 +8773,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9905,7 +8781,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9914,7 +8789,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -9923,7 +8797,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -9932,7 +8805,6 @@ export const data = [
     "Condition": "CGC 9.8",
     "Website Notes": "Newstand",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 800
   },
   {
@@ -9941,7 +8813,6 @@ export const data = [
     "Condition": "CGC 8.5",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -9950,7 +8821,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 150
   },
   {
@@ -9959,7 +8829,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Atari Force insert",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -9968,7 +8837,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": 1984,
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -9977,7 +8845,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -9986,7 +8853,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -9995,7 +8861,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10004,7 +8869,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10013,7 +8877,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10022,7 +8885,6 @@ export const data = [
     "Condition": "CGC 5.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 775
   },
   {
@@ -10031,7 +8893,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10040,7 +8901,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10049,7 +8909,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10058,7 +8917,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Classic C",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10067,7 +8925,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10076,7 +8933,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10085,7 +8941,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10094,7 +8949,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10103,7 +8957,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10112,7 +8965,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10121,7 +8973,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10130,7 +8981,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Battle Nurse",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 125
   },
   {
@@ -10139,7 +8989,6 @@ export const data = [
     "Condition": "CGC 6.5",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 190
   },
   {
@@ -10148,7 +8997,6 @@ export const data = [
     "Condition": "FA",
     "Website Notes": "Sgt Rock proto",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 200
   },
   {
@@ -10157,7 +9005,6 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "1st Ice Cream Soldier",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10166,7 +9013,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10175,7 +9021,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10184,7 +9029,6 @@ export const data = [
     "Condition": "CGC 5.5",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10193,7 +9037,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10202,7 +9045,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10211,7 +9053,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10220,7 +9061,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "2 avail",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10229,7 +9069,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10238,7 +9077,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10247,7 +9085,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10256,7 +9093,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10265,7 +9101,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10274,7 +9109,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10283,7 +9117,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10292,7 +9125,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10301,7 +9133,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10310,7 +9141,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10319,7 +9149,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10328,7 +9157,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10337,7 +9165,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Origin",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10346,7 +9173,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "Origin",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10355,7 +9181,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -10364,7 +9189,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "1st Enemy Ace",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 125
   },
   {
@@ -10373,7 +9197,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -10382,7 +9205,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "1st Unknown Soldier",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10391,7 +9213,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "100 Page Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -10400,7 +9221,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "100 Page Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -10409,7 +9229,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10418,7 +9237,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10427,7 +9245,6 @@ export const data = [
     "Condition": "G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10436,7 +9253,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10445,7 +9261,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10454,7 +9269,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10463,7 +9277,6 @@ export const data = [
     "Condition": "G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10472,7 +9285,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10481,7 +9293,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10490,7 +9301,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Frogman C/S",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10499,7 +9309,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10508,7 +9317,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10517,7 +9325,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st Gunner & Sarge",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -10526,7 +9333,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st Pooch",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -10535,7 +9341,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "1st Pooch",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -10544,7 +9349,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10553,7 +9357,6 @@ export const data = [
     "Condition": "CGC 5.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 40
   },
   {
@@ -10562,7 +9365,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10571,7 +9373,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10580,7 +9381,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10589,7 +9389,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10598,7 +9397,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Grey Tone",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10607,7 +9405,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Kirby",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10616,7 +9413,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10625,7 +9421,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -10634,7 +9429,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -10643,7 +9437,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -10652,7 +9445,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -10661,7 +9453,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -10670,7 +9461,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -10679,7 +9469,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -10688,7 +9477,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -10697,7 +9485,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10706,7 +9493,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10715,7 +9501,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10724,7 +9509,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10733,7 +9517,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10742,7 +9525,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10751,7 +9533,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10760,7 +9541,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10769,7 +9549,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10778,7 +9557,6 @@ export const data = [
     "Condition": "CGC 9.8",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 129
   },
   {
@@ -10787,7 +9565,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10796,7 +9573,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "1986 Movie",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -10805,7 +9581,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "A-Bomb C/Story",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -10814,7 +9589,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -10823,7 +9597,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -10832,7 +9605,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -10841,7 +9613,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "Toth Art",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -10850,7 +9621,6 @@ export const data = [
     "Condition": "PGX 5.0",
     "Website Notes": "Scarce",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -10859,7 +9629,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -10868,7 +9637,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -10877,7 +9645,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -10886,7 +9653,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -10895,7 +9661,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -10904,7 +9669,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -10913,7 +9677,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 300
   },
   {
@@ -10922,7 +9685,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -10931,7 +9693,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Romance",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -10940,7 +9701,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Jonah Hex",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -10949,7 +9709,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10958,7 +9717,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10967,7 +9725,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10976,7 +9733,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -10985,7 +9741,6 @@ export const data = [
     "Condition": "P",
     "Website Notes": "Coverless",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -10994,7 +9749,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -11003,7 +9757,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11012,7 +9765,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11021,7 +9773,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11030,7 +9781,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11039,7 +9789,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11048,7 +9797,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11057,7 +9805,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11066,7 +9813,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11075,7 +9821,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": 1964,
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -11084,7 +9829,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": 1964,
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -11093,7 +9837,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -11102,7 +9845,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 40
   },
   {
@@ -11111,7 +9853,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -11120,7 +9861,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11129,7 +9869,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11138,7 +9877,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11147,7 +9885,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11156,7 +9893,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -11165,7 +9901,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11174,16 +9909,14 @@ export const data = [
     "Condition": "CGC 9.4",
     "Website Notes": "1st Black Adam",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 275
   },
   {
     "Title": "Shazam (1987)",
-    "Issue #": 43834,
+    "Issue #": "1-4",
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11192,7 +9925,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 3
   },
   {
@@ -11201,7 +9933,6 @@ export const data = [
     "Condition": "CGC 6.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 850
   },
   {
@@ -11210,7 +9941,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Frogmen",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 125
   },
   {
@@ -11219,7 +9949,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "1st SA Atom",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 125
   },
   {
@@ -11228,7 +9957,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Restored",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 125
   },
   {
@@ -11237,7 +9965,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 40
   },
   {
@@ -11246,7 +9973,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -11255,7 +9981,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 67
   },
   {
@@ -11264,7 +9989,6 @@ export const data = [
     "Condition": "coverless",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11273,7 +9997,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Metal Men",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -11282,7 +10005,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -11291,7 +10013,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11300,7 +10021,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -11309,7 +10029,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Dr No",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 185
   },
   {
@@ -11318,7 +10037,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Sgt Rock",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 68
   },
   {
@@ -11327,7 +10045,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -11336,7 +10053,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -11345,7 +10061,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 185
   },
   {
@@ -11354,7 +10069,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -11363,7 +10077,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 120
   },
   {
@@ -11372,7 +10085,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Enemy Ace",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 145
   },
   {
@@ -11381,7 +10093,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "Enemy Ace",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -11390,7 +10101,6 @@ export const data = [
     "Condition": "CGC 9.2",
     "Website Notes": "Teen Titans",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 450
   },
   {
@@ -11399,7 +10109,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Teen Titans",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 100
   },
   {
@@ -11408,7 +10117,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "Teen Titans",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -11417,7 +10125,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Spectre",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -11426,7 +10133,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Spectre",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -11435,7 +10141,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Inferior Five",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11444,7 +10149,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Creeper",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 78
   },
   {
@@ -11453,7 +10157,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Anthro",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -11462,7 +10165,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -11471,7 +10173,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Jonny Double",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -11480,7 +10181,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Dolphin",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 200
   },
   {
@@ -11489,7 +10189,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Dolphin",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 200
   },
   {
@@ -11498,7 +10197,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "Dolphin",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -11507,7 +10205,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Phantom Stranger",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 150
   },
   {
@@ -11516,7 +10213,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "Windy and Willy",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -11525,7 +10221,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11534,7 +10229,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Power Girl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11543,7 +10237,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Action Comics 252",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11552,7 +10245,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Adventure Comics 247",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11561,7 +10253,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Brave and the Bold 28",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11570,7 +10261,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Green Lantern 76",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11579,7 +10269,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Showcase 4",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11588,7 +10277,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Showcase 22",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -11597,7 +10285,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -11606,7 +10293,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 40
   },
   {
@@ -11615,7 +10301,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -11624,7 +10309,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -11633,7 +10317,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 150
   },
   {
@@ -11642,7 +10325,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 150
   },
   {
@@ -11651,7 +10333,6 @@ export const data = [
     "Condition": "P",
     "Website Notes": "Missing Centerfold",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -11660,7 +10341,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 200
   },
   {
@@ -11669,7 +10349,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -11678,7 +10357,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -11687,7 +10365,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -11696,7 +10373,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 400
   },
   {
@@ -11705,7 +10381,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -11714,7 +10389,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 125
   },
   {
@@ -11723,7 +10397,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11732,7 +10405,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11741,7 +10413,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11750,7 +10421,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11759,7 +10429,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11768,7 +10437,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11777,7 +10445,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11786,7 +10453,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11795,7 +10461,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11804,7 +10469,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11813,7 +10477,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -11822,7 +10485,6 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "1st Grey Tone C",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11831,7 +10493,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11840,7 +10501,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11849,7 +10509,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11858,7 +10517,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11867,7 +10525,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Talking Helmet",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -11876,7 +10533,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11885,7 +10541,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11894,7 +10549,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11903,7 +10557,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11912,7 +10565,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11921,7 +10573,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11930,7 +10581,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11939,7 +10589,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11948,7 +10597,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11957,7 +10605,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11966,7 +10613,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Marie",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 150
   },
   {
@@ -11975,7 +10621,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11984,7 +10629,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -11993,7 +10637,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Ghost Ace",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -12002,7 +10645,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Restored",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12011,7 +10653,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12020,7 +10661,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "C Touch",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12029,7 +10669,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12038,7 +10677,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12047,7 +10685,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12056,7 +10693,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12065,7 +10701,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12074,7 +10709,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12083,7 +10717,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12092,7 +10725,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12101,7 +10733,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -12110,7 +10741,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -12119,7 +10749,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -12128,7 +10757,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -12137,7 +10765,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": 1985,
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -12146,7 +10773,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Classic Cvr",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 285
   },
   {
@@ -12155,7 +10781,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12164,7 +10789,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12173,7 +10797,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12182,7 +10805,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12191,7 +10813,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Classic Snowman Cvr",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -12200,7 +10821,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12209,7 +10829,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12218,7 +10837,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12227,7 +10845,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12236,7 +10853,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12245,16 +10861,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
-    "Cost Basis": 25
-  },
-  {
-    "Title": "Strange Adventures",
-    "Issue #": 123,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12263,8 +10869,15 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "1st Atomic Knights",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 175
+  },
+  {
+    "Title": "Strange Adventures",
+    "Issue #": 123,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25
   },
   {
     "Title": "Strange Adventures",
@@ -12272,7 +10885,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "1st Faceless Creature",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -12281,7 +10893,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -12290,7 +10901,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -12299,7 +10909,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -12308,7 +10917,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "1st Animal Man",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 200
   },
   {
@@ -12317,7 +10925,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "1st Animal Man",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -12326,7 +10933,6 @@ export const data = [
     "Condition": "CGC 7.5",
     "Website Notes": "1st Animal Man",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 500
   },
   {
@@ -12335,7 +10941,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Gorilla Witch",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -12344,7 +10949,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st A-Man in Costume",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -12353,7 +10957,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "2nd Enchantress",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -12362,7 +10965,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Animal Man",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -12371,7 +10973,6 @@ export const data = [
     "Condition": "CGC 8.5",
     "Website Notes": "1st Deadman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 585
   },
   {
@@ -12380,7 +10981,6 @@ export const data = [
     "Condition": "G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -12389,7 +10989,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -12398,7 +10997,6 @@ export const data = [
     "Condition": "CGC 9.4",
     "Website Notes": "Bethlehem",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 315
   },
   {
@@ -12407,7 +11005,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -12416,7 +11013,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -12425,7 +11021,6 @@ export const data = [
     "Condition": "CGC 9.4",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 300
   },
   {
@@ -12434,7 +11029,6 @@ export const data = [
     "Condition": "CGC 9.4",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 315
   },
   {
@@ -12443,7 +11037,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12452,7 +11045,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12461,7 +11053,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12470,7 +11061,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12479,7 +11069,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12488,7 +11077,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12497,7 +11085,6 @@ export const data = [
     "Condition": "V/NM",
     "Website Notes": "Deadman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12506,7 +11093,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12515,7 +11101,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12524,7 +11109,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12533,7 +11117,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -12542,7 +11125,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Adam Strange",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -12551,7 +11133,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -12560,7 +11141,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -12569,7 +11149,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -12578,7 +11157,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -12587,7 +11165,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Millenium Edition",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -12596,7 +11173,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12605,7 +11181,6 @@ export const data = [
     "Condition": "CGC 4.5",
     "Website Notes": "1st Bizarro",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 650
   },
   {
@@ -12614,7 +11189,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12623,7 +11197,6 @@ export const data = [
     "Condition": "CBCS 7.0",
     "Website Notes": "1st Mon El",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 325
   },
   {
@@ -12632,7 +11205,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st Mon El",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 150
   },
   {
@@ -12641,7 +11213,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "1st Mon El",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -12650,7 +11221,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 150
   },
   {
@@ -12659,7 +11229,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Intro Bee-Boy",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 19
   },
   {
@@ -12668,7 +11237,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "1st Aquaboy",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -12677,7 +11245,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -12686,7 +11253,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -12695,7 +11261,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -12704,7 +11269,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -12713,7 +11277,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -12722,7 +11285,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -12731,7 +11293,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Whitman Variant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 2
   },
   {
@@ -12740,7 +11301,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Whitman Variant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -12749,7 +11309,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Whitman Variant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -12758,7 +11317,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Whitman Variant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -12767,43 +11325,38 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
     "Title": "Super DC Giant",
-    "Issue #": "",
+    "Issue #": "S-17",
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 200
   },
   {
     "Title": "Super DC Giant",
-    "Issue #": "",
+    "Issue #": "S-17",
     "Condition": "CGC 5.5",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 105
   },
   {
     "Title": "Super DC Giant",
-    "Issue #": "",
+    "Issue #": "S-21",
     "Condition": "F/VF",
     "Website Notes": "Scarce",
-    "Personal Notes (Not on website)": 300,
-    "Publisher": "DC",
+    "Personal Notes (Not on website)": "",
     "Cost Basis": 200
   },
   {
     "Title": "Super DC Giant",
-    "Issue #": "",
+    "Issue #": "S-21",
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 125
   },
   {
@@ -12812,7 +11365,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Whitman Variant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -12821,7 +11373,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -12830,7 +11381,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12839,7 +11389,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12848,7 +11397,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Zatanna Cvr",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 3
   },
   {
@@ -12857,7 +11405,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12866,7 +11413,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12875,7 +11421,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12884,7 +11429,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -12893,7 +11437,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 125
   },
   {
@@ -12902,7 +11445,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "White Pages",
     "Personal Notes (Not on website)": "GA",
-    "Publisher": "DC",
     "Cost Basis": 100
   },
   {
@@ -12911,7 +11453,6 @@ export const data = [
     "Condition": "FA",
     "Website Notes": "Cpn Out",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -12920,7 +11461,6 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -12929,7 +11469,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "Luther Cover",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 185
   },
   {
@@ -12938,7 +11477,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Millenium Edition",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -12947,7 +11485,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 100
   },
   {
@@ -12956,7 +11493,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 100
   },
   {
@@ -12965,7 +11501,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 100
   },
   {
@@ -12974,7 +11509,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": 85,
-    "Publisher": "DC",
     "Cost Basis": 100
   },
   {
@@ -12983,7 +11517,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 100
   },
   {
@@ -12992,7 +11525,6 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "",
     "Personal Notes (Not on website)": 70,
-    "Publisher": "DC",
     "Cost Basis": 100
   },
   {
@@ -13001,7 +11533,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 100
   },
   {
@@ -13010,7 +11541,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Pizza Hut Giveaway",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -13019,7 +11549,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": 100,
-    "Publisher": "DC",
     "Cost Basis": 85
   },
   {
@@ -13028,7 +11557,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -13037,7 +11565,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -13046,7 +11573,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Pizza Hut Giveaway",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -13055,7 +11581,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": 100,
-    "Publisher": "DC",
     "Cost Basis": 65
   },
   {
@@ -13064,7 +11589,6 @@ export const data = [
     "Condition": "CBCS 4.0",
     "Website Notes": "Supergirl Proto",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 400
   },
   {
@@ -13073,17 +11597,7 @@ export const data = [
     "Condition": "CGC 3.5",
     "Website Notes": "Supergirl Proto",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 300
-  },
-  {
-    "Title": "Superman",
-    "Issue #": 123,
-    "Condition": "CGC 2.0",
-    "Website Notes": "Supergirl Proto",
-    "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
-    "Cost Basis": 180
   },
   {
     "Title": "Superman",
@@ -13091,7 +11605,6 @@ export const data = [
     "Condition": "CGC .5",
     "Website Notes": "3/4 Cover",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 40
   },
   {
@@ -13100,7 +11613,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Titano",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 125
   },
   {
@@ -13109,7 +11621,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": 125,
-    "Publisher": "DC",
     "Cost Basis": 100
   },
   {
@@ -13118,7 +11629,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": 80,
-    "Publisher": "DC",
     "Cost Basis": 60
   },
   {
@@ -13127,7 +11637,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Bizarro",
     "Personal Notes (Not on website)": 90,
-    "Publisher": "DC",
     "Cost Basis": 70
   },
   {
@@ -13136,7 +11645,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -13145,7 +11653,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -13154,7 +11661,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -13163,7 +11669,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -13172,7 +11677,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -13181,7 +11685,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -13190,7 +11693,6 @@ export const data = [
     "Condition": "GD",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13199,7 +11701,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -13208,7 +11709,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -13217,7 +11717,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": 200,
-    "Publisher": "DC",
     "Cost Basis": 180
   },
   {
@@ -13226,7 +11725,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -13235,7 +11733,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 45
   },
   {
@@ -13244,7 +11741,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -13253,7 +11749,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13262,7 +11757,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -13271,7 +11765,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": ""
   },
   {
@@ -13280,7 +11773,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": 200,
-    "Publisher": "DC",
     "Cost Basis": 180
   },
   {
@@ -13289,7 +11781,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 190
   },
   {
@@ -13298,7 +11789,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Millenium Edition",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -13307,7 +11797,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -13316,7 +11805,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13325,7 +11813,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13334,7 +11821,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13343,7 +11829,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13352,7 +11837,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13361,7 +11845,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13370,7 +11853,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13379,7 +11861,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13388,7 +11869,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13397,7 +11877,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13406,7 +11885,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13415,7 +11893,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13424,7 +11901,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13433,7 +11909,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13442,7 +11917,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13451,7 +11925,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13460,7 +11933,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Adams Cvr",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13469,7 +11941,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "Last Issue",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13478,7 +11949,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Bagged/Sealed",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13487,7 +11957,6 @@ export const data = [
     "Condition": "NM+",
     "Website Notes": "Doomsday",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -13496,7 +11965,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Platinum Sealed",
     "Personal Notes (Not on website)": 225,
-    "Publisher": "DC",
     "Cost Basis": 200
   },
   {
@@ -13505,7 +11973,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Regular Sealed",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -13514,7 +11981,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -13523,7 +11989,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "11th Legion App",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -13532,7 +11997,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -13541,7 +12005,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -13550,7 +12013,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "H. Quinn",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -13559,7 +12021,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -13568,7 +12029,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -13577,7 +12037,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -13586,7 +12045,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "slt ct",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 225
   },
   {
@@ -13595,7 +12053,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "1st SA Catwoman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 125
   },
   {
@@ -13604,7 +12061,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -13613,7 +12069,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Devil c",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -13622,7 +12077,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -13631,7 +12085,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -13640,7 +12093,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -13649,7 +12101,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -13658,7 +12109,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -13667,7 +12117,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -13676,7 +12125,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13685,7 +12133,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Kirby begins",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13694,7 +12141,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13703,7 +12149,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13712,7 +12157,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13721,7 +12165,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13730,7 +12173,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13739,7 +12181,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13748,7 +12189,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -13757,7 +12197,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -13766,7 +12205,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -13775,7 +12213,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -13784,7 +12221,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 200
   },
   {
@@ -13793,7 +12229,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -13802,7 +12237,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "1st Patchwork Man",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -13811,7 +12245,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -13820,7 +12253,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -13829,7 +12261,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -13838,7 +12269,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13847,7 +12277,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13856,7 +12285,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -13865,7 +12293,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13874,7 +12301,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13883,7 +12309,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13892,7 +12317,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13901,7 +12325,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13910,7 +12333,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "1st John Constatine",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 150
   },
   {
@@ -13919,7 +12341,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13928,7 +12349,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13937,7 +12357,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13946,7 +12365,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13955,7 +12373,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13964,7 +12381,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13973,7 +12389,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13982,7 +12397,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -13991,16 +12405,14 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
     "Title": "Tales of the Teen itans",
-    "Issue #": 43834,
+    "Issue #": "1-4",
     "Condition": "FN/VF",
     "Website Notes": "set",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14009,7 +12421,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14018,7 +12429,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "Grey Tone c",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -14027,7 +12437,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "Grey Tone c",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 55
   },
   {
@@ -14036,7 +12445,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 40
   },
   {
@@ -14045,7 +12453,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 40
   },
   {
@@ -14054,7 +12461,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Classic Cvr",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 175
   },
   {
@@ -14063,7 +12469,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14072,7 +12477,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -14081,7 +12485,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -14090,7 +12493,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -14099,7 +12501,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -14108,7 +12509,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -14117,7 +12517,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -14126,7 +12525,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14135,7 +12533,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14144,7 +12541,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14153,7 +12549,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "1st Wonder Girl",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14162,7 +12557,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14171,7 +12565,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14180,7 +12573,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14189,7 +12581,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14198,7 +12589,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14207,7 +12597,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14216,7 +12605,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14225,7 +12613,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14234,7 +12621,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14243,7 +12629,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "1st Harlequin",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14252,7 +12637,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14261,7 +12645,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14270,7 +12653,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14279,7 +12661,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14288,7 +12669,6 @@ export const data = [
     "Condition": "CGC 5.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 435
   },
   {
@@ -14297,7 +12677,6 @@ export const data = [
     "Condition": "VG+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14306,7 +12685,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14315,7 +12693,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14324,7 +12701,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14333,7 +12709,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14342,7 +12717,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14351,7 +12725,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14360,7 +12733,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14369,7 +12741,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14378,7 +12749,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14387,7 +12757,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14396,7 +12765,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14405,7 +12773,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14414,7 +12781,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14423,7 +12789,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -14432,7 +12797,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14441,7 +12805,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14450,7 +12813,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14459,7 +12821,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14468,7 +12829,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14477,7 +12837,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14486,7 +12845,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14495,7 +12853,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14504,7 +12861,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14513,7 +12869,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14522,7 +12877,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14531,7 +12885,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14540,7 +12893,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14549,7 +12901,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14558,7 +12909,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14567,7 +12917,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14576,7 +12925,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14585,7 +12933,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14594,7 +12941,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14603,7 +12949,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14612,7 +12957,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14621,7 +12965,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14630,7 +12973,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14639,7 +12981,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14648,7 +12989,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14657,7 +12997,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14666,7 +13005,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14675,7 +13013,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14684,7 +13021,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14693,7 +13029,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14702,7 +13037,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -14711,7 +13045,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 150
   },
   {
@@ -14720,7 +13053,6 @@ export const data = [
     "Condition": "CGC 7.5",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 115
   },
   {
@@ -14729,7 +13061,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -14738,7 +13069,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14747,7 +13077,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14756,7 +13085,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14765,7 +13093,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14774,7 +13101,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14783,7 +13109,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14792,7 +13117,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14801,7 +13125,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14810,7 +13133,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14819,7 +13141,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14828,7 +13149,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14837,7 +13157,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14846,7 +13165,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14855,7 +13173,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14864,7 +13181,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14873,7 +13189,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14882,7 +13197,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14891,7 +13205,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14900,7 +13213,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14909,7 +13221,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14918,7 +13229,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14927,7 +13237,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14936,7 +13245,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14945,7 +13253,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14954,7 +13261,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "1st Miller art",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14963,7 +13269,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "1st Miller art",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14972,7 +13277,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "2nd Miler",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14981,7 +13285,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "2nd Miller",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14990,7 +13293,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -14999,7 +13301,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15008,7 +13309,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15017,7 +13317,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15026,7 +13325,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15035,7 +13333,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15044,7 +13341,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15053,7 +13349,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15062,7 +13357,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -15071,7 +13365,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -15080,7 +13373,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 75
   },
   {
@@ -15089,7 +13381,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Wrightson",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15098,7 +13389,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15107,7 +13397,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Adams Toth",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15116,7 +13405,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15125,7 +13413,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Adams Toth",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15134,7 +13421,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Adams Toth",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15143,7 +13429,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Adams Toth",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15152,7 +13437,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Toth",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15161,7 +13445,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15170,7 +13453,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Adams Jones",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15179,7 +13461,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "2 avail",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15188,7 +13469,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15197,7 +13477,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15206,7 +13485,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15215,7 +13493,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15224,7 +13501,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15233,7 +13509,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15242,7 +13517,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15251,7 +13525,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15260,7 +13533,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "2 avail",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15269,7 +13541,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15278,7 +13549,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15287,7 +13557,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15296,7 +13565,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15305,7 +13573,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15314,7 +13581,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15323,7 +13589,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15332,7 +13597,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -15341,7 +13605,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -15350,7 +13613,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -15359,7 +13621,6 @@ export const data = [
     "Condition": "G-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -15368,7 +13629,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": 300,
-    "Publisher": "DC",
     "Cost Basis": 150
   },
   {
@@ -15377,7 +13637,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": 275,
-    "Publisher": "DC",
     "Cost Basis": 150
   },
   {
@@ -15386,7 +13645,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 150
   },
   {
@@ -15395,7 +13653,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -15404,7 +13661,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 185
   },
   {
@@ -15413,7 +13669,6 @@ export const data = [
     "Condition": "CGC 5.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 225
   },
   {
@@ -15422,7 +13677,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15431,7 +13685,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15440,7 +13693,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15449,7 +13701,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15458,7 +13709,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 40
   },
   {
@@ -15467,7 +13717,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -15476,7 +13725,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -15485,7 +13733,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -15494,7 +13741,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15503,7 +13749,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Catwoman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15512,7 +13757,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Catwoman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15521,7 +13765,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "Catwoman",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15530,7 +13773,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15539,7 +13781,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "1st Nubia",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -15548,7 +13789,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "2nd Nubia",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15557,7 +13797,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Origin  Nubia",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -15566,7 +13805,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15575,7 +13813,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -15584,7 +13821,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -15593,7 +13829,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -15602,7 +13837,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -15611,7 +13845,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -15620,7 +13853,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15629,7 +13861,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 20
   },
   {
@@ -15638,7 +13869,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Cheetah",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15647,7 +13877,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -15656,7 +13885,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -15665,7 +13893,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -15674,7 +13901,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Polybagged",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 5
   },
   {
@@ -15683,7 +13909,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": 450,
-    "Publisher": "DC",
     "Cost Basis": 450
   },
   {
@@ -15692,7 +13917,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -15701,7 +13925,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": 50,
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15710,7 +13933,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "1st Clock King",
     "Personal Notes (Not on website)": 170,
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15719,7 +13941,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": 90,
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15728,7 +13949,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": 75,
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15737,7 +13957,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": 90,
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15746,7 +13965,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Clayface",
     "Personal Notes (Not on website)": 90,
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15755,7 +13973,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15764,7 +13981,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15773,7 +13989,6 @@ export const data = [
     "Condition": "CGC 8.5",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 150
   },
   {
@@ -15782,7 +13997,6 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15791,7 +14005,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15800,7 +14013,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15809,7 +14021,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15818,7 +14029,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15827,7 +14037,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15836,7 +14045,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15845,7 +14053,6 @@ export const data = [
     "Condition": "CGC 8.5",
     "Website Notes": "Two Face",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 100
   },
   {
@@ -15854,7 +14061,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15863,7 +14069,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15872,7 +14077,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15881,7 +14085,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Joker c/s",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15890,7 +14093,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15899,7 +14101,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Sup/Flash race",
     "Personal Notes (Not on website)": "3 avail",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15908,7 +14109,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Sup/Flash race",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15917,7 +14117,6 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Sup/Flash race",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15926,7 +14125,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Sup/Flash race",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 25
   },
   {
@@ -15935,7 +14133,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Sup/Flash race",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -15944,7 +14141,6 @@ export const data = [
     "Condition": "VF-",
     "Website Notes": "Sup/Flash race",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -15953,7 +14149,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -15962,7 +14157,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -15971,7 +14165,6 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -15980,7 +14173,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "Romance",
-    "Publisher": "DC",
     "Cost Basis": 50
   },
   {
@@ -15989,7 +14181,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "Romance",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -15998,7 +14189,6 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "Romance",
-    "Publisher": "DC",
     "Cost Basis": 30
   },
   {
@@ -16007,7 +14197,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Romance",
-    "Publisher": "DC",
     "Cost Basis": 10
   },
   {
@@ -16016,7 +14205,6 @@ export const data = [
     "Condition": "CGC 9.2",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "2 avail",
-    "Publisher": "DC",
     "Cost Basis": 35
   },
   {
@@ -16025,7 +14213,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Romance",
-    "Publisher": "DC",
     "Cost Basis": 15
   },
   {
@@ -16034,7 +14221,6 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "Romance",
-    "Publisher": "DC",
     "Cost Basis": 15
   }
 ];
