@@ -89,7 +89,7 @@ export const data = [
   },
   {
     "Title": "Creepy",
-    "Issue #": "",
+    "Issue #": "1969 Annual",
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
@@ -97,7 +97,7 @@ export const data = [
   },
   {
     "Title": "Creepy",
-    "Issue #": "",
+    "Issue #": "1970 Annual",
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
@@ -105,7 +105,7 @@ export const data = [
   },
   {
     "Title": "Creepy",
-    "Issue #": "",
+    "Issue #": "1971 Annual",
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
