@@ -1,4 +1,4 @@
-export const data = [
+export const data=[
   {
     "Title": "Beetle Bailey",
     "Issue #": 49,
@@ -313,7 +313,7 @@ export const data = [
   },
   {
     "Title": "Yellow Submarine Beatles",
-    "Issue #": "",
+    "Issue #": "NN",
     "Condition": "CGC 9.2",
     "Website Notes": "W/Poster",
     "Personal Notes (Not on website)": "",
@@ -321,7 +321,7 @@ export const data = [
   },
   {
     "Title": "Yellow Submarine Beatles",
-    "Issue #": "",
+    "Issue #": "NN",
     "Condition": "CBCS 7.5",
     "Website Notes": "W/Poster",
     "Personal Notes (Not on website)": "",

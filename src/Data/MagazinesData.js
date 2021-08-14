@@ -1,4 +1,4 @@
-export const data = [
+export const data=[
   {
     "Title": "Alter Ego",
     "Issue #": 6,
@@ -185,7 +185,7 @@ export const data = [
   },
   {
     "Title": "Eerie",
-    "Issue #": "",
+    "Issue #": "1971 Annual",
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
@@ -553,7 +553,7 @@ export const data = [
   },
   {
     "Title": "Tales From the Tomb",
-    "Issue #": "",
+    "Issue #": "V4#4",
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
@@ -737,7 +737,7 @@ export const data = [
   },
   {
     "Title": "Vampirella Special",
-    "Issue #": "",
+    "Issue #": "NM-",
     "Condition": "",
     "Website Notes": 1977,
     "Personal Notes (Not on website)": "Warren",

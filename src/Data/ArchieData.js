@@ -33,7 +33,7 @@ export const data = [
   },
   {
     "Title": "Adventure With the Brothers",
-    "Issue #": "",
+    "Issue #": "Cult Escape",
     "Condition": "VF",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
@@ -41,7 +41,7 @@ export const data = [
   },
   {
     "Title": "Adventure With the Brothers",
-    "Issue #": "",
+    "Issue #": "Smashing Smugglers Ring",
     "Condition": "VF",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
@@ -193,7 +193,7 @@ export const data = [
   },
   {
     "Title": "Archie Meets Kiss",
-    "Issue #": "",
+    "Issue #": "627-630",
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
