@@ -202,7 +202,7 @@ export const data=[
     "Issue #": 12,
     "Condition": "NM-",
     "Website Notes": "Stevens M. Monroe C",
-    "Personal Notes (Not on website)": "Eclipse 2 avail",
+    "Personal Notes (Not on website)": "Eclipse",
     "Cost Basis": 10,
     "": "",
     "__1": "",
@@ -1321,17 +1321,6 @@ export const data=[
   },
   {
     "Title": "Teen Age Mutant Ninja Turtles",
-    "Issue #": 2,
-    "Condition": "VF",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Mirage",
-    "Cost Basis": 150,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Teen Age Mutant Ninja Turtles",
     "Issue #": 10,
     "Condition": "NM",
     "Website Notes": "3rd Print",
@@ -1550,4 +1539,4 @@ export const data=[
     "__1": "",
     "__2": ""
   }
-];
+]
