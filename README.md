@@ -3,9 +3,9 @@
 A website for a small business to buy/sell comics, and interact with their customers. Built on React.
 
 ## Design + Project Screenshot
-![image](readme_desktop_landing.png)
-![image](readme_mobile_carousel.png)
-![image](readme_mobile_landing.png)
+<img src = "readme_desktop_landing.png"/>
+<img src = "readme_mobile_landing.png" height = "600px" width = "275px"/>
+<img src = "readme_mobile_carousel.png" height = "600px" width = "275px"/>
 
 This website was designed to adhere to be mobile-first design techniques, with emphasized ease on small mobile devices.  I used media queries, relative units in the specification of sizes, and other responsive web design tools in order to make the website as friendly to all devices as possible. Above, I have included two pictures displaying the mobile landing page and one displaying the dekstop landing.
 
