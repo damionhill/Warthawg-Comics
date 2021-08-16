@@ -13769,30 +13769,6 @@ export const data=[
   },
   {
     "Title": "Wonder Woman",
-    "Issue #": 202,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
-  },
-  {
-    "Title": "Wonder Woman",
-    "Issue #": 204,
-    "Condition": "FN-",
-    "Website Notes": "1st Nubia",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 30
-  },
-  {
-    "Title": "Wonder Woman",
-    "Issue #": 205,
-    "Condition": "VF+",
-    "Website Notes": "2nd Nubia",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
-  },
-  {
-    "Title": "Wonder Woman",
     "Issue #": 206,
     "Condition": "VF/NM",
     "Website Notes": "Origin  Nubia",

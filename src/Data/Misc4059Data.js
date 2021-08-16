@@ -1304,14 +1304,6 @@ export const data=[
     "Cost Basis": 180
   },
   {
-    "Title": "Catman Comcs",
-    "Issue #": 32,
-    "Condition": "G/VG",
-    "Website Notes": "LB Cole Cover",
-    "Personal Notes (Not on website)": "Holyoke",
-    "Cost Basis": 650
-  },
-  {
     "Title": "Cave Girl",
     "Issue #": 12,
     "Condition": "G",
@@ -5143,4 +5135,4 @@ export const data=[
     "Personal Notes (Not on website)": "Fox",
     "Cost Basis": 125
   }
-];
+]
