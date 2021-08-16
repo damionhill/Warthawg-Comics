@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# Warthawg Comics - www.warthawgcomics.com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A website for a small business to buy/sell comics, and interact with their customers. Built with HTML and CSS.
 
-## Available Scripts
+## Design + Project Screenshot
+![www.warthawgcomics.com Homepage](README_picture.png)
 
-In the project directory, you can run:
+This website was designed to adhere to be mobile-first design techniques, with emphasized ease on small mobile devices.  I used media queries, relative units in the specification of sizes, and other responsive web deisng tools in order to make the website as friendly to all devices as possible
 
-### `npm start`
+## Reflection
+Project goals included learning and familiarizing myself with both HTML and CSS as well as the process of front-end web design.  The goals I was given from the business included straightforward navigation, ease in adding/removing comics from the catalog, and encouraging customer interaction.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+I originally wanted to build a website where the business owner could most efficiently keep their catalog updated by editing the Publisher files (Marvel, DC, Romance, etc), with minimum knowledge of web development on their part. I chose to implement this by keeping the Publisher files as simply organized as possible, specifically by using CSS Flexbox and having a clear, cohesive format across all  site files.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This project was challenging for me because I was in the process of teaching myself HTML and CSS while I was building the site. The website underwent multiple versions as I became more proficient with these languages.  CSS Flexbox has been implemented in the latest (most current) version of the site.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Progress
+As mentioned above, this website is constantly being updated and changed according to the business owner's current catalog and comic events.  Future goals include teaching myself JavaScript so that the website can have a friendlier user interaction; examples of this include animation, a "checkout" cart, and smoother scrolling. Additionally, as the catalog grows, I would like to create multiple pages for each publisher instead of one. This would be to decrease the site load time, and create a faster user experience.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing
+This website is currently a personal project, and is not looking for any other contributors.
