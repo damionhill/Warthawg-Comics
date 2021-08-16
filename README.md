@@ -1,4 +1,4 @@
-# Warthawg Comics - www.warthawgcomics.com
+# Warthawg Comics - https://www.warthawgcomics.com
 
 A website for a small business to buy/sell comics, and interact with their customers. Built on React.
 
