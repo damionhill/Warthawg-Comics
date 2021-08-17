@@ -44,3 +44,12 @@ Pushing to Github: (do this so I can also have access to your changes and so tha
 - Write a comment describing the changes. Submit the request. 
 - After this, there's nothing left for you to do. I will review the code and then accept the request.
 
+Pulling from Github: (If I ever make changes and you need to pull them from the repository)
+- At the top bar, click "terminal"
+- Click "new terminal"
+- Copy and paste this command into the terminal at the bottom: git fetch upstream main 
+- Copy and paste this command into the terminal at the bottom: git pull upstream main 
+
+
+
+
