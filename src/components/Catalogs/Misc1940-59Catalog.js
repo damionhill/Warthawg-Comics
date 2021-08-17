@@ -89,7 +89,7 @@ const Misc4059Catalog = () => {
 
   return (
     <DataTableExtensions {...tableData} filterPlaceholder = "Search catalog by series title... ex: &quot;Archie&quot;" export = {false} print = {false} >
-        <DataTable className = 'Table'  responsive pagination customStyles = {setStyle()} theme = 'WHC' />
+        <DataTable className = 'Table'  responsive pagination paginationRowsPerPageOptions = {[10, 30, 50, 100, 200, 500]}customStyles = {setStyle()} theme = 'WHC' />
     </DataTableExtensions>
   );
 
