@@ -3065,6 +3065,14 @@ export const data=[
   },
   {
     "Title": "Brave and the Bold",
+    "Issue #": 63,
+    "Condition": "F/VF",
+    "Website Notes": "W. Woman",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 30
+  },
+  {
+    "Title": "Brave and the Bold",
     "Issue #": 64,
     "Condition": "GD+",
     "Website Notes": "",
@@ -3097,6 +3105,30 @@ export const data=[
   },
   {
     "Title": "Brave and the Bold",
+    "Issue #": 78,
+    "Condition": "VF",
+    "Website Notes": "W.Woman",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40
+  },
+  {
+    "Title": "Brave and the Bold",
+    "Issue #": 84,
+    "Condition": "F/VF",
+    "Website Notes": "Sgt Rock",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10
+  },
+  {
+    "Title": "Brave and the Bold",
+    "Issue #": 87,
+    "Condition": "VF",
+    "Website Notes": "W.Woman",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25
+  },
+  {
+    "Title": "Brave and the Bold",
     "Issue #": 87,
     "Condition": "FN",
     "Website Notes": "W.Woman",
@@ -3108,7 +3140,7 @@ export const data=[
     "Issue #": 93,
     "Condition": "F/VF",
     "Website Notes": "Adams Art",
-    "Personal Notes (Not on website)": "",
+    "Personal Notes (Not on website)": "2 avail",
     "Cost Basis": 35
   },
   {
@@ -3518,6 +3550,14 @@ export const data=[
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5
+  },
+  {
+    "Title": "Demon (1972)",
+    "Issue #": 1,
+    "Condition": "VG+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20
   },
   {
     "Title": "Demon (1972)",
@@ -5048,6 +5088,14 @@ export const data=[
     "Cost Basis": 75
   },
   {
+    "Title": "Flash",
+    "Issue #": 323,
+    "Condition": "NM-",
+    "Website Notes": "Flash vs Flash",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20
+  },
+  {
     "Title": "Flash (1987)",
     "Issue #": 197,
     "Condition": "NM",
@@ -5502,6 +5550,14 @@ export const data=[
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 65
+  },
+  {
+    "Title": "G.I. Combat",
+    "Issue #": 71,
+    "Condition": "VG-",
+    "Website Notes": "Classic Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10
   },
   {
     "Title": "G.I. Combat",
@@ -9854,6 +9910,14 @@ export const data=[
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
     "Cost Basis": 35
+  },
+  {
+    "Title": "Shazam (1973)",
+    "Issue #": 1,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20
   },
   {
     "Title": "Shazam (1973)",
