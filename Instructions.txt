@@ -22,20 +22,20 @@ Updating Event Data:
 Building Website:
 - At the top bar, click "terminal"
 - Click "new terminal"
-- Copy and paste this command into the terminal at the bottom: npm run build
+- Copy and paste this command into the terminal at the bottom: 'npm run build' then enter
 - This creates the new build folder that gets uploaded to filezilla
 - Uploading to Filezilla instructions are next step
 
 
 Uploading to Filezilla:
 - Upload the contents of the build folder, making sure not to upload the folder itself
-- Confirm that the .htaccess file is in the static folder
+- Confirm that the .htaccess file is uploaded in the righ side (static folder)
 - Pushing to GitHub instructions is next step
 
 
 Pushing to Github: (do this so I can also have access to your changes and so that the most current version of the site is stored online)
-- The source control tab is the is the one that looks like little branches with circles. Click on it. 
-- First, stage the changes by clicking the "changes" dropdown then hitting the plus sign ("stage all changes") and then hit enter.
+- The source control tab is the one that looks like little branches with circles. Click on it. 
+- First, stage the changes by clicking the "source ontrol" dropdown then hitting the plus sign ("stage all changes") and then hit enter.
 - Next, create a commit. The changes should move to the "staged changes" dropdown. Above that in another heading, click the checkmark to commit.
 - Add a message describing your changes then hit enter.
 - Push to github. Do this by hitting the up arrow in the "source control" header. Make sure "push to origin" is higlighted. Hit enter.
@@ -47,8 +47,8 @@ Pushing to Github: (do this so I can also have access to your changes and so tha
 Pulling from Github: (If I ever make changes and you need to pull them from the repository)
 - At the top bar, click "terminal"
 - Click "new terminal"
-- Copy and paste this command into the terminal at the bottom: git fetch upstream main 
-- Copy and paste this command into the terminal at the bottom: git pull upstream main 
+- Copy and paste this command into the terminal at the bottom: 'git fetch upstream main' then enter
+- Copy and paste this command into the terminal at the bottom: 'git pull upstream main' then enter
 
 
 

@@ -337,6 +337,14 @@ export const data=[
   },
   {
     "Title": "Death Rattle",
+    "Issue #": "V2#1",
+    "Condition": "NM",
+    "Website Notes": "Corben",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 2
+  },
+  {
+    "Title": "Death Rattle",
     "Issue #": 2,
     "Condition": "FN",
     "Website Notes": "1st Print",
@@ -345,11 +353,35 @@ export const data=[
   },
   {
     "Title": "Death Rattle",
-    "Issue #": 16,
+    "Issue #": 3,
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 2
+  },
+  {
+    "Title": "Death Rattle",
+    "Issue #": 5,
+    "Condition": "NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 2
+  },
+  {
+    "Title": "Death Rattle",
+    "Issue #": 16,
+    "Condition": "NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Kitchen Sink 2 avail",
     "Cost Basis": ""
+  },
+  {
+    "Title": "Death Rattle (1995)",
+    "Issue #": "V3#1",
+    "Condition": "NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 1
   },
   {
     "Title": "Demented Pervert",
@@ -1110,6 +1142,30 @@ export const data=[
     "Website Notes": "Crumb 1st Print",
     "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": 5
+  },
+  {
+    "Title": "Son of Mutant World",
+    "Issue #": 1,
+    "Condition": "NM",
+    "Website Notes": "Corben",
+    "Personal Notes (Not on website)": "Fantagraphics",
+    "Cost Basis": 2
+  },
+  {
+    "Title": "Son of Mutant World",
+    "Issue #": 2,
+    "Condition": "NM",
+    "Website Notes": "Corben",
+    "Personal Notes (Not on website)": "Fantagraphics",
+    "Cost Basis": 2
+  },
+  {
+    "Title": "Son of Mutant World",
+    "Issue #": 3,
+    "Condition": "NM",
+    "Website Notes": "Corben",
+    "Personal Notes (Not on website)": "Fantagraphics",
+    "Cost Basis": 2
   },
   {
     "Title": "Spaced Out",
