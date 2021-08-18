@@ -10,7 +10,7 @@ function GKW(){
 
  return(
     <>
-        <Info header = 'GKW'  />   
+        <Info header = 'Gold Key/Whitman'  />   
         <GKWCatalog/> 
     </>
 
