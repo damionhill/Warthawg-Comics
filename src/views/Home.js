@@ -2,8 +2,9 @@ import React from 'react';
 import { Info } from '../components/Info.js';
 import ImageSlider from '../components/ImageSlider.js';
 import '../App.css'
-import { SliderData } from '../Data/SliderData';
+import {DesktopImageData} from '../Data/DekstopImageData.js'
 import HomeGallery from '../components/HomeGallery';
+import { SliderData } from '../Data/SliderData.js';
 
 
 function Home()
@@ -15,7 +16,7 @@ function Home()
     <div className= "home-wrapper">
 
         <div className = "gallery-wrapper">
-            <HomeGallery id = "left-column" className="column" slides = {SliderData.slice(0, SliderData.length/2)} />
+            <HomeGallery id = "left-column" className="column" slides = {DesktopImageData.slice(0, DesktopImageData.length/2)} />
         </div>
 
         <div id = "middle-column" className="column">
@@ -37,7 +38,7 @@ function Home()
         </div>
 
         <div className = "gallery-wrapper">
-            <HomeGallery id = "left-column" className="column" slides = {SliderData.slice(SliderData.length/2, SliderData.length)} />
+            <HomeGallery id = "left-column" className="column" slides = {DesktopImageData.slice(DesktopImageData.length/2, DesktopImageData.length)} />
         </div>
 
 

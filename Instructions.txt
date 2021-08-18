@@ -53,5 +53,36 @@ Pulling from Github: (If I ever make changes and you need to pull them from the 
 - Copy and paste this command into the terminal at the bottom: 'git pull upstream main' then enter
 
 
+Add Photos To Mobile Version Image Carousel:
+- First, email yourself the photo and download it.
+- In your file explorer, move the image to WarthawgComics -> src -> Gallery Images
+- In VSCode, open the src -> Gallery Images folder
+- The image will be named something weird. Rename it with the naming scheme of the other images. So if there's ten images, rename it
+"Gallery11.jpg" etc.
+- Navigate to the SliderData.js" file. Src folder -> Data folder -> SliderData.js
+- At the top, import the image like all the others. so type "import image# from "../Gallery Images/Gallery#.jpg" "
+- After the last } bracket but before the final ] bracket, copy one of the other images - meaning, copy all of " { image: image}, "
+making sure to include the comma
+- Replace the image# after the colon with whatever you imported at the top
+- CTRL + S to save
+
+Replace one of the 6 Displayed Desktop Home Images:
+- If you already have the image on your mobile image carousel, skip the next few steps where you put the image in the Gallery Images
+folder and rename it. Otherwise, follow the next few steps.
+- First, email yourself the photo and download it.
+- In your file explorer, move the image to WarthawgComics -> src -> Gallery Images
+- In VSCode, open the src -> Gallery Images folder
+- The image will be named something weird. Rename it with the naming scheme of the other images. So if there's ten images, rename it
+"Gallery11.jpg" etc.
+- Navigate to the DesktopImageData.js file. src -> Data -> DesktopImageData.js
+- You will be replacing one of the existing images with the new one.
+- Rename one of the import statements at the top to be whatever you named the image in the Gallery Images folder
+- Replace one of the images that are already between the [] with the new one. Do this by renaming image:image# inside the {} brackets,
+where the # is the new image number you are putting it and you are overwriting the old image you want to get rid of
+- CTRL + S to save
+
+
+
+
 
 
