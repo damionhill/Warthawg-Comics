@@ -14,7 +14,8 @@ Updating Catalog Data:
 
 
 Updating Event Data:
-- Copy the commented out template and fill in the new event's info
+- Open src -> views -> Events.js
+- To add an event, copy the commented out template and fill in the new event's info
 - CTRL + S to save
 - Building Website instructions are next step
 
@@ -23,22 +24,23 @@ Building Website:
 - At the top bar, click "terminal"
 - Click "new terminal"
 - Copy and paste this command into the terminal at the bottom: 'npm run build' then enter
+- The command is done running when you see "The build folder is ready to be deployed"
 - This creates the new build folder that gets uploaded to filezilla
 - Uploading to Filezilla instructions are next step
 
 
 Uploading to Filezilla:
 - Upload the contents of the build folder, making sure not to upload the folder itself
-- Confirm that the .htaccess file is uploaded in the righ side (static folder)
+- Confirm that the .htaccess file is uploaded in the right side (static folder)
 - Pushing to GitHub instructions is next step
 
 
 Pushing to Github: (do this so I can also have access to your changes and so that the most current version of the site is stored online)
 - The source control tab is the one that looks like little branches with circles. Click on it. 
-- First, stage the changes by clicking the "source ontrol" dropdown then hitting the plus sign ("stage all changes") and then hit enter.
+- First, stage the changes by clicking the "source control" dropdown then hitting the plus sign ("stage all changes") and then hit enter.
 - Next, create a commit. The changes should move to the "staged changes" dropdown. Above that in another heading, click the checkmark to commit.
 - Add a message describing your changes then hit enter.
-- Push to github. Do this by hitting the up arrow in the "source control" header. Make sure "push to origin" is higlighted. Hit enter.
+- Push to github. Do this by first opening the "commits" dropdown then hitting the up arrow. Make sure "push to origin" is higlighted. Hit enter.
 - Finally, create a pull request on github.com. Open the github website and go to WarthawgComics by Damion Hill. (should be what I have bookmarked)
 - In the header, click "pull requests." Select the green button that says "new pull request"
 - Write a comment describing the changes. Submit the request. 

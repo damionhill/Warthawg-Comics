@@ -326,6 +326,15 @@ export const data=[
   {
     "Title": "Amazing Spider-Man",
     "Issue #": 7,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 500,
+    "": ""
+  },
+  {
+    "Title": "Amazing Spider-Man",
+    "Issue #": 7,
     "Condition": "CGC 5.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
@@ -676,10 +685,19 @@ export const data=[
   },
   {
     "Title": "Amazing Spider-Man",
-    "Issue #": 34,
+    "Issue #": 33,
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": ""
+  },
+  {
+    "Title": "Amazing Spider-Man",
+    "Issue #": 34,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "two avail",
     "Cost Basis": 55,
     "": ""
   },
@@ -724,7 +742,7 @@ export const data=[
     "Issue #": 37,
     "Condition": "VG/F",
     "Website Notes": "Robot Cvr",
-    "Personal Notes (Not on website)": "",
+    "Personal Notes (Not on website)": "two avail",
     "Cost Basis": 115,
     "": ""
   },
@@ -821,6 +839,15 @@ export const data=[
   {
     "Title": "Amazing Spider-Man",
     "Issue #": 42,
+    "Condition": "VG/F",
+    "Website Notes": "MJ Face shown",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 75,
+    "": ""
+  },
+  {
+    "Title": "Amazing Spider-Man",
+    "Issue #": 42,
     "Condition": "VG",
     "Website Notes": "MJ Face shown",
     "Personal Notes (Not on website)": "",
@@ -843,6 +870,15 @@ export const data=[
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 22,
+    "": ""
+  },
+  {
+    "Title": "Amazing Spider-Man",
+    "Issue #": 46,
+    "Condition": "FN+",
+    "Website Notes": "1st Shocker",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 350,
     "": ""
   },
   {
@@ -12147,6 +12183,15 @@ export const data=[
     "Website Notes": "Wolverine",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 220,
+    "": ""
+  },
+  {
+    "Title": "Incredible Hulk",
+    "Issue #": 340,
+    "Condition": "VG/F",
+    "Website Notes": "Newstand",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
     "": ""
   },
   {
