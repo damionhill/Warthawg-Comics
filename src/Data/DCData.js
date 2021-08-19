@@ -5507,8 +5507,8 @@ export const data=[
     "Title": "G.I. Combat",
     "Issue #": 54,
     "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
+    "Website Notes": "Classic Cvr",
+    "Personal Notes (Not on website)": "two avail",
     "Cost Basis": 65
   },
   {
@@ -6105,14 +6105,6 @@ export const data=[
   },
   {
     "Title": "Green Lantern",
-    "Issue #": 87,
-    "Condition": "CGC 9.4",
-    "Website Notes": "1st John Stewart",
-    "Personal Notes (Not on website)": "2 avail",
-    "Cost Basis": 1000
-  },
-  {
-    "Title": "Green Lantern",
     "Issue #": 88,
     "Condition": "VF/NM",
     "Website Notes": "",
@@ -6238,14 +6230,6 @@ export const data=[
     "Website Notes": "1st Zatanna",
     "Personal Notes (Not on website)": "Pence stamp",
     "Cost Basis": 1025
-  },
-  {
-    "Title": "Hawkman",
-    "Issue #": 4,
-    "Condition": "CGC 7.5",
-    "Website Notes": "1st Zatanna",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 1350
   },
   {
     "Title": "Hawkman",
@@ -8854,22 +8838,6 @@ export const data=[
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
     "Cost Basis": 30
-  },
-  {
-    "Title": "New Teen Titans",
-    "Issue #": 2,
-    "Condition": "CGC 9.8",
-    "Website Notes": "Newstand",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 800
-  },
-  {
-    "Title": "New Teen Titans",
-    "Issue #": 2,
-    "Condition": "CGC 8.5",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 75
   },
   {
     "Title": "New Teen Titans",
