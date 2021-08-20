@@ -42,7 +42,7 @@ Pushing to Github: (do this so I can also have access to your changes and so tha
 - Add a message describing your changes then hit enter.
 - Push to github. Do this by first opening the "commits" dropdown then hitting the up arrow. Make sure "push to origin" is higlighted. Hit enter.
 - Finally, create a pull request on github.com. Open the github website and go to WarthawgComics by Damion Hill. (should be what I have bookmarked)
-- In the header, click "pull requests." Select the green button that says "new pull request"
+- In the header, click "pull requests." Select the green button that says "compare and pull request"
 - Write a comment describing the changes. Submit the request. 
 - After this, there's nothing left for you to do. I will review the code and then accept the request.
 

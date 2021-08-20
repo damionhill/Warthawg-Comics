@@ -216,14 +216,6 @@ export const data=[
     "Cost Basis": 225
   },
   {
-    "Title": "All Winners Comics",
-    "Issue #": 1,
-    "Condition": "CGC 6.0",
-    "Website Notes": "Vol 2 #1 1948",
-    "Personal Notes (Not on website)": "Timely",
-    "Cost Basis": ""
-  },
-  {
     "Title": "Amazing Adventures (1950)",
     "Issue #": 5,
     "Condition": "F/G",
@@ -368,6 +360,14 @@ export const data=[
     "Cost Basis": 55
   },
   {
+    "Title": "Battle Fire",
+    "Issue #": 2,
+    "Condition": "VG",
+    "Website Notes": 1955,
+    "Personal Notes (Not on website)": "Stanmor",
+    "Cost Basis": 15
+  },
+  {
     "Title": "Battlefront",
     "Issue #": 31,
     "Condition": "G/VG",
@@ -382,6 +382,14 @@ export const data=[
     "Website Notes": "Heath Cvr",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 45
+  },
+  {
+    "Title": "Batle Squadron",
+    "Issue #": 5,
+    "Condition": "VG",
+    "Website Notes": 1955,
+    "Personal Notes (Not on website)": "Stanmor",
+    "Cost Basis": 15
   },
   {
     "Title": "Battle Stories",
@@ -3960,6 +3968,14 @@ export const data=[
     "Cost Basis": 25
   },
   {
+    "Title": "",
+    "Issue #": "",
+    "Condition": "",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": ""
+  },
+  {
     "Title": "Railroads Deliver the Goods",
     "Issue #": "NN",
     "Condition": "VF",
@@ -4864,6 +4880,14 @@ export const data=[
     "Cost Basis": 35
   },
   {
+    "Title": "War Adventures",
+    "Issue #": 6,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 25
+  },
+  {
     "Title": "War Battles",
     "Issue #": 1,
     "Condition": "G",
@@ -5135,4 +5159,4 @@ export const data=[
     "Personal Notes (Not on website)": "Fox",
     "Cost Basis": 125
   }
-]
+];
