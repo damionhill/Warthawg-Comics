@@ -1,4 +1,4 @@
-export const data=[
+export const data = [
   {
     "Title": "Action Comics",
     "Issue #": 80,
@@ -2006,6 +2006,14 @@ export const data=[
     "Website Notes": "2nd SA Riddler",
     "Personal Notes (Not on website)": "",
     "Cost Basis": ""
+  },
+  {
+    "Title": "Batman",
+    "Issue #": 181,
+    "Condition": "CGC 6.0",
+    "Website Notes": "1st Poison Ivy",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1200
   },
   {
     "Title": "Batman",
@@ -4086,14 +4094,6 @@ export const data=[
     "Website Notes": "1st Man Bat",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 135
-  },
-  {
-    "Title": "Detective Comics",
-    "Issue #": 400,
-    "Condition": "CGC 7.0",
-    "Website Notes": "1st Man Bat",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 225
   },
   {
     "Title": "Detective Comics",
@@ -10102,22 +10102,6 @@ export const data=[
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 85
-  },
-  {
-    "Title": "Showcase",
-    "Issue #": 56,
-    "Condition": "VF+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 120
-  },
-  {
-    "Title": "Showcase",
-    "Issue #": 57,
-    "Condition": "VF",
-    "Website Notes": "Enemy Ace",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 145
   },
   {
     "Title": "Showcase",
