@@ -1,4 +1,4 @@
-export const data=[
+export const data = [
   {
     "Title": "Adventures of Super Mario Brothers",
     "Issue #": 2,
@@ -378,17 +378,6 @@ export const data=[
     "Issue #": 2,
     "Condition": "NM",
     "Website Notes": "Nintendo 1.95",
-    "Personal Notes (Not on website)": "Valiant",
-    "Cost Basis": 35,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Game Boy",
-    "Issue #": 2,
-    "Condition": "VF/NM",
-    "Website Notes": "Nintendo 1.50",
     "Personal Notes (Not on website)": "Valiant",
     "Cost Basis": 35,
     "": "",
@@ -1144,6 +1133,17 @@ export const data=[
     "__2": ""
   },
   {
+    "Title": "Something is Killing the Children",
+    "Issue #": 1,
+    "Condition": "NM/M",
+    "Website Notes": "Frison Variant",
+    "Personal Notes (Not on website)": "Boom!",
+    "Cost Basis": 100,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Space Ghost (1987)",
     "Issue #": 1,
     "Condition": "NM",
@@ -1194,17 +1194,6 @@ export const data=[
     "Website Notes": "",
     "Personal Notes (Not on website)": "Image 2 avail",
     "Cost Basis": 10,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Spawn Batman",
-    "Issue #": "",
-    "Condition": "CGC 9.8",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Image",
-    "Cost Basis": 50,
     "": "",
     "__1": "",
     "__2": ""
@@ -1539,4 +1528,4 @@ export const data=[
     "__1": "",
     "__2": ""
   }
-]
+];

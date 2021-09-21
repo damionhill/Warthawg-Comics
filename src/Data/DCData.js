@@ -25,14 +25,6 @@ export const data = [
   },
   {
     "Title": "Action Comics",
-    "Issue #": 137,
-    "Condition": "G+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "GA",
-    "Cost Basis": 20
-  },
-  {
-    "Title": "Action Comics",
     "Issue #": 244,
     "Condition": "FN+",
     "Website Notes": "",
@@ -206,6 +198,14 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20
+  },
+  {
+    "Title": "Action Comics(2011)",
+    "Issue #": 9,
+    "Condition": "NM",
+    "Website Notes": "Origin Calvin Ellis",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40
   },
   {
     "Title": "Adventure Comics",
@@ -1297,6 +1297,14 @@ export const data = [
   },
   {
     "Title": "All Star Western (1971)",
+    "Issue #": 10,
+    "Condition": "FN-",
+    "Website Notes": "1st Jonah Hex",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200
+  },
+  {
+    "Title": "All Star Western (1971)",
     "Issue #": 11,
     "Condition": "VF",
     "Website Notes": "2nd Jonah Hex",
@@ -2212,7 +2220,7 @@ export const data = [
     "Issue #": 237,
     "Condition": "VF+",
     "Website Notes": "Adams",
-    "Personal Notes (Not on website)": "2 avail",
+    "Personal Notes (Not on website)": "",
     "Cost Basis": 112
   },
   {
@@ -2381,14 +2389,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "1st Jason Todd",
     "Personal Notes (Not on website)": "2 avail",
-    "Cost Basis": 10
-  },
-  {
-    "Title": "Batman",
-    "Issue #": 386,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Black Mask",
-    "Personal Notes (Not on website)": "",
     "Cost Basis": 10
   },
   {
@@ -3393,14 +3393,6 @@ export const data = [
   },
   {
     "Title": "DC Comics Presents",
-    "Issue #": 1,
-    "Condition": "VF",
-    "Website Notes": "Whitman Variant",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
-  },
-  {
-    "Title": "DC Comics Presents",
     "Issue #": 3,
     "Condition": "VG-",
     "Website Notes": "Whitman variant",
@@ -3414,6 +3406,14 @@ export const data = [
     "Website Notes": "1st New Teen Titans",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 185
+  },
+  {
+    "Title": "DC Comics Presents",
+    "Issue #": 47,
+    "Condition": "F/F+",
+    "Website Notes": "Masters of the Universe",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50
   },
   {
     "Title": "DC 100 pg Super Spectacular",
