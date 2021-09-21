@@ -1,4 +1,4 @@
-export const data=[
+export const data = [
   {
     "Title": "Abbott and Costello",
     "Issue #": 18,
@@ -1298,14 +1298,6 @@ export const data=[
   {
     "Title": "Casper The Friendly Ghost",
     "Issue #": 20,
-    "Condition": "VG/F",
-    "Website Notes": "1st Wendy",
-    "Personal Notes (Not on website)": "Harvey",
-    "Cost Basis": 210
-  },
-  {
-    "Title": "Casper The Friendly Ghost",
-    "Issue #": 20,
     "Condition": "VG",
     "Website Notes": "1st Wendy",
     "Personal Notes (Not on website)": "Harvey",
@@ -2097,6 +2089,14 @@ export const data=[
   },
   {
     "Title": "GI Combat",
+    "Issue #": 30,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Quality",
+    "Cost Basis": 10
+  },
+  {
+    "Title": "GI Combat",
     "Issue #": 39,
     "Condition": "G/VG",
     "Website Notes": "",
@@ -2346,14 +2346,6 @@ export const data=[
   {
     "Title": "Jungle Comics",
     "Issue #": 116,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fiction House",
-    "Cost Basis": 10
-  },
-  {
-    "Title": "Jungle Comics",
-    "Issue #": 120,
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Fiction House",
@@ -2921,14 +2913,6 @@ export const data=[
   },
   {
     "Title": "Man in Black",
-    "Issue #": 1,
-    "Condition": "VG/F",
-    "Website Notes": "Powell Art",
-    "Personal Notes (Not on website)": "Harvey",
-    "Cost Basis": 25
-  },
-  {
-    "Title": "Man in Black",
     "Issue #": 2,
     "Condition": "VG/F",
     "Website Notes": "Powell Art",
@@ -2987,14 +2971,6 @@ export const data=[
     "Title": "Marvel Family",
     "Issue #": 22,
     "Condition": "VG+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fawcett",
-    "Cost Basis": 25
-  },
-  {
-    "Title": "Marvel Family",
-    "Issue #": 30,
-    "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Fawcett",
     "Cost Basis": 25
@@ -3096,6 +3072,14 @@ export const data=[
     "Cost Basis": 35
   },
   {
+    "Title": "Marvels of Science",
+    "Issue #": 1,
+    "Condition": "CGC 5.5",
+    "Website Notes": "A-Bomb Sty",
+    "Personal Notes (Not on website)": "Charlton",
+    "Cost Basis": 180
+  },
+  {
     "Title": "Marvel Tales",
     "Issue #": 130,
     "Condition": "GD+",
@@ -3139,14 +3123,6 @@ export const data=[
     "Title": "Master Comics",
     "Issue #": 49,
     "Condition": "FN+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fawcett",
-    "Cost Basis": 45
-  },
-  {
-    "Title": "Master Comics",
-    "Issue #": 62,
-    "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Fawcett",
     "Cost Basis": 45
@@ -3214,14 +3190,6 @@ export const data=[
     "Website Notes": "",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 120
-  },
-  {
-    "Title": "Men's Adventures",
-    "Issue #": 22,
-    "Condition": "VG",
-    "Website Notes": "Everett C/S",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 155
   },
   {
     "Title": "Men's Adventures",
@@ -4336,14 +4304,6 @@ export const data=[
     "Cost Basis": 120
   },
   {
-    "Title": "Saint",
-    "Issue #": 1,
-    "Condition": "VG+",
-    "Website Notes": "Kamen Cover",
-    "Personal Notes (Not on website)": "Avon",
-    "Cost Basis": 250
-  },
-  {
     "Title": "Samson",
     "Issue #": 14,
     "Condition": "VG",
@@ -4510,22 +4470,6 @@ export const data=[
     "Website Notes": "Everett Art",
     "Personal Notes (Not on website)": "Timely",
     "Cost Basis": 500
-  },
-  {
-    "Title": "Sub-Mariner Comics",
-    "Issue #": 26,
-    "Condition": "CGC 6.0",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Timely",
-    "Cost Basis": 600
-  },
-  {
-    "Title": "Sub-Mariner Comics",
-    "Issue #": 30,
-    "Condition": "CGC 2.5",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Timely",
-    "Cost Basis": 600
   },
   {
     "Title": "Sub-Mariner Comics",

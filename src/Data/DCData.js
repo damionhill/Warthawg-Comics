@@ -1,4 +1,4 @@
-export const data=[
+export const data = [
   {
     "Title": "Action Comics",
     "Issue #": 80,
@@ -22,14 +22,6 @@ export const data=[
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
     "Cost Basis": 60
-  },
-  {
-    "Title": "Action Comics",
-    "Issue #": 137,
-    "Condition": "G+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "GA",
-    "Cost Basis": 20
   },
   {
     "Title": "Action Comics",
@@ -206,6 +198,14 @@ export const data=[
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20
+  },
+  {
+    "Title": "Action Comics(2011)",
+    "Issue #": 9,
+    "Condition": "NM",
+    "Website Notes": "Origin Calvin Ellis",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40
   },
   {
     "Title": "Adventure Comics",
@@ -1297,6 +1297,14 @@ export const data=[
   },
   {
     "Title": "All Star Western (1971)",
+    "Issue #": 10,
+    "Condition": "FN-",
+    "Website Notes": "1st Jonah Hex",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200
+  },
+  {
+    "Title": "All Star Western (1971)",
     "Issue #": 11,
     "Condition": "VF",
     "Website Notes": "2nd Jonah Hex",
@@ -2010,6 +2018,14 @@ export const data=[
   {
     "Title": "Batman",
     "Issue #": 181,
+    "Condition": "CGC 6.0",
+    "Website Notes": "1st Poison Ivy",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1200
+  },
+  {
+    "Title": "Batman",
+    "Issue #": 181,
     "Condition": "CGC 5.5",
     "Website Notes": "1st Poison Ivy",
     "Personal Notes (Not on website)": "",
@@ -2204,7 +2220,7 @@ export const data=[
     "Issue #": 237,
     "Condition": "VF+",
     "Website Notes": "Adams",
-    "Personal Notes (Not on website)": "2 avail",
+    "Personal Notes (Not on website)": "",
     "Cost Basis": 112
   },
   {
@@ -2373,14 +2389,6 @@ export const data=[
     "Condition": "F/VF",
     "Website Notes": "1st Jason Todd",
     "Personal Notes (Not on website)": "2 avail",
-    "Cost Basis": 10
-  },
-  {
-    "Title": "Batman",
-    "Issue #": 386,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Black Mask",
-    "Personal Notes (Not on website)": "",
     "Cost Basis": 10
   },
   {
@@ -3385,14 +3393,6 @@ export const data=[
   },
   {
     "Title": "DC Comics Presents",
-    "Issue #": 1,
-    "Condition": "VF",
-    "Website Notes": "Whitman Variant",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
-  },
-  {
-    "Title": "DC Comics Presents",
     "Issue #": 3,
     "Condition": "VG-",
     "Website Notes": "Whitman variant",
@@ -3406,6 +3406,14 @@ export const data=[
     "Website Notes": "1st New Teen Titans",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 185
+  },
+  {
+    "Title": "DC Comics Presents",
+    "Issue #": 47,
+    "Condition": "F/F+",
+    "Website Notes": "Masters of the Universe",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50
   },
   {
     "Title": "DC 100 pg Super Spectacular",
@@ -4086,14 +4094,6 @@ export const data=[
     "Website Notes": "1st Man Bat",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 135
-  },
-  {
-    "Title": "Detective Comics",
-    "Issue #": 400,
-    "Condition": "CGC 7.0",
-    "Website Notes": "1st Man Bat",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 225
   },
   {
     "Title": "Detective Comics",
@@ -10102,22 +10102,6 @@ export const data=[
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 85
-  },
-  {
-    "Title": "Showcase",
-    "Issue #": 56,
-    "Condition": "VF+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 120
-  },
-  {
-    "Title": "Showcase",
-    "Issue #": 57,
-    "Condition": "VF",
-    "Website Notes": "Enemy Ace",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 145
   },
   {
     "Title": "Showcase",
