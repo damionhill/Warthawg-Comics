@@ -344,28 +344,12 @@ export const data = [
     "Cost Basis": 31
   },
   {
-    "Title": "Battle Cry",
-    "Issue #": 15,
-    "Condition": "VG",
-    "Website Notes": "Flamethrower Cover",
-    "Personal Notes (Not on website)": "Stanmor",
-    "Cost Basis": 35
-  },
-  {
     "Title": "Battlefield",
     "Issue #": 6,
     "Condition": "G/VG",
     "Website Notes": "Flamethrower Cover",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 55
-  },
-  {
-    "Title": "Battle Fire",
-    "Issue #": 2,
-    "Condition": "VG",
-    "Website Notes": 1955,
-    "Personal Notes (Not on website)": "Stanmor",
-    "Cost Basis": 15
   },
   {
     "Title": "Battlefront",
@@ -382,14 +366,6 @@ export const data = [
     "Website Notes": "Heath Cvr",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 45
-  },
-  {
-    "Title": "Batle Squadron",
-    "Issue #": 5,
-    "Condition": "VG",
-    "Website Notes": 1955,
-    "Personal Notes (Not on website)": "Stanmor",
-    "Cost Basis": 15
   },
   {
     "Title": "Battle Stories",
@@ -422,14 +398,6 @@ export const data = [
     "Website Notes": "Schomburg",
     "Personal Notes (Not on website)": "Standard",
     "Cost Basis": 12
-  },
-  {
-    "Title": "Black Cat Comics",
-    "Issue #": 1,
-    "Condition": "G/VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Harvey",
-    "Cost Basis": 221
   },
   {
     "Title": "Black Cat Comics",
@@ -1264,14 +1232,6 @@ export const data = [
     "Cost Basis": 110
   },
   {
-    "Title": "Captain Science",
-    "Issue #": 3,
-    "Condition": "G",
-    "Website Notes": "Classic Cover",
-    "Personal Notes (Not on website)": "Youthful",
-    "Cost Basis": 255
-  },
-  {
     "Title": "Captain Video",
     "Issue #": 2,
     "Condition": "VG",
@@ -1929,14 +1889,6 @@ export const data = [
   },
   {
     "Title": "Fight Comics",
-    "Issue #": 21,
-    "Condition": "G",
-    "Website Notes": "Japanese War Cover",
-    "Personal Notes (Not on website)": "Fiction House",
-    "Cost Basis": 85
-  },
-  {
-    "Title": "Fight Comics",
     "Issue #": 25,
     "Condition": "G",
     "Website Notes": "",
@@ -2048,6 +2000,22 @@ export const data = [
     "Cost Basis": 190
   },
   {
+    "Title": "Forbidden Worlds",
+    "Issue #": 22,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "ACG",
+    "Cost Basis": 10
+  },
+  {
+    "Title": "Frankenstein",
+    "Issue #": 33,
+    "Condition": "VG",
+    "Website Notes": "Last Issue",
+    "Personal Notes (Not on website)": "Prize",
+    "Cost Basis": 150
+  },
+  {
     "Title": "Gabby",
     "Issue #": 2,
     "Condition": "GD",
@@ -2070,22 +2038,6 @@ export const data = [
     "Website Notes": "Baseball 1952",
     "Personal Notes (Not on website)": "Fawcett",
     "Cost Basis": 168
-  },
-  {
-    "Title": "GI Combat",
-    "Issue #": 18,
-    "Condition": "G",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Quality",
-    "Cost Basis": 15
-  },
-  {
-    "Title": "GI Combat",
-    "Issue #": 20,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Quality",
-    "Cost Basis": 20
   },
   {
     "Title": "GI Combat",
@@ -2120,6 +2072,14 @@ export const data = [
     "Cost Basis": 10
   },
   {
+    "Title": "Guadalcanal Diary",
+    "Issue #": "",
+    "Condition": "VG/F",
+    "Website Notes": "One Shot 1943",
+    "Personal Notes (Not on website)": "American Library",
+    "Cost Basis": 25
+  },
+  {
     "Title": "Gunsmoke Western",
     "Issue #": 57,
     "Condition": "VG",
@@ -2134,14 +2094,6 @@ export const data = [
     "Website Notes": "Shark Cover",
     "Personal Notes (Not on website)": "Toby",
     "Cost Basis": 10
-  },
-  {
-    "Title": "Heroic Comics",
-    "Issue #": 82,
-    "Condition": "VG",
-    "Website Notes": "Frazetta",
-    "Personal Notes (Not on website)": "Famous Funnies",
-    "Cost Basis": 15
   },
   {
     "Title": "Heroic Comics",
@@ -2222,14 +2174,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Standard",
     "Cost Basis": 40
-  },
-  {
-    "Title": "Joe Yank",
-    "Issue #": 7,
-    "Condition": "VG",
-    "Website Notes": "DeCarlo",
-    "Personal Notes (Not on website)": "Standard",
-    "Cost Basis": 25
   },
   {
     "Title": "John Wayne Comics",
@@ -3936,14 +3880,6 @@ export const data = [
     "Cost Basis": 25
   },
   {
-    "Title": "",
-    "Issue #": "",
-    "Condition": "",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": ""
-  },
-  {
     "Title": "Railroads Deliver the Goods",
     "Issue #": "NN",
     "Condition": "VF",
@@ -3966,14 +3902,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Fawcett",
     "Cost Basis": 180
-  },
-  {
-    "Title": "Rangers Comics",
-    "Issue #": 18,
-    "Condition": "FA",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fiction House",
-    "Cost Basis": 85
   },
   {
     "Title": "Rangers Comics",
@@ -4712,22 +4640,6 @@ export const data = [
     "Cost Basis": 25
   },
   {
-    "Title": "True Aviation Comcs Digest",
-    "Issue #": 3,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Aviation",
-    "Cost Basis": ""
-  },
-  {
-    "Title": "True Aviation Comcs Digest",
-    "Issue #": 7,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Aviation",
-    "Cost Basis": ""
-  },
-  {
     "Title": "True Comics",
     "Issue #": 64,
     "Condition": "FN+",
@@ -4832,20 +4744,20 @@ export const data = [
     "Cost Basis": 25
   },
   {
-    "Title": "War Battles",
-    "Issue #": 1,
-    "Condition": "G",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Harvey",
-    "Cost Basis": 10
-  },
-  {
     "Title": "War Combat",
     "Issue #": 1,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 125
+  },
+  {
+    "Title": "War Heroes (Dell)",
+    "Issue #": 3,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Dell",
+    "Cost Basis": 5
   },
   {
     "Title": "Weird Adventures",

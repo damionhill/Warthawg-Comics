@@ -1889,6 +1889,14 @@ export const data = [
   },
   {
     "Title": "Batman",
+    "Issue #": 120,
+    "Condition": "G",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25
+  },
+  {
+    "Title": "Batman",
     "Issue #": 126,
     "Condition": "VG",
     "Website Notes": "",
@@ -1902,6 +1910,14 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 65
+  },
+  {
+    "Title": "Batman",
+    "Issue #": 133,
+    "Condition": "G/VG",
+    "Website Notes": "Batwoman",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25
   },
   {
     "Title": "Batman",
@@ -2398,6 +2414,14 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10
+  },
+  {
+    "Title": "Batman",
+    "Issue #": 423,
+    "Condition": "F/VF",
+    "Website Notes": "McFarlane",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25
   },
   {
     "Title": "Batman",
@@ -2942,6 +2966,14 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 65
+  },
+  {
+    "Title": "Brave and the Bold",
+    "Issue #": 33,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25
   },
   {
     "Title": "Brave and the Bold",
@@ -3817,14 +3849,6 @@ export const data = [
   },
   {
     "Title": "Detective Comics",
-    "Issue #": 241,
-    "Condition": "CGC 3.5",
-    "Website Notes": "Rainbow Batman",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 150
-  },
-  {
-    "Title": "Detective Comics",
     "Issue #": 267,
     "Condition": "CGC 7.0",
     "Website Notes": "1st Bat-Mite",
@@ -4638,6 +4662,14 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5
+  },
+  {
+    "Title": "Detective Comics",
+    "Issue #": 576,
+    "Condition": "VF",
+    "Website Notes": "McFarlane",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 27
   },
   {
     "Title": "Detective Comics",
@@ -6384,14 +6416,6 @@ export const data = [
     "Cost Basis": 25
   },
   {
-    "Title": "Hellblazer",
-    "Issue #": 1,
-    "Condition": "CGC 9.4",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 90
-  },
-  {
     "Title": "Hollywood Funny Folks",
     "Issue #": 28,
     "Condition": "VG",
@@ -6422,6 +6446,14 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10
+  },
+  {
+    "Title": "Hot Wheels",
+    "Issue #": 6,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 9
   },
   {
     "Title": "House of Mystery",
@@ -10009,6 +10041,22 @@ export const data = [
   },
   {
     "Title": "Showcase",
+    "Issue #": 35,
+    "Condition": "FN+",
+    "Website Notes": "Atom",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100
+  },
+  {
+    "Title": "Showcase",
+    "Issue #": 36,
+    "Condition": "F/VF",
+    "Website Notes": "Atom",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 125
+  },
+  {
+    "Title": "Showcase",
     "Issue #": 36,
     "Condition": "FN",
     "Website Notes": "",
@@ -10070,6 +10118,14 @@ export const data = [
     "Website Notes": "Sgt Rock",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 68
+  },
+  {
+    "Title": "Showcase",
+    "Issue #": 50,
+    "Condition": "VF-",
+    "Website Notes": "I-Spy",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 30
   },
   {
     "Title": "Showcase",
@@ -11654,6 +11710,14 @@ export const data = [
     "Website Notes": "Bizarro",
     "Personal Notes (Not on website)": 90,
     "Cost Basis": 70
+  },
+  {
+    "Title": "Superman",
+    "Issue #": 149,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25
   },
   {
     "Title": "Superman",
@@ -13716,7 +13780,7 @@ export const data = [
     "Issue #": 178,
     "Condition": "VG/F",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "",
+    "Personal Notes (Not on website)": "2 avail",
     "Cost Basis": 20
   },
   {

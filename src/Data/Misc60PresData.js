@@ -1122,6 +1122,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Sheena 3-D",
+    "Issue #": 1,
+    "Condition": "VF/NM",
+    "Website Notes": "Stevens Cvr",
+    "Personal Notes (Not on website)": "Blackthorne",
+    "Cost Basis": 16,
+    "": "2 avail",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Solar Man of the Atom",
     "Issue #": 1,
     "Condition": "NM",
