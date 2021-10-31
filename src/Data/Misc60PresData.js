@@ -198,17 +198,6 @@ export const data = [
     "__2": ""
   },
   {
-    "Title": "Crossfire",
-    "Issue #": 12,
-    "Condition": "NM-",
-    "Website Notes": "Stevens M. Monroe C",
-    "Personal Notes (Not on website)": "Eclipse",
-    "Cost Basis": 10,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Dark Horse Presents",
     "Issue #": 36,
     "Condition": "NM-",

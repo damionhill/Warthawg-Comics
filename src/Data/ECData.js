@@ -8,22 +8,6 @@ export const data = [
     "Cost Basis": 75
   },
   {
-    "Title": "Crime SuspenStories",
-    "Issue #": 21,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "GA",
-    "Cost Basis": 215
-  },
-  {
-    "Title": "Crime SuspenStories",
-    "Issue #": 22,
-    "Condition": "VG",
-    "Website Notes": "Classic Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 7000
-  },
-  {
     "Title": "Frontline Combat",
     "Issue #": 3,
     "Condition": "VG",
@@ -128,6 +112,14 @@ export const data = [
     "Cost Basis": 20
   },
   {
+    "Title": "Shock Suspenstories",
+    "Issue #": 12,
+    "Condition": "VG/F",
+    "Website Notes": "Clasic Junkie C/S",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100
+  },
+  {
     "Title": "Two-Fisted Tales",
     "Issue #": 34,
     "Condition": "VG",
@@ -198,6 +190,14 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 50
+  },
+  {
+    "Title": "Weird Fantasy",
+    "Issue #": 12,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100
   },
   {
     "Title": "Weird Science Fantasy",

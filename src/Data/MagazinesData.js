@@ -1,4 +1,4 @@
-export const data=[
+export const data = [
   {
     "Title": "Alter Ego",
     "Issue #": 6,
@@ -59,14 +59,6 @@ export const data=[
     "Title": "Cartoons",
     "Issue #": 17,
     "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
-  },
-  {
-    "Title": "Castle of Frankenstein",
-    "Issue #": 20,
-    "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5
@@ -352,30 +344,6 @@ export const data=[
     "Cost Basis": 20
   },
   {
-    "Title": "Fantastic Monsters of the Films",
-    "Issue #": 2,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
-  },
-  {
-    "Title": "Fantastic Monsters of the Films",
-    "Issue #": 3,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
-  },
-  {
-    "Title": "Fantastic Monsters of the Films",
-    "Issue #": 6,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
-  },
-  {
     "Title": "Heroes Inc",
     "Issue #": 2,
     "Condition": "F/VF",
@@ -400,28 +368,12 @@ export const data=[
     "Cost Basis": 15
   },
   {
-    "Title": "Man's Story",
-    "Issue #": 1959,
-    "Condition": "",
-    "Website Notes": "bondage c",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
-  },
-  {
     "Title": "Marvel Comics Super Special",
     "Issue #": 1,
     "Condition": "CGC 9.8",
     "Website Notes": "KISS",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 1100
-  },
-  {
-    "Title": "Marvel Comics Super Special",
-    "Issue #": 1,
-    "Condition": "FN",
-    "Website Notes": "KISS",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 150
   },
   {
     "Title": "Marvel Preview",
@@ -561,14 +513,6 @@ export const data=[
   },
   {
     "Title": "Tales of the Killers",
-    "Issue #": 10,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
-  },
-  {
-    "Title": "Tales of the Killers",
     "Issue #": 11,
     "Condition": "VF",
     "Website Notes": "",
@@ -643,14 +587,6 @@ export const data=[
     "Title": "Vampirella",
     "Issue #": 8,
     "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 30
-  },
-  {
-    "Title": "Vampirella",
-    "Issue #": 9,
-    "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
     "Cost Basis": 30

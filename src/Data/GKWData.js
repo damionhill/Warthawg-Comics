@@ -1,4 +1,4 @@
-export const data=[
+export const data = [
   {
     "Title": "Beetle Bailey",
     "Issue #": 49,
@@ -6,6 +6,14 @@ export const data=[
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5
+  },
+  {
+    "Title": "Beneath the Planet of the Apes",
+    "Issue #": "NN",
+    "Condition": "VF",
+    "Website Notes": "w/Poster",
+    "Personal Notes (Not on website)": "2 avail",
+    "Cost Basis": 30
   },
   {
     "Title": "Brothers Grimm",
@@ -46,6 +54,14 @@ export const data=[
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 1
+  },
+  {
+    "Title": "HR Puffnstuff",
+    "Issue #": 1,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20
   },
   {
     "Title": "Invaders  (TV)",
