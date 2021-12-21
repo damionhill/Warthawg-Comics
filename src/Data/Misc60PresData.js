@@ -386,17 +386,6 @@ export const data = [
   },
   {
     "Title": "Grendel",
-    "Issue #": 1,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Comico",
-    "Cost Basis": 10,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Grendel",
     "Issue #": 4,
     "Condition": "NM",
     "Website Notes": "Stevens C",
@@ -1392,28 +1381,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Tick",
-    "Issue #": 1,
-    "Condition": "CGC 9.4",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "NEC",
-    "Cost Basis": 225,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Tick",
-    "Issue #": 2,
-    "Condition": "CGC 9.6",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "NEC",
-    "Cost Basis": 125,
     "": "",
     "__1": "",
     "__2": ""
