@@ -1993,14 +1993,6 @@ export const data = [
   },
   {
     "Title": "Batman",
-    "Issue #": 181,
-    "Condition": "CGC 5.5",
-    "Website Notes": "1st Poison Ivy",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 550
-  },
-  {
-    "Title": "Batman",
     "Issue #": 182,
     "Condition": "VF+",
     "Website Notes": "Giant",
@@ -9161,14 +9153,6 @@ export const data = [
   },
   {
     "Title": "Our Fighting Forces",
-    "Issue #": 18,
-    "Condition": "G",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 35
-  },
-  {
-    "Title": "Our Fighting Forces",
     "Issue #": 19,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -10358,14 +10342,6 @@ export const data = [
     "Website Notes": "Talking Helmet",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 45
-  },
-  {
-    "Title": "Star Spangled War Stories",
-    "Issue #": 59,
-    "Condition": "G/VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
   },
   {
     "Title": "Star Spangled War Stories",
@@ -11841,15 +11817,7 @@ export const data = [
   },
   {
     "Title": "Superman's Girlfriend Lois Lane",
-    "Issue #": 71,
-    "Condition": "NM-",
-    "Website Notes": "slt ct",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 225
-  },
-  {
-    "Title": "Superman's Girlfriend Lois Lane",
-    "Issue #": 71,
+    "Issue #": 70,
     "Condition": "VG/F",
     "Website Notes": "1st SA Catwoman",
     "Personal Notes (Not on website)": "",

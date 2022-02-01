@@ -1,6 +1,14 @@
 export const data = [
   {
     "Title": "Crime SuspenStories",
+    "Issue #": 9,
+    "Condition": "G+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "EC",
+    "Cost Basis": 65
+  },
+  {
+    "Title": "Crime SuspenStories",
     "Issue #": 11,
     "Condition": "VG",
     "Website Notes": "",
@@ -73,6 +81,14 @@ export const data = [
   },
   {
     "Title": "Mad",
+    "Issue #": 6,
+    "Condition": "F/G",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40
+  },
+  {
+    "Title": "Mad",
     "Issue #": 19,
     "Condition": "FN-",
     "Website Notes": "",
@@ -118,14 +134,6 @@ export const data = [
     "Website Notes": "Clasic Junkie C/S",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 100
-  },
-  {
-    "Title": "Two-Fisted Tales",
-    "Issue #": 34,
-    "Condition": "VG",
-    "Website Notes": "Civil War",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": ""
   },
   {
     "Title": "Two-Fisted Tales",
@@ -198,6 +206,14 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 100
+  },
+  {
+    "Title": "Weird Science",
+    "Issue #": 12,
+    "Condition": "VG/F",
+    "Website Notes": "Int Cpn Clip",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50
   },
   {
     "Title": "Weird Science Fantasy",
