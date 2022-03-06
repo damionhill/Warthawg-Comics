@@ -249,14 +249,6 @@ export const data = [
   },
   {
     "Title": "Space Adventures",
-    "Issue #": 17,
-    "Condition": "FN+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25
-  },
-  {
-    "Title": "Space Adventures",
     "Issue #": 20,
     "Condition": "VG/F",
     "Website Notes": "Destination Moon",
@@ -300,14 +292,6 @@ export const data = [
     "Issue #": 1,
     "Condition": "CGC 4.5",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 125
-  },
-  {
-    "Title": "Tales of the Mysterious Traveler",
-    "Issue #": 3,
-    "Condition": "VG+",
-    "Website Notes": "Ditko",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 125
   },

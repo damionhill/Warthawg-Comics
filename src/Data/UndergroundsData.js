@@ -368,28 +368,12 @@ export const data = [
     "Cost Basis": ""
   },
   {
-    "Title": "Bizarre Sex",
-    "Issue #": 10,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": ""
-  },
-  {
     "Title": "Black and White Comics",
     "Issue #": "",
     "Condition": "FN",
     "Website Notes": "1st Print Crumb",
     "Personal Notes (Not on website)": "Apex",
     "Cost Basis": 5
-  },
-  {
-    "Title": "Brain Fantasy",
-    "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": "1st Print 1972",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": ""
   },
   {
     "Title": "Bum Wad",
@@ -468,15 +452,23 @@ export const data = [
     "Issue #": 1,
     "Condition": "VF+",
     "Website Notes": "2nd Print",
-    "Personal Notes (Not on website)": "Yentzer",
+    "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": 30
+  },
+  {
+    "Title": "Cherry Poptart",
+    "Issue #": 1,
+    "Condition": "VF/NM",
+    "Website Notes": "2nd Print",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 20
   },
   {
     "Title": "Cherry Poptart",
     "Issue #": 2,
     "Condition": "NM-",
     "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Yentzer",
+    "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": 20
   },
   {
@@ -484,7 +476,7 @@ export const data = [
     "Issue #": 3,
     "Condition": "VF/NM",
     "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Yentzer",
+    "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": ""
   },
   {
@@ -492,7 +484,7 @@ export const data = [
     "Issue #": 4,
     "Condition": "NM",
     "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Yentzer",
+    "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": ""
   },
   {
@@ -500,7 +492,7 @@ export const data = [
     "Issue #": 5,
     "Condition": "NM",
     "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Yentzer",
+    "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": ""
   },
   {
@@ -508,7 +500,7 @@ export const data = [
     "Issue #": 6,
     "Condition": "FN+",
     "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Yentzer",
+    "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": ""
   },
   {
@@ -516,15 +508,23 @@ export const data = [
     "Issue #": 7,
     "Condition": "NM",
     "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Yentzer",
+    "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": ""
+  },
+  {
+    "Title": "Cherry Poptart",
+    "Issue #": 12,
+    "Condition": "VF/NM",
+    "Website Notes": "Classic Cvr",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 14
   },
   {
     "Title": "Cherry Poptart",
     "Issue #": 15,
     "Condition": "F/VF",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "Yentzer",
+    "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": ""
   },
   {
@@ -532,7 +532,7 @@ export const data = [
     "Issue #": 2,
     "Condition": "NM-",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "Yentzer",
+    "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": ""
   },
   {
@@ -552,10 +552,10 @@ export const data = [
     "Cost Basis": ""
   },
   {
-    "Title": "Commies From Mars",
-    "Issue #": 2,
-    "Condition": "VF/NM",
-    "Website Notes": "1979 White House Cover",
+    "Title": "Cocaine Comix",
+    "Issue #": 3,
+    "Condition": "F/VF",
+    "Website Notes": "Classic Devil Cvr",
     "Personal Notes (Not on website)": "Last Gasp",
     "Cost Basis": ""
   },
@@ -1945,14 +1945,6 @@ export const data = [
   },
   {
     "Title": "Skull Comics",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "1970 2nd Print",
-    "Personal Notes (Not on website)": "Rip Off Press",
-    "Cost Basis": ""
-  },
-  {
-    "Title": "Skull Comics",
     "Issue #": 2,
     "Condition": "VF",
     "Website Notes": ".50 Cover Price",
@@ -1988,14 +1980,6 @@ export const data = [
     "Issue #": 1,
     "Condition": "VG/F",
     "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": ""
-  },
-  {
-    "Title": "Slow Death",
-    "Issue #": 2,
-    "Condition": "VF",
-    "Website Notes": "1972 4th Print",
     "Personal Notes (Not on website)": "Last Gasp",
     "Cost Basis": ""
   },
@@ -2349,14 +2333,6 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Jam Press",
-    "Cost Basis": ""
-  },
-  {
-    "Title": "Wendy Whitebread Undercover Slut",
-    "Issue #": 1,
-    "Condition": "NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "EROS",
     "Cost Basis": ""
   },
   {

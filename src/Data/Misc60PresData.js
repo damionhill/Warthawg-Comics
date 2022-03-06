@@ -198,17 +198,6 @@ export const data = [
     "__2": ""
   },
   {
-    "Title": "Crossfire",
-    "Issue #": 12,
-    "Condition": "NM-",
-    "Website Notes": "Stevens M. Monroe C",
-    "Personal Notes (Not on website)": "Eclipse",
-    "Cost Basis": 10,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Dark Horse Presents",
     "Issue #": 36,
     "Condition": "NM-",
@@ -391,17 +380,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Dark Horse",
     "Cost Basis": 15,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Grendel",
-    "Issue #": 1,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Comico",
-    "Cost Basis": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -1122,6 +1100,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Sheena 3-D",
+    "Issue #": 1,
+    "Condition": "VF/NM",
+    "Website Notes": "Stevens Cvr",
+    "Personal Notes (Not on website)": "Blackthorne",
+    "Cost Basis": 16,
+    "": "2 avail",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Solar Man of the Atom",
     "Issue #": 1,
     "Condition": "NM",
@@ -1392,28 +1381,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Tick",
-    "Issue #": 1,
-    "Condition": "CGC 9.4",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "NEC",
-    "Cost Basis": 225,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Tick",
-    "Issue #": 2,
-    "Condition": "CGC 9.6",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "NEC",
-    "Cost Basis": 125,
     "": "",
     "__1": "",
     "__2": ""
