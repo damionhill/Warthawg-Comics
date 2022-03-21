@@ -1207,6 +1207,15 @@ export const data = [
   },
   {
     "Title": "Captain Video",
+    "Issue #": 1,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Fawcett",
+    "Cost Basis": 100,
+    "": ""
+  },
+  {
+    "Title": "Captain Video",
     "Issue #": 2,
     "Condition": "VG",
     "Website Notes": "",
@@ -2277,6 +2286,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Jumbo Comics",
+    "Issue #": 44,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Fiction House",
+    "Cost Basis": 40,
+    "": ""
+  },
+  {
     "Title": "Jungle Action",
     "Issue #": 3,
     "Condition": "FN",
@@ -2292,6 +2310,24 @@ export const data = [
     "Website Notes": "Bondage Cvr",
     "Personal Notes (Not on website)": "Fiction House",
     "Cost Basis": 50,
+    "": ""
+  },
+  {
+    "Title": "Jungle Comics",
+    "Issue #": 91,
+    "Condition": "VG-",
+    "Website Notes": "Bondage Cvr",
+    "Personal Notes (Not on website)": "Fiction House",
+    "Cost Basis": 30,
+    "": ""
+  },
+  {
+    "Title": "Jungle Comics",
+    "Issue #": 106,
+    "Condition": "VG/F",
+    "Website Notes": "Bondage Cvr",
+    "Personal Notes (Not on website)": "Fiction House",
+    "Cost Basis": 35,
     "": ""
   },
   {

@@ -1,4 +1,4 @@
-export const data = [
+export const data =[
   {
     "Title": "After Shock",
     "Issue #": "nn",
@@ -152,14 +152,6 @@ export const data = [
     "Cost Basis": ""
   },
   {
-    "Title": "Avenging World",
-    "Issue #": "nn",
-    "Condition": "VF+",
-    "Website Notes": "Ditko .60 Cover Price",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": ""
-  },
-  {
     "Title": "Bakersfield Kountry Komics",
     "Issue #": 1,
     "Condition": "FN",
@@ -232,34 +224,10 @@ export const data = [
     "Cost Basis": ""
   },
   {
-    "Title": "Betty Page the 50s Rage",
-    "Issue #": 1,
-    "Condition": "NM",
-    "Website Notes": "2nd Print",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 5
-  },
-  {
-    "Title": "Betty Page the 50s Rage",
-    "Issue #": 2,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 5
-  },
-  {
     "Title": "Betty Page the 50s Rage Annual",
     "Issue #": 1,
     "Condition": "NM",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 5
-  },
-  {
-    "Title": "Betty Page Who Killed Bettie?",
-    "Issue #": "NN",
-    "Condition": "NM",
-    "Website Notes": "Limited Nude Edition 787/1000",
     "Personal Notes (Not on website)": "Eros",
     "Cost Basis": 5
   },
@@ -513,6 +481,14 @@ export const data = [
   },
   {
     "Title": "Cherry Poptart",
+    "Issue #": 8,
+    "Condition": "VF/NM",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 10
+  },
+  {
+    "Title": "Cherry Poptart",
     "Issue #": 12,
     "Condition": "VF/NM",
     "Website Notes": "Classic Cvr",
@@ -521,11 +497,43 @@ export const data = [
   },
   {
     "Title": "Cherry Poptart",
+    "Issue #": 13,
+    "Condition": "NM",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 12
+  },
+  {
+    "Title": "Cherry Poptart",
     "Issue #": 15,
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": ""
+  },
+  {
+    "Title": "Cherry Poptart",
+    "Issue #": 19,
+    "Condition": "VF/NM",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 10
+  },
+  {
+    "Title": "Cherry Poptart",
+    "Issue #": 20,
+    "Condition": "NM",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 12
+  },
+  {
+    "Title": "Cherry Poptart",
+    "Issue #": 22,
+    "Condition": "VF/NM",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 15
   },
   {
     "Title": "Cherry's Jubilee",
