@@ -1549,15 +1549,6 @@ export const data = [
   },
   {
     "Title": "Crime Must Lose",
-    "Issue #": "4(#1)",
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Crime Must Lose",
     "Issue #": 11,
     "Condition": "VG",
     "Website Notes": "",
@@ -3520,15 +3511,6 @@ export const data = [
   },
   {
     "Title": "Mystic",
-    "Issue #": 30,
-    "Condition": "VG",
-    "Website Notes": "Classic Cover",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 165,
-    "": ""
-  },
-  {
-    "Title": "Mystic",
     "Issue #": 49,
     "Condition": "VG",
     "Website Notes": "Everett Cover",
@@ -3648,15 +3630,6 @@ export const data = [
     "Title": "Nyoka",
     "Issue #": 43,
     "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fawcett",
-    "Cost Basis": 30,
-    "": ""
-  },
-  {
-    "Title": "Nyoka",
-    "Issue #": 47,
-    "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Fawcett",
     "Cost Basis": 30,
@@ -4311,24 +4284,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Ringo Kid",
-    "Issue #": 21,
-    "Condition": "VG",
-    "Website Notes": "Maneely",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Riot",
-    "Issue #": 3,
-    "Condition": "G/VG",
-    "Website Notes": "Maneely",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
     "Title": "Rocket Kelly",
     "Issue #": 2,
     "Condition": "VG/F",
@@ -4344,15 +4299,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
-    "": ""
-  },
-  {
-    "Title": "Roly Poly",
-    "Issue #": 10,
-    "Condition": "CGC 5.0",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Green",
-    "Cost Basis": 31,
     "": ""
   },
   {
@@ -4536,15 +4482,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Strange Mysteries",
-    "Issue #": 10,
-    "Condition": "CGC 2.5",
-    "Website Notes": "Used in SOTI",
-    "Personal Notes (Not on website)": "Superior",
-    "Cost Basis": 230,
-    "": ""
-  },
-  {
     "Title": "Strange Tales",
     "Issue #": 30,
     "Condition": "VG/F",
@@ -4610,10 +4547,10 @@ export const data = [
   {
     "Title": "Suspense",
     "Issue #": 24,
-    "Condition": "CGC 4.0",
+    "Condition": "VG/F (c.t.)",
     "Website Notes": "Classic Heath Cover",
     "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 250,
+    "Cost Basis": 100,
     "": ""
   },
   {
@@ -4950,12 +4887,12 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Western Bandit Trails",
-    "Issue #": 2,
-    "Condition": "G",
-    "Website Notes": "Baker Cover",
-    "Personal Notes (Not on website)": "St John",
-    "Cost Basis": 30,
+    "Title": "Weird Tales of the Future",
+    "Issue #": 4,
+    "Condition": "VG/F",
+    "Website Notes": "Wolverton",
+    "Personal Notes (Not on website)": "Aragon",
+    "Cost Basis": 575,
     "": ""
   },
   {

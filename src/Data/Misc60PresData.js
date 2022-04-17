@@ -100,17 +100,6 @@ export const data = [
   },
   {
     "Title": "Betty Page Comics",
-    "Issue #": "Spicy Adventure",
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Dark Horse",
-    "Cost Basis": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Betty Page Comics",
     "Issue #": "",
     "Condition": "NM",
     "Website Notes": "Stevens Cover",
@@ -479,6 +468,17 @@ export const data = [
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "Harvey",
     "Cost Basis": 20,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "How to Draw Comics",
+    "Issue #": 1,
+    "Condition": "NM",
+    "Website Notes": "1985 Byrne",
+    "Personal Notes (Not on website)": "Solson",
+    "Cost Basis": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -1050,6 +1050,17 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Stevens C/A",
     "Personal Notes (Not on website)": "Eclipse",
+    "Cost Basis": 5,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Rock Happening",
+    "Issue #": 2,
+    "Condition": "VG",
+    "Website Notes": "Scarce",
+    "Personal Notes (Not on website)": "Harvey",
     "Cost Basis": 5,
     "": "",
     "__1": "",
