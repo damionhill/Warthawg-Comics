@@ -200,14 +200,6 @@ export const data = [
     "Cost Basis": 50
   },
   {
-    "Title": "Weird Fantasy",
-    "Issue #": 12,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 100
-  },
-  {
     "Title": "Weird Science",
     "Issue #": 12,
     "Condition": "VG/F",

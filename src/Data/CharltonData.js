@@ -249,14 +249,6 @@ export const data = [
   },
   {
     "Title": "Space Adventures",
-    "Issue #": 20,
-    "Condition": "VG/F",
-    "Website Notes": "Destination Moon",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 45
-  },
-  {
-    "Title": "Space Adventures",
     "Issue #": 36,
     "Condition": "F/VF",
     "Website Notes": "Ditko C/A",

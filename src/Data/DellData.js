@@ -1,4 +1,4 @@
-export const data=[
+export const data = [
   {
     "Title": "Adventure Bound",
     "Issue #": "FC259",
@@ -116,17 +116,6 @@ export const data=[
     "Website Notes": "1st Series",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 65,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Howdy Doody",
-    "Issue #": 13,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
     "": "",
     "__1": "",
     "__2": ""
@@ -776,6 +765,28 @@ export const data=[
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Vacation Parade",
+    "Issue #": 3,
+    "Condition": "VG",
+    "Website Notes": "Giant",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Vacation Parade",
+    "Issue #": 5,
+    "Condition": "GD+",
+    "Website Notes": "Giant",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
     "": "",
     "__1": "",
     "__2": ""

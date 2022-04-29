@@ -201,14 +201,6 @@ export const data = [
   },
   {
     "Title": "Famous Monsters",
-    "Issue #": 1,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 455
-  },
-  {
-    "Title": "Famous Monsters",
     "Issue #": 11,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -238,14 +230,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
     "Cost Basis": 65
-  },
-  {
-    "Title": "Famous Monsters",
-    "Issue #": 15,
-    "Condition": "F/G",
-    "Website Notes": "cpn out int",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 10
   },
   {
     "Title": "Famous Monsters",
@@ -336,14 +320,6 @@ export const data = [
     "Cost Basis": 10
   },
   {
-    "Title": "Fantastic Monsters of the Films",
-    "Issue #": 1,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
-  },
-  {
     "Title": "Heroes Inc",
     "Issue #": 2,
     "Condition": "F/VF",
@@ -394,7 +370,7 @@ export const data = [
   {
     "Title": "Marvel Super Action",
     "Issue #": 1,
-    "Condition": "FN",
+    "Condition": "VG/F",
     "Website Notes": "Punisher",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 35
@@ -438,14 +414,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 80
-  },
-  {
-    "Title": "Official Munsters Magazine",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 100
   },
   {
     "Title": "Rampaging Hulk",
@@ -494,14 +462,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 30
-  },
-  {
-    "Title": "Squa Tront",
-    "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25
   },
   {
     "Title": "Tales From the Tomb",
