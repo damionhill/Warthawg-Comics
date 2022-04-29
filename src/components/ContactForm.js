@@ -10,8 +10,10 @@ const ContactForm = () => {
             event.preventDefault();
             emailjs.sendForm('contact_service', 'contact_form', this)
                 .then(function() {
+                    alert("Your email was sent!")
                     console.log('SUCCESS!');
                 }, function(error) {
+                    alert("We were unable to send your email. Please try again later or email warthawgcomics@gmail.com directly.")
                     console.log('FAILED...', error);
                 });
         });
