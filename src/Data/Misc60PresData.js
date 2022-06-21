@@ -99,6 +99,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Battle of the Planets",
+    "Issue #": 1,
+    "Condition": "VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Gold Key",
+    "Cost Basis": 40,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Betty Page Comics",
     "Issue #": "",
     "Condition": "NM",
@@ -567,6 +578,17 @@ export const data = [
     "Website Notes": "1997 giveaway",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Macross",
+    "Issue #": 1,
+    "Condition": "VF/NM",
+    "Website Notes": "1st Robotech",
+    "Personal Notes (Not on website)": "Comico",
+    "Cost Basis": 100,
     "": "",
     "__1": "",
     "__2": ""

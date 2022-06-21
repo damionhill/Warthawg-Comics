@@ -9,15 +9,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "After Shock",
-    "Issue #": "nn",
-    "Condition": "VF",
-    "Website Notes": 1981,
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "All New Underground Comics",
     "Issue #": 1,
     "Condition": "FN",
@@ -321,15 +312,6 @@ export const data = [
     "Website Notes": "1st Print Crumb",
     "Personal Notes (Not on website)": "Rip Off Press",
     "Cost Basis": 10,
-    "": ""
-  },
-  {
-    "Title": "Big Ass Comics",
-    "Issue #": 2,
-    "Condition": "G/VG",
-    "Website Notes": "3rd Print Crumb",
-    "Personal Notes (Not on website)": "Rip Off Press",
-    "Cost Basis": 5,
     "": ""
   },
   {
@@ -739,15 +721,6 @@ export const data = [
   },
   {
     "Title": "Cherry Poptart",
-    "Issue #": 6,
-    "Condition": "FN+",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Yetzler",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Cherry Poptart",
     "Issue #": 7,
     "Condition": "NM",
     "Website Notes": "1st Print",
@@ -807,15 +780,6 @@ export const data = [
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": 15,
-    "": ""
-  },
-  {
-    "Title": "Cherry's Jubilee",
-    "Issue #": 2,
-    "Condition": "NM-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Yetzler",
-    "Cost Basis": "",
     "": ""
   },
   {
@@ -1017,15 +981,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Demi the Demoness",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Rip Off Press",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Den",
     "Issue #": 1,
     "Condition": "VF/NM",
@@ -1113,15 +1068,6 @@ export const data = [
     "Website Notes": "Crumb 1st Print",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Ditko's Static",
-    "Issue #": "1,2",
-    "Condition": "VF/NM",
-    "Website Notes": "Ditko C/A",
-    "Personal Notes (Not on website)": "Renegade",
-    "Cost Basis": "",
     "": ""
   },
   {
@@ -1588,15 +1534,6 @@ export const data = [
     "Issue #": "NN",
     "Condition": "VF+",
     "Website Notes": 1973,
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Gasp!",
-    "Issue #": "NN",
-    "Condition": "NM",
-    "Website Notes": 1992,
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
@@ -3069,15 +3006,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Spirit",
-    "Issue #": 1,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Star Forces",
     "Issue #": 1,
     "Condition": "F/VF",
@@ -3308,15 +3236,6 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "1972 Crumb",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Underground Classics",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "Freak Brothers #0",
-    "Personal Notes (Not on website)": "Rip Off Press",
     "Cost Basis": "",
     "": ""
   },

@@ -137,14 +137,6 @@ export const data = [
   },
   {
     "Title": "Castle of Frankenstein",
-    "Issue #": 11,
-    "Condition": "VG/F",
-    "Website Notes": "Steranko Interview",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
-  },
-  {
-    "Title": "Castle of Frankenstein",
     "Issue #": 12,
     "Condition": "VG/F",
     "Website Notes": "Stan Lee Interview",
@@ -185,14 +177,6 @@ export const data = [
   },
   {
     "Title": "Creepy",
-    "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 50
-  },
-  {
-    "Title": "Creepy",
     "Issue #": 10,
     "Condition": "VF",
     "Website Notes": "",
@@ -214,30 +198,6 @@ export const data = [
     "Website Notes": "Scarce",
     "Personal Notes (Not on website)": "Warren",
     "Cost Basis": 20
-  },
-  {
-    "Title": "Creepy",
-    "Issue #": 71,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 20
-  },
-  {
-    "Title": "Creepy",
-    "Issue #": 75,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 10
-  },
-  {
-    "Title": "Creepy",
-    "Issue #": 103,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 15
   },
   {
     "Title": "Creepy",
@@ -348,7 +308,7 @@ export const data = [
     "Issue #": 28,
     "Condition": "FN",
     "Website Notes": "Bruce Lee C/S",
-    "Personal Notes (Not on website)": "2 avail",
+    "Personal Notes (Not on website)": "",
     "Cost Basis": 12
   },
   {
@@ -406,14 +366,6 @@ export const data = [
     "Website Notes": "1st Solomon Kane",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20
-  },
-  {
-    "Title": "Dracula Lives!",
-    "Issue #": 5,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
   },
   {
     "Title": "Dracula Lives!",
@@ -744,6 +696,14 @@ export const data = [
     "Cost Basis": 5
   },
   {
+    "Title": "Heavy Metal",
+    "Issue #": 1,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25
+  },
+  {
     "Title": "Heroes Inc",
     "Issue #": 2,
     "Condition": "F/VF",
@@ -864,14 +824,6 @@ export const data = [
     "Cost Basis": 10
   },
   {
-    "Title": "Marvel Movie Premiere",
-    "Issue #": 1,
-    "Condition": "VF",
-    "Website Notes": "Land That Time Forgot",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
-  },
-  {
     "Title": "Marvel Preview",
     "Issue #": 2,
     "Condition": "NM",
@@ -934,14 +886,6 @@ export const data = [
     "Website Notes": "Punisher",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 35
-  },
-  {
-    "Title": "Marvel Super Special",
-    "Issue #": 5,
-    "Condition": "VF/NM",
-    "Website Notes": "KISS w/Poster",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 50
   },
   {
     "Title": "Monster Parade",
@@ -1790,6 +1734,14 @@ export const data = [
     "Website Notes": "Boris Witch Cover",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25
+  },
+  {
+    "Title": "Weird Tales of the Macabre",
+    "Issue #": 2,
+    "Condition": "FN",
+    "Website Notes": "Boris Witch Cover",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15
   },
   {
     "Title": "Witches Tales",

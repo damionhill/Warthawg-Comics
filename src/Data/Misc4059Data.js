@@ -1117,15 +1117,6 @@ export const data = [
   },
   {
     "Title": "Captain Marvel Adventures",
-    "Issue #": 29,
-    "Condition": "G",
-    "Website Notes": "1st Mr Mind Cover",
-    "Personal Notes (Not on website)": "Fawcett",
-    "Cost Basis": 40,
-    "": ""
-  },
-  {
-    "Title": "Captain Marvel Adventures",
     "Issue #": 33,
     "Condition": "VG",
     "Website Notes": "",
@@ -1145,15 +1136,6 @@ export const data = [
   {
     "Title": "Captain Marvel Adventures",
     "Issue #": 43,
-    "Condition": "G/VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fawcett",
-    "Cost Basis": 40,
-    "": ""
-  },
-  {
-    "Title": "Captain Marvel Adventures",
-    "Issue #": 77,
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Fawcett",
@@ -1194,6 +1176,15 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Fawcett",
     "Cost Basis": 40,
+    "": ""
+  },
+  {
+    "Title": "Captain Marvel Jr",
+    "Issue #": 47,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Fawcett",
+    "Cost Basis": 90,
     "": ""
   },
   {
@@ -1378,15 +1369,6 @@ export const data = [
   },
   {
     "Title": "Classics Illustrated",
-    "Issue #": 96,
-    "Condition": "VG",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Classics",
-    "Cost Basis": 10,
-    "": ""
-  },
-  {
-    "Title": "Classics Illustrated",
     "Issue #": 100,
     "Condition": "G/VG",
     "Website Notes": "1st Print",
@@ -1468,11 +1450,65 @@ export const data = [
   },
   {
     "Title": "Crime and Punishment",
+    "Issue #": 2,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
+    "Title": "Crime and Punishment",
+    "Issue #": 3,
+    "Condition": "GD",
+    "Website Notes": "Used in SOTI",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 10,
+    "": ""
+  },
+  {
+    "Title": "Crime and Punishment",
+    "Issue #": 4,
+    "Condition": "F/VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 25,
+    "": ""
+  },
+  {
+    "Title": "Crime and Punishment",
+    "Issue #": 5,
+    "Condition": "F/VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
+    "Title": "Crime and Punishment",
+    "Issue #": 11,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
+    "Title": "Crime and Punishment",
     "Issue #": 17,
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Lev Gleason",
     "Cost Basis": 15,
+    "": ""
+  },
+  {
+    "Title": "Crime and Punishment",
+    "Issue #": 53,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 20,
     "": ""
   },
   {
@@ -1486,11 +1522,65 @@ export const data = [
   },
   {
     "Title": "Crime Does Not Pay",
+    "Issue #": 49,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 15,
+    "": ""
+  },
+  {
+    "Title": "Crime Does Not Pay",
+    "Issue #": 50,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
+    "Title": "Crime Does Not Pay",
+    "Issue #": 51,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
+    "Title": "Crime Does Not Pay",
+    "Issue #": 52,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
+    "Title": "Crime Does Not Pay",
     "Issue #": 53,
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Lev Gleason",
     "Cost Basis": 15,
+    "": ""
+  },
+  {
+    "Title": "Crime Does Not Pay",
+    "Issue #": 54,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
+    "Title": "Crime Does Not Pay",
+    "Issue #": 55,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 20,
     "": ""
   },
   {
@@ -1504,11 +1594,47 @@ export const data = [
   },
   {
     "Title": "Crime Does Not Pay",
+    "Issue #": 57,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
+    "Title": "Crime Does Not Pay",
+    "Issue #": 58,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
+    "Title": "Crime Does Not Pay",
     "Issue #": 59,
     "Condition": "VG-",
     "Website Notes": "Buried Alive Cover",
     "Personal Notes (Not on website)": "Lev Gleason",
     "Cost Basis": 15,
+    "": ""
+  },
+  {
+    "Title": "Crime Does Not Pay",
+    "Issue #": 62,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 25,
+    "": ""
+  },
+  {
+    "Title": "Crime Does Not Pay",
+    "Issue #": 65,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 20,
     "": ""
   },
   {
@@ -1522,11 +1648,38 @@ export const data = [
   },
   {
     "Title": "Crime Does Not Pay",
+    "Issue #": 75,
+    "Condition": "F/VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
+    "Title": "Crime Does Not Pay",
     "Issue #": 105,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Lev Gleason",
     "Cost Basis": 15,
+    "": ""
+  },
+  {
+    "Title": "Crime Does Not Pay",
+    "Issue #": 111,
+    "Condition": "GD",
+    "Website Notes": "Used in POP",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 10,
+    "": ""
+  },
+  {
+    "Title": "Crime Does Not Pay",
+    "Issue #": 145,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
+    "Cost Basis": 10,
     "": ""
   },
   {
@@ -1715,6 +1868,15 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Phantom Lady",
     "Personal Notes (Not on website)": "IW",
+    "Cost Basis": 25,
+    "": ""
+  },
+  {
+    "Title": "Desperado",
+    "Issue #": 1,
+    "Condition": "VG+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Lev Gleason",
     "Cost Basis": 25,
     "": ""
   },
@@ -1935,6 +2097,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Fightin' Marines",
+    "Issue #": 10,
+    "Condition": "VG/F",
+    "Website Notes": "Baker Cover",
+    "Personal Notes (Not on website)": "St Johns",
+    "Cost Basis": 40,
+    "": ""
+  },
+  {
     "Title": "Fighting American",
     "Issue #": 6,
     "Condition": "VG/F",
@@ -2049,6 +2220,15 @@ export const data = [
     "Website Notes": "Centerfold Missing",
     "Personal Notes (Not on website)": "Quality",
     "Cost Basis": "",
+    "": ""
+  },
+  {
+    "Title": "Ghost Rider",
+    "Issue #": 10,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "ME",
+    "Cost Basis": 175,
     "": ""
   },
   {
@@ -2220,33 +2400,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Toby",
     "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Jo-Jo",
-    "Issue #": 14,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fox",
-    "Cost Basis": 120,
-    "": ""
-  },
-  {
-    "Title": "Journey Into Mystery",
-    "Issue #": 26,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 215,
-    "": ""
-  },
-  {
-    "Title": "Journey Into Mystery",
-    "Issue #": 27,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 225,
     "": ""
   },
   {
@@ -2733,15 +2886,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Fiction House",
     "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Lana",
-    "Issue #": 7,
-    "Condition": "VG",
-    "Website Notes": "Last Issue",
-    "Personal Notes (Not on website)": "Timely",
-    "Cost Basis": 45,
     "": ""
   },
   {
@@ -3321,6 +3465,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Men's Adventures",
+    "Issue #": 28,
+    "Condition": "GD",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 100,
+    "": ""
+  },
+  {
     "Title": "Military Comics",
     "Issue #": 37,
     "Condition": "VG",
@@ -3480,6 +3633,15 @@ export const data = [
     "Website Notes": "Frazetta",
     "Personal Notes (Not on website)": "Famous Funnies",
     "Cost Basis": 10,
+    "": ""
+  },
+  {
+    "Title": "Murder Incorporated",
+    "Issue #": 5,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Fox",
+    "Cost Basis": 50,
     "": ""
   },
   {
@@ -3837,15 +3999,6 @@ export const data = [
     "Title": "Planet Comics",
     "Issue #": 55,
     "Condition": "G/VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fiction House",
-    "Cost Basis": 110,
-    "": ""
-  },
-  {
-    "Title": "Planet Comics",
-    "Issue #": 58,
-    "Condition": "G-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Fiction House",
     "Cost Basis": 110,
@@ -4402,15 +4555,6 @@ export const data = [
   },
   {
     "Title": "Sheena",
-    "Issue #": 8,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fiction House",
-    "Cost Basis": 85,
-    "": ""
-  },
-  {
-    "Title": "Sheena",
     "Issue #": 13,
     "Condition": "VG+",
     "Website Notes": "",
@@ -4551,6 +4695,15 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Timely",
     "Cost Basis": 275,
+    "": ""
+  },
+  {
+    "Title": "Super Mystery Comics",
+    "Issue #": "V4#5",
+    "Condition": "VG+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Ace",
+    "Cost Basis": 150,
     "": ""
   },
   {
@@ -4857,7 +5010,7 @@ export const data = [
     "Website Notes": "Classic Cvr",
     "Personal Notes (Not on website)": "Hillman",
     "Cost Basis": 25,
-    "": ""
+    "": "@CGC"
   },
   {
     "Title": "War Adventures",

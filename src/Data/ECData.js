@@ -49,11 +49,11 @@ export const data = [
   },
   {
     "Title": "Haunt of Fear",
-    "Issue #": 17,
-    "Condition": "G/VG",
-    "Website Notes": "Classic Cover",
-    "Personal Notes (Not on website)": "GA",
-    "Cost Basis": 385
+    "Issue #": 16,
+    "Condition": "VG",
+    "Website Notes": "Ingels Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 215
   },
   {
     "Title": "Mad",
@@ -213,6 +213,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "Frazetta",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 700
+    "Cost Basis": 500
   }
 ];
