@@ -1155,17 +1155,6 @@ export const data = [
     "__2": ""
   },
   {
-    "Title": "Something is Killing the Children",
-    "Issue #": 1,
-    "Condition": "NM/M",
-    "Website Notes": "Frison Variant",
-    "Personal Notes (Not on website)": "Boom!",
-    "Cost Basis": 100,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Space Ghost (1987)",
     "Issue #": 1,
     "Condition": "NM",
@@ -1183,17 +1172,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Image 2 avail",
     "Cost Basis": 20,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Spawn",
-    "Issue #": 1,
-    "Condition": "CGC 9.8",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Image",
-    "Cost Basis": 100,
     "": "",
     "__1": "",
     "__2": ""

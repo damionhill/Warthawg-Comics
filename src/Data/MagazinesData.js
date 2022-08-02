@@ -1496,22 +1496,6 @@ export const data = [
     "Cost Basis": 54
   },
   {
-    "Title": "Thriller",
-    "Issue #": 1,
-    "Condition": "VG",
-    "Website Notes": 1962,
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 150
-  },
-  {
-    "Title": "Thriller",
-    "Issue #": 2,
-    "Condition": "VG",
-    "Website Notes": "Rare",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 150
-  },
-  {
     "Title": "Tiny Tim",
     "Issue #": 1967,
     "Condition": "VF+",
@@ -1604,14 +1588,6 @@ export const data = [
     "Issue #": 74,
     "Condition": "VF/NM",
     "Website Notes": "Photo Cvr",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 30
-  },
-  {
-    "Title": "Vampirella",
-    "Issue #": 99,
-    "Condition": "VF",
-    "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
     "Cost Basis": 30
   },

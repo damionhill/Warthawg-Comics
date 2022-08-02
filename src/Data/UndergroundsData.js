@@ -2027,15 +2027,6 @@ export const data = [
   {
     "Title": "Junkwaffel",
     "Issue #": 4,
-    "Condition": "FN+",
-    "Website Notes": "1st Print Bode'",
-    "Personal Notes (Not on website)": "Print Mint",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Junkwaffel",
-    "Issue #": 4,
     "Condition": "VG",
     "Website Notes": "1st Print Bode'",
     "Personal Notes (Not on website)": "Print Mint",
@@ -2093,15 +2084,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "1974 Pound",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Legion of Charles",
-    "Issue #": 1,
-    "Condition": "VF+",
-    "Website Notes": 1971,
-    "Personal Notes (Not on website)": "Last Gasp",
     "Cost Basis": "",
     "": ""
   },
@@ -3043,15 +3025,6 @@ export const data = [
   },
   {
     "Title": "Tales of Sex and Death",
-    "Issue #": 1,
-    "Condition": "NM-",
-    "Website Notes": 1971,
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Tales of Sex and Death",
     "Issue #": 2,
     "Condition": "VF/NM",
     "Website Notes": 1975,
@@ -3300,15 +3273,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Jam Press",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Wha!?",
-    "Issue #": 3,
-    "Condition": "VF",
-    "Website Notes": "All Ditko",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 2,
     "": ""
   },
   {

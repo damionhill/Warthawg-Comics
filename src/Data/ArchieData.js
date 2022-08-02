@@ -137,14 +137,6 @@ export const data = [
   },
   {
     "Title": "Archie's Girls Betty and Veronica",
-    "Issue #": 49,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25
-  },
-  {
-    "Title": "Archie's Girls Betty and Veronica",
     "Issue #": 105,
     "Condition": "G/VG",
     "Website Notes": "",
@@ -254,14 +246,6 @@ export const data = [
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5
-  },
-  {
-    "Title": "Archie's Pal Jughead",
-    "Issue #": 2,
-    "Condition": "G/VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 26
   },
   {
     "Title": "Archie's Pal Jughead",
@@ -387,14 +371,6 @@ export const data = [
     "Title": "Laugh",
     "Issue #": 38,
     "Condition": "FN-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
-  },
-  {
-    "Title": "Laugh",
-    "Issue #": 91,
-    "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15
