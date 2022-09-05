@@ -671,6 +671,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Pee-Wee Pixies",
+    "Issue #": 10,
+    "Condition": "VG/F",
+    "Website Notes": "IW",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 5,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Personality Comics",
     "Issue #": "",
     "Condition": "NM",

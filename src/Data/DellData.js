@@ -5,7 +5,7 @@ export const data = [
     "Condition": "G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
+    "cost": 20,
     "": "",
     "__1": "",
     "__2": ""
@@ -16,7 +16,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "1964 One Shot",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 120,
+    "cost": 120,
     "": "",
     "__1": "",
     "__2": ""
@@ -27,7 +27,18 @@ export const data = [
     "Condition": "FN/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
+    "cost": 15,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Charlie McCarthy",
+    "Issue #": 5,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -38,7 +49,18 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
+    "cost": 5,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Donald and the Wheel",
+    "Issue #": "FC1190",
+    "Condition": "VG/F",
+    "Website Notes": "Barks Cover",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -49,7 +71,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Walt Kelly",
     "Personal Notes (Not on website)": "GA",
-    "Cost Basis": 33,
+    "cost": 33,
     "": "",
     "__1": "",
     "__2": ""
@@ -60,7 +82,7 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "Bambi's Children",
     "Personal Notes (Not on website)": "GA",
-    "Cost Basis": 35,
+    "cost": 35,
     "": "",
     "__1": "",
     "__2": ""
@@ -71,7 +93,7 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Porky Pig",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 76,
+    "cost": 76,
     "": "",
     "__1": "",
     "__2": ""
@@ -82,7 +104,7 @@ export const data = [
     "Condition": "CGC 7.0",
     "Website Notes": "1st Turok",
     "Personal Notes (Not on website)": "2 avail",
-    "Cost Basis": 680,
+    "cost": 680,
     "": "",
     "__1": "",
     "__2": ""
@@ -93,7 +115,7 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Moby Dick",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 21,
+    "cost": 21,
     "": "",
     "__1": "",
     "__2": ""
@@ -104,7 +126,7 @@ export const data = [
     "Condition": "F/G",
     "Website Notes": "1st Series",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 65,
+    "cost": 65,
     "": "",
     "__1": "",
     "__2": ""
@@ -115,7 +137,18 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "1st Series",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 65,
+    "cost": 65,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Henry",
+    "Issue #": 5,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -126,7 +159,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
+    "cost": 15,
     "": "",
     "__1": "",
     "__2": ""
@@ -137,7 +170,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -148,7 +181,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -159,7 +192,7 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -170,7 +203,7 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -181,7 +214,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -192,7 +225,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -203,7 +236,7 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -214,7 +247,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -225,7 +258,7 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -236,7 +269,7 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -247,7 +280,7 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -258,7 +291,7 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -269,7 +302,7 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -280,7 +313,7 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -291,7 +324,7 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -302,7 +335,51 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
+    "cost": 15,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Little Beaver",
+    "Issue #": "FC267",
+    "Condition": "VG+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Little Beaver",
+    "Issue #": "FC294",
+    "Condition": "VG+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Little Beaver",
+    "Issue #": "FC529",
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Little Beaver",
+    "Issue #": "FC695",
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -313,7 +390,7 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -324,7 +401,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -335,7 +412,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "in Paris (Giant)",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -346,7 +423,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -357,7 +434,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
+    "cost": 15,
     "": "",
     "__1": "",
     "__2": ""
@@ -368,7 +445,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
+    "cost": 15,
     "": "",
     "__1": "",
     "__2": ""
@@ -379,7 +456,18 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 75,
+    "cost": 75,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Looney Tunes",
+    "Issue #": 68,
+    "Condition": "VG/F",
+    "Website Notes": "Baseball Cvr",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -390,7 +478,18 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 75,
+    "cost": 75,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Peanuts",
+    "Issue #": 10,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -401,7 +500,7 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "Kelly Art",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
+    "cost": 20,
     "": "",
     "__1": "",
     "__2": ""
@@ -412,7 +511,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -423,7 +522,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -434,7 +533,18 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Popular Comics",
+    "Issue #": 81,
+    "Condition": "FA",
+    "Website Notes": "3/4 Cover",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -445,7 +555,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Alice in Wonderland",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -456,7 +566,7 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -467,7 +577,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -478,7 +588,7 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 4,
+    "cost": 4,
     "": "",
     "__1": "",
     "__2": ""
@@ -489,7 +599,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 65,
+    "cost": 65,
     "": "",
     "__1": "",
     "__2": ""
@@ -500,7 +610,7 @@ export const data = [
     "Condition": "GD+",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -511,7 +621,7 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -522,7 +632,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -533,7 +643,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -544,7 +654,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -555,7 +665,7 @@ export const data = [
     "Condition": "G",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -566,7 +676,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -577,7 +687,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -588,7 +698,7 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -599,7 +709,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -610,7 +720,7 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -621,7 +731,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -632,7 +742,7 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -643,7 +753,7 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -654,7 +764,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -665,7 +775,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -676,7 +786,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -687,7 +797,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -698,7 +808,7 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
+    "cost": "",
     "": "",
     "__1": "",
     "__2": ""
@@ -709,7 +819,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Toth Art",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -720,7 +830,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -731,7 +841,18 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "3-D Dell",
+    "Issue #": 1,
+    "Condition": "FA",
+    "Website Notes": "Rootie Kazootie",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -742,7 +863,7 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -753,7 +874,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -764,7 +885,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
+    "cost": 20,
     "": "",
     "__1": "",
     "__2": ""
@@ -775,7 +896,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -786,7 +907,7 @@ export const data = [
     "Condition": "GD+",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "cost": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -797,7 +918,7 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Barks Art",
     "Personal Notes (Not on website)": "GA",
-    "Cost Basis": 100,
+    "cost": 100,
     "": "",
     "__1": "",
     "__2": ""
@@ -808,7 +929,7 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
+    "cost": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -819,7 +940,7 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 55,
+    "cost": 55,
     "": "",
     "__1": "",
     "__2": ""

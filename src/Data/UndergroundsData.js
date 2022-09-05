@@ -209,15 +209,6 @@ export const data = [
   {
     "Title": "Barbarian Comics",
     "Issue #": 1,
-    "Condition": "VG",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "California Comics",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Barbarian Comics",
-    "Issue #": 1,
     "Condition": "F/VF",
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "California Comics",
@@ -2534,15 +2525,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Ninja High School",
     "Personal Notes (Not on website)": "Eternity",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Psychotic Adventures Ilustrated",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": 1972,
-    "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
   },
