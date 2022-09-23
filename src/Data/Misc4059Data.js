@@ -3357,15 +3357,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Mary Marvel Comics",
-    "Issue #": 5,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fawcett",
-    "Cost Basis": 112,
-    "": ""
-  },
-  {
     "Title": "Masked Ranger",
     "Issue #": 2,
     "Condition": "G/VG",
