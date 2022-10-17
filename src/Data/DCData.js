@@ -190,6 +190,15 @@ export const data = [
   },
   {
     "Title": "Adventure Comics",
+    "Issue #": 63,
+    "Condition": "G/VG",
+    "Website Notes": "Starman",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 500,
+    "": "trade"
+  },
+  {
+    "Title": "Adventure Comics",
     "Issue #": 138,
     "Condition": "FA",
     "Website Notes": "3/4 Cover",
@@ -2704,9 +2713,9 @@ export const data = [
     "Issue #": 181,
     "Condition": "CGC .5",
     "Website Notes": "Missing poster",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 125,
-    "": "Shu"
+    "Personal Notes (Not on website)": "2 avail",
+    "Cost Basis": 140,
+    "": "Shu/CC 140 ea"
   },
   {
     "Title": "Batman",
@@ -3012,6 +3021,15 @@ export const data = [
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "Joker C/S",
     "Cost Basis": 10,
+    "": ""
+  },
+  {
+    "Title": "Batman",
+    "Issue #": 260,
+    "Condition": "F/VF",
+    "Website Notes": "Giant",
+    "Personal Notes (Not on website)": "Joker C/S",
+    "Cost Basis": 25,
     "": ""
   },
   {
@@ -7759,6 +7777,15 @@ export const data = [
   },
   {
     "Title": "House of Mystery",
+    "Issue #": 1,
+    "Condition": "CBCS 5.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "checkmark",
+    "Cost Basis": 1285,
+    "": "CConnect"
+  },
+  {
+    "Title": "House of Mystery",
     "Issue #": 58,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -8530,6 +8557,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 1550,
     "": ""
+  },
+  {
+    "Title": "House of Secrets",
+    "Issue #": 92,
+    "Condition": "CGC 5.5",
+    "Website Notes": "1st Swamp Thing",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1000,
+    "": "Mike"
   },
   {
     "Title": "House of Secrets",
@@ -11536,15 +11572,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
     "": ""
-  },
-  {
-    "Title": "Shazam (1973)",
-    "Issue #": 28,
-    "Condition": "CGC 8.5",
-    "Website Notes": "Black Adam",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 250,
-    "": "Shu"
   },
   {
     "Title": "Shazam (1987)",
@@ -15964,6 +15991,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
     "": ""
+  },
+  {
+    "Title": "Wonder Woman (1987)",
+    "Issue #": 72,
+    "Condition": "NM",
+    "Website Notes": "Classic Bolland Cover",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40,
+    "": "GA Collectables"
   },
   {
     "Title": "Wonder Woman (1987)",

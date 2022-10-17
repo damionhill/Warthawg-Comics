@@ -57,14 +57,6 @@ export const data = [
   },
   {
     "Title": "Frontline Combat",
-    "Issue #": 12,
-    "Condition": "GD",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
-  },
-  {
-    "Title": "Frontline Combat",
     "Issue #": 14,
     "Condition": "GD+",
     "Website Notes": "",
@@ -182,14 +174,6 @@ export const data = [
     "Website Notes": "Clasic Junkie C/S",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 100
-  },
-  {
-    "Title": "Two-Fisted Tales",
-    "Issue #": 34,
-    "Condition": "GD",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
   },
   {
     "Title": "Two-Fisted Tales",

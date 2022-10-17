@@ -812,11 +812,11 @@ export const data = [
   {
     "Title": "Black Knight",
     "Issue #": 1,
-    "Condition": "VG/F",
-    "Website Notes": 1953,
-    "Personal Notes (Not on website)": "Toby @CGC",
-    "Cost Basis": 220,
-    "": ""
+    "Condition": "CGC 2.5",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Timely",
+    "Cost Basis": 1600,
+    "": "Mike"
   },
   {
     "Title": "Black Magic",
@@ -2070,6 +2070,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Famous Western Badmen",
+    "Issue #": 15,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Youthful",
+    "Cost Basis": 25,
+    "": "GA Collectables"
+  },
+  {
     "Title": "Fantastic",
     "Issue #": 8,
     "Condition": "G/VG",
@@ -2268,6 +2277,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Ghost Comics",
+    "Issue #": 5,
+    "Condition": "CGC 4.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Fiction House",
+    "Cost Basis": 250,
+    "": "Mike"
+  },
+  {
     "Title": "Giants",
     "Issue #": "NN",
     "Condition": "FN",
@@ -2401,6 +2419,15 @@ export const data = [
     "Personal Notes (Not on website)": "Fawcett",
     "Cost Basis": 70,
     "": ""
+  },
+  {
+    "Title": "Jesse James Great Prison Break",
+    "Issue #": 5,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Avon",
+    "Cost Basis": 40,
+    "": "GA Collectibles"
   },
   {
     "Title": "Jet",
@@ -4887,6 +4914,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Tomb of Terror",
+    "Issue #": 16,
+    "Condition": "CGC 1.5",
+    "Website Notes": "Classic Cover",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 225,
+    "": "Mike"
+  },
+  {
     "Title": "Top Adventure",
     "Issue #": 1,
     "Condition": "VG",
@@ -5024,6 +5060,15 @@ export const data = [
   {
     "Title": "War Adventures",
     "Issue #": 6,
+    "Condition": "CGC 6.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 165,
+    "": "CConnect"
+  },
+  {
+    "Title": "War Adventures",
+    "Issue #": 6,
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Atlas",
@@ -5101,6 +5146,15 @@ export const data = [
     "Personal Notes (Not on website)": "Trojan",
     "Cost Basis": 70,
     "": ""
+  },
+  {
+    "Title": "Whiz Comics",
+    "Issue #": 17,
+    "Condition": "F/G",
+    "Website Notes": "Split spine",
+    "Personal Notes (Not on website)": "Fawcett",
+    "Cost Basis": 410,
+    "": "trade"
   },
   {
     "Title": "Wild Bill Hickok",
