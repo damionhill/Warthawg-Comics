@@ -232,36 +232,12 @@ export const data = [
     "Cost Basis": 5
   },
   {
-    "Title": "Sherlock Holmes",
-    "Issue #": 1,
-    "Condition": "G",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 2
-  },
-  {
     "Title": "Six Million Dollar Man",
     "Issue #": 1,
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10
-  },
-  {
-    "Title": "Space Adventures",
-    "Issue #": 32,
-    "Condition": "VG/F",
-    "Website Notes": "Ditko C/A",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 40
-  },
-  {
-    "Title": "Space Adventures",
-    "Issue #": 36,
-    "Condition": "F/VF",
-    "Website Notes": "Ditko C/A",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 30
   },
   {
     "Title": "Space War",

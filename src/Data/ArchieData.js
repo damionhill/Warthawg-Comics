@@ -256,14 +256,6 @@ export const data = [
     "Cost Basis": 20
   },
   {
-    "Title": "Archie's Pal Jughead",
-    "Issue #": 21,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
-  },
-  {
     "Title": "Archie's Pal Jughead Annual",
     "Issue #": 2,
     "Condition": "G/VG",
@@ -294,14 +286,6 @@ export const data = [
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5
-  },
-  {
-    "Title": "Archie's Rival Reggie",
-    "Issue #": 14,
-    "Condition": "VG",
-    "Website Notes": "last issue",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 28
   },
   {
     "Title": "Archie's TV Laugh Out",

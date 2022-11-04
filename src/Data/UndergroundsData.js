@@ -396,15 +396,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Binky Brown Meets the Holy Virgin Mary",
-    "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": "1st Print 1972",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Birdland",
     "Issue #": "1-3",
     "Condition": "NM",
@@ -704,15 +695,6 @@ export const data = [
   {
     "Title": "Cherry Poptart",
     "Issue #": 5,
-    "Condition": "NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Yetzler",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Cherry Poptart",
-    "Issue #": 7,
     "Condition": "NM",
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "Yetzler",
@@ -1066,15 +1048,6 @@ export const data = [
     "Issue #": "NN",
     "Condition": "VF/NM",
     "Website Notes": "Ditko 1975",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "D.O.A. Comics",
-    "Issue #": 1,
-    "Condition": "VF+",
-    "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
@@ -1505,15 +1478,6 @@ export const data = [
   {
     "Title": "Funnybook",
     "Issue #": 1,
-    "Condition": "G/VG",
-    "Website Notes": "1st Cherry",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 35,
-    "": ""
-  },
-  {
-    "Title": "Funnybook",
-    "Issue #": 1,
     "Condition": "VG",
     "Website Notes": "1st Cherry",
     "Personal Notes (Not on website)": "AP Co",
@@ -1932,15 +1896,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Eros",
     "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "It's a Dog's Life",
-    "Issue #": "",
-    "Condition": "NM",
-    "Website Notes": 1982,
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": "",
     "": ""
   },
   {
@@ -2520,15 +2475,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Prom Formula",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "Ninja High School",
-    "Personal Notes (Not on website)": "Eternity",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Psychotic Adventures Ilustrated",
     "Issue #": 3,
     "Condition": "F/VF",
@@ -2904,15 +2850,6 @@ export const data = [
     "Website Notes": "Crumb 1st Print",
     "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": 5,
-    "": ""
-  },
-  {
-    "Title": "Son of Mutant World",
-    "Issue #": 1,
-    "Condition": "NM",
-    "Website Notes": "Corben",
-    "Personal Notes (Not on website)": "Fantagraphics",
-    "Cost Basis": 2,
     "": ""
   },
   {

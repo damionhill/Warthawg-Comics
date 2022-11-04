@@ -15,7 +15,7 @@ export const data = [
     "Issue #": 5,
     "Condition": "NM-",
     "Website Notes": "Stevens Cover",
-    "Personal Notes (Not on website)": "Eclipse 2 avail",
+    "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
     "": "",
     "__1": "",
@@ -94,17 +94,6 @@ export const data = [
     "Website Notes": "Nolan Ryan",
     "Personal Notes (Not on website)": "Revolutionary",
     "Cost Basis": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Battle of the Planets",
-    "Issue #": 1,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Gold Key",
-    "Cost Basis": 40,
     "": "",
     "__1": "",
     "__2": ""
@@ -198,6 +187,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Crow",
+    "Issue #": 1,
+    "Condition": "CGC 9.6",
+    "Website Notes": "Signature Series",
+    "Personal Notes (Not on website)": "Caliber",
+    "Cost Basis": 3575,
+    "": "BCC",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Dark Horse Presents",
     "Issue #": 36,
     "Condition": "NM-",
@@ -245,6 +245,17 @@ export const data = [
     "Title": "Donatello",
     "Issue #": 1,
     "Condition": "NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Mirage",
+    "Cost Basis": 10,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Donatello",
+    "Issue #": 1,
+    "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Mirage",
     "Cost Basis": 10,
@@ -556,6 +567,17 @@ export const data = [
     "Website Notes": "Wizard W/COA",
     "Personal Notes (Not on website)": "Chaos",
     "Cost Basis": 5,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Leonardo",
+    "Issue #": 1,
+    "Condition": "NM-",
+    "Website Notes": "1986 TMNT",
+    "Personal Notes (Not on website)": "Mirage",
+    "Cost Basis": 20,
     "": "",
     "__1": "",
     "__2": ""
@@ -1210,6 +1232,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Spawn",
+    "Issue #": 9,
+    "Condition": "CGC 8.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "Ray",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Spirit",
     "Issue #": 2,
     "Condition": "VG",
@@ -1312,6 +1345,94 @@ export const data = [
     "Title": "Tales of the Teen Age Mutant Ninja Turtles",
     "Issue #": 3,
     "Condition": "NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Mirage",
+    "Cost Basis": 10,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Teen Age Mutant Ninja Turtles",
+    "Issue #": 2,
+    "Condition": "VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Mirage",
+    "Cost Basis": 50,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Teen Age Mutant Ninja Turtles",
+    "Issue #": 2,
+    "Condition": "VF/NM",
+    "Website Notes": "3rd Print",
+    "Personal Notes (Not on website)": "Mirage",
+    "Cost Basis": 20,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Teen Age Mutant Ninja Turtles",
+    "Issue #": 3,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Mirage",
+    "Cost Basis": 50,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Teen Age Mutant Ninja Turtles",
+    "Issue #": 4,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Mirage",
+    "Cost Basis": 50,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Teen Age Mutant Ninja Turtles",
+    "Issue #": 5,
+    "Condition": "VF+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Mirage",
+    "Cost Basis": 25,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Teen Age Mutant Ninja Turtles",
+    "Issue #": 6,
+    "Condition": "VF+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Mirage",
+    "Cost Basis": 20,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Teen Age Mutant Ninja Turtles",
+    "Issue #": 7,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Mirage",
+    "Cost Basis": 25,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Teen Age Mutant Ninja Turtles",
+    "Issue #": 8,
+    "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Mirage",
     "Cost Basis": 10,

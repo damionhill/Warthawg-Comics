@@ -1,14 +1,5 @@
 export const data = [
   {
-    "Title": "Atom Ant",
-    "Issue #": 1,
-    "Condition": "VG-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
-    "": "Poon"
-  },
-  {
     "Title": "Beetle Bailey",
     "Issue #": 49,
     "Condition": "VG/F",
@@ -180,15 +171,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Milton the Monster",
-    "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
-    "": "Poon"
-  },
-  {
     "Title": "Mod Wheels",
     "Issue #": 1,
     "Condition": "NM-",
@@ -196,15 +178,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": ""
-  },
-  {
-    "Title": "Mr and Mrs J. Evil Scientist",
-    "Issue #": 2,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
-    "": "Poon"
   },
   {
     "Title": "Munsters",
@@ -277,15 +250,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
-  },
-  {
-    "Title": "Secret Squirrel",
-    "Issue #": 1,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
-    "": "Poon"
   },
   {
     "Title": "Star Trek",
