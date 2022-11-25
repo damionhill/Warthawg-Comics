@@ -4383,30 +4383,12 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Shadow Magazine",
-    "Issue #": "6/36",
-    "Condition": "F/G",
-    "Website Notes": "Pulp",
-    "Personal Notes (Not on website)": "Pulp",
-    "Cost Basis": 85,
-    "": ""
-  },
-  {
     "Title": "Sherry the Showgirl",
     "Issue #": 7,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 125,
-    "": ""
-  },
-  {
-    "Title": "Smilin' Jack",
-    "Issue #": "NN",
-    "Condition": "VF",
-    "Website Notes": "Giveaway",
-    "Personal Notes (Not on website)": "Tribune",
-    "Cost Basis": 5,
     "": ""
   },
   {

@@ -100,12 +100,12 @@ export const data = [
   },
   {
     "Title": "Betty Page Comics",
-    "Issue #": "",
+    "Issue #": 1,
     "Condition": "NM",
     "Website Notes": "Stevens Cover",
     "Personal Notes (Not on website)": "Dark Horse",
-    "Cost Basis": 10,
-    "": "",
+    "Cost Basis": 20,
+    "": "2 avail",
     "__1": "",
     "__2": ""
   },
@@ -1052,6 +1052,17 @@ export const data = [
     "Personal Notes (Not on website)": "Piranha",
     "Cost Basis": 10,
     "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Pro",
+    "Issue #": 1,
+    "Condition": "NM",
+    "Website Notes": "Ennis 2002",
+    "Personal Notes (Not on website)": "Image",
+    "Cost Basis": 32,
+    "": "Telegraph",
     "__1": "",
     "__2": ""
   },

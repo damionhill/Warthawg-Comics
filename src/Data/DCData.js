@@ -4213,15 +4213,6 @@ export const data = [
   },
   {
     "Title": "DC Comics Presents",
-    "Issue #": 3,
-    "Condition": "VG-",
-    "Website Notes": "Whitman variant",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
-    "": ""
-  },
-  {
-    "Title": "DC Comics Presents",
     "Issue #": 26,
     "Condition": "CGC 9.4",
     "Website Notes": "1st New Teen Titans",
