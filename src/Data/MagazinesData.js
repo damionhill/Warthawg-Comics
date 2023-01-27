@@ -81,15 +81,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Blazing Combat",
-    "Issue #": 4,
-    "Condition": "VF-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
     "Title": "Captain Britain (1985)",
     "Issue #": 6,
     "Condition": "VF/NM",
@@ -729,6 +720,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Famous Monsters",
+    "Issue #": 180,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Warren",
+    "Cost Basis": 11,
+    "": "Telegraph"
+  },
+  {
     "Title": "Famous Monsters Annual",
     "Issue #": 1962,
     "Condition": "FN+",
@@ -802,12 +802,39 @@ export const data = [
   },
   {
     "Title": "Hulk",
+    "Issue #": 16,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 8,
+    "": "Telegraph"
+  },
+  {
+    "Title": "Hulk",
+    "Issue #": 19,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "two avail",
+    "Cost Basis": 15,
+    "": "Telegraph"
+  },
+  {
+    "Title": "Hulk",
     "Issue #": 21,
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": ""
+  },
+  {
+    "Title": "Hulk",
+    "Issue #": 22,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 11,
+    "": "Telegraph"
   },
   {
     "Title": "Hulk",
@@ -1186,6 +1213,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
     "": ""
+  },
+  {
+    "Title": "Planet of the Apes",
+    "Issue #": "1-29",
+    "Condition": "VF/NM",
+    "Website Notes": "Complete Set",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 265,
+    "": "Telegraph"
   },
   {
     "Title": "Planet of the Apes",

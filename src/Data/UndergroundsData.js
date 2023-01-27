@@ -775,15 +775,6 @@ export const data = [
   },
   {
     "Title": "Commies From Mars",
-    "Issue #": 3,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Commies From Mars",
     "Issue #": 4,
     "Condition": "VF/NM",
     "Website Notes": "",

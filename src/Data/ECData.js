@@ -1,21 +1,5 @@
 export const data = [
   {
-    "Title": "Aces High",
-    "Issue #": 2,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
-  },
-  {
-    "Title": "Aces High",
-    "Issue #": 4,
-    "Condition": "G/VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
-  },
-  {
     "Title": "Crime SuspenStories",
     "Issue #": 9,
     "Condition": "G+",

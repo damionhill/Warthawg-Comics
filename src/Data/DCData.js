@@ -1342,15 +1342,6 @@ export const data = [
   },
   {
     "Title": "All Star Comics",
-    "Issue #": 6,
-    "Condition": "CGC 4.5",
-    "Website Notes": "J Thunder joins",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 655,
-    "": "Comiclink"
-  },
-  {
-    "Title": "All Star Comics",
     "Issue #": 58,
     "Condition": "VG-",
     "Website Notes": "1st Power Girl",
@@ -2004,15 +1995,6 @@ export const data = [
     "Website Notes": "Joker C/S",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 1200,
-    "": ""
-  },
-  {
-    "Title": "Batman",
-    "Issue #": 81,
-    "Condition": "VG/F",
-    "Website Notes": "Two Face C/S",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 500,
     "": ""
   },
   {
@@ -4519,15 +4501,6 @@ export const data = [
   },
   {
     "Title": "Detective Comics",
-    "Issue #": 104,
-    "Condition": "GD",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 125,
-    "": "Poon"
-  },
-  {
-    "Title": "Detective Comics",
     "Issue #": 116,
     "Condition": "FA",
     "Website Notes": "",
@@ -5704,6 +5677,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 800,
     "": ""
+  },
+  {
+    "Title": "Flash",
+    "Issue #": 105,
+    "Condition": "CGC 2.5 (Q)",
+    "Website Notes": "Staples Replaced",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 500,
+    "": "Shu"
   },
   {
     "Title": "Flash",
@@ -11413,15 +11395,6 @@ export const data = [
   },
   {
     "Title": "Showcase",
-    "Issue #": 1,
-    "Condition": "CGC 6.0",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 850,
-    "": ""
-  },
-  {
-    "Title": "Showcase",
     "Issue #": 3,
     "Condition": "VG",
     "Website Notes": "Frogmen",
@@ -14200,6 +14173,24 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 175,
     "": ""
+  },
+  {
+    "Title": "Tales of the Unexpected",
+    "Issue #": 44,
+    "Condition": "FN-",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40,
+    "": "Taylor"
+  },
+  {
+    "Title": "Tales of the Unexpected",
+    "Issue #": 50,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Taylor"
   },
   {
     "Title": "Tales of the Unexpected",
