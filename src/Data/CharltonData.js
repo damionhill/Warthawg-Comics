@@ -46,15 +46,6 @@ export const data = [
   },
   {
     "Title": "Danger and Adventure",
-    "Issue #": 22,
-    "Condition": "G/VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 30,
-    "": "30th Century"
-  },
-  {
-    "Title": "Danger and Adventure",
     "Issue #": 23,
     "Condition": "VG",
     "Website Notes": "",
@@ -261,6 +252,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Racket Squad in Action",
+    "Issue #": 9,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 30,
+    "": ""
+  },
+  {
     "Title": "Ramar of the Jungle",
     "Issue #": 2,
     "Condition": "VG/F",
@@ -294,15 +294,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
-    "": ""
-  },
-  {
-    "Title": "Space War",
-    "Issue #": 1,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 75,
     "": ""
   },
   {

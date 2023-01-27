@@ -5,7 +5,17 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "EC",
-    "Cost Basis": 65
+    "Cost Basis": 65,
+    "": ""
+  },
+  {
+    "Title": "Crime SuspenStories",
+    "Issue #": 16,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 320,
+    "": "30th Century"
   },
   {
     "Title": "Frontline Combat",
@@ -13,7 +23,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": ""
+    "Cost Basis": "",
+    "": ""
   },
   {
     "Title": "Frontline Combat",
@@ -21,7 +32,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": ""
+    "Cost Basis": "",
+    "": ""
   },
   {
     "Title": "Frontline Combat",
@@ -29,7 +41,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": ""
+    "Cost Basis": "",
+    "": ""
   },
   {
     "Title": "Frontline Combat",
@@ -37,7 +50,8 @@ export const data = [
     "Condition": "GD+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": ""
+    "Cost Basis": "",
+    "": ""
   },
   {
     "Title": "Frontline Combat",
@@ -45,7 +59,8 @@ export const data = [
     "Condition": "F/G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Haunt of Fear",
@@ -53,7 +68,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "Ingels Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 215
+    "Cost Basis": 215,
+    "": ""
   },
   {
     "Title": "Mad",
@@ -61,7 +77,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 110
+    "Cost Basis": 110,
+    "": ""
   },
   {
     "Title": "Mad",
@@ -69,7 +86,8 @@ export const data = [
     "Condition": "FR",
     "Website Notes": "1/3 BC out",
     "Personal Notes (Not on website)": 80,
-    "Cost Basis": 25
+    "Cost Basis": 25,
+    "": ""
   },
   {
     "Title": "Mad",
@@ -77,7 +95,8 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 110
+    "Cost Basis": 110,
+    "": ""
   },
   {
     "Title": "Mad",
@@ -85,7 +104,8 @@ export const data = [
     "Condition": "F/G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 40
+    "Cost Basis": 40,
+    "": ""
   },
   {
     "Title": "Mad",
@@ -93,7 +113,8 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 25
+    "Cost Basis": 25,
+    "": ""
   },
   {
     "Title": "Mad",
@@ -101,7 +122,8 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 85
+    "Cost Basis": 85,
+    "": ""
   },
   {
     "Title": "Panic",
@@ -109,7 +131,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Cost Basis": 25
+    "Cost Basis": 25,
+    "": ""
   },
   {
     "Title": "Panic",
@@ -117,7 +140,8 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
-    "Cost Basis": 25
+    "Cost Basis": 25,
+    "": ""
   },
   {
     "Title": "Piracy",
@@ -125,7 +149,8 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Evans Art",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
+    "Cost Basis": 20,
+    "": ""
   },
   {
     "Title": "Piracy",
@@ -133,7 +158,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Piracy",
@@ -141,7 +167,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Two-Fisted Tales",
@@ -149,7 +176,8 @@ export const data = [
     "Condition": "FA/G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Two-Fisted Tales",
@@ -157,7 +185,8 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 25
+    "Cost Basis": 25,
+    "": ""
   },
   {
     "Title": "Two-Fisted Tales",
@@ -165,7 +194,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Two-Fisted Tales",
@@ -173,7 +203,8 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Two-Fisted Tales",
@@ -181,7 +212,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": ""
+    "Cost Basis": "",
+    "": ""
   },
   {
     "Title": "Two-Fisted Tales",
@@ -189,7 +221,8 @@ export const data = [
     "Condition": "F/G",
     "Website Notes": "Cpn Out Back Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": ""
+    "Cost Basis": "",
+    "": ""
   },
   {
     "Title": "Valor",
@@ -197,7 +230,8 @@ export const data = [
     "Condition": "GD",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Valor",
@@ -205,7 +239,8 @@ export const data = [
     "Condition": "GD",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Vault of Horror",
@@ -213,7 +248,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 250
+    "Cost Basis": 250,
+    "": ""
   },
   {
     "Title": "Vault of Horror",
@@ -221,7 +257,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Classic Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 1200
+    "Cost Basis": 1200,
+    "": ""
   },
   {
     "Title": "Vault of Horror",
@@ -229,7 +266,8 @@ export const data = [
     "Condition": "G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 150
+    "Cost Basis": 150,
+    "": ""
   },
   {
     "Title": "Weird Science",
@@ -237,7 +275,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Int Cpn Clip",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 50
+    "Cost Basis": 50,
+    "": ""
   },
   {
     "Title": "Weird Science Fantasy",
@@ -245,6 +284,7 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "Frazetta",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 500
+    "Cost Basis": 500,
+    "": ""
   }
 ];

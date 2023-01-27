@@ -235,6 +235,15 @@ export const data = [
   },
   {
     "Title": "Astonishing",
+    "Issue #": 27,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 150,
+    "": "Rodemaker"
+  },
+  {
+    "Title": "Astonishing",
     "Issue #": 31,
     "Condition": "G",
     "Website Notes": "Maneely",
@@ -936,15 +945,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Brick Bradford",
-    "Issue #": 5,
-    "Condition": "F/G",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "King",
-    "Cost Basis": 12,
-    "": ""
-  },
-  {
     "Title": "Broncho Bill",
     "Issue #": 6,
     "Condition": "VG-",
@@ -997,6 +997,15 @@ export const data = [
     "Personal Notes (Not on website)": "Fawcett",
     "Cost Basis": 55,
     "": ""
+  },
+  {
+    "Title": "Buster Crabbe",
+    "Issue #": 5,
+    "Condition": "FA",
+    "Website Notes": "Frazetta Cvr",
+    "Personal Notes (Not on website)": "Famous Funnies",
+    "Cost Basis": 300,
+    "": "A-1"
   },
   {
     "Title": "Camp Comics",
@@ -2007,6 +2016,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Exposed",
+    "Issue #": 3,
+    "Condition": "VG/F",
+    "Website Notes": "Crime",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 35,
+    "": ""
+  },
+  {
     "Title": "Family Favourites",
     "Issue #": 12,
     "Condition": "G/VG",
@@ -2058,6 +2076,15 @@ export const data = [
     "Website Notes": "Centerfold Missing",
     "Personal Notes (Not on website)": "King",
     "Cost Basis": 10,
+    "": ""
+  },
+  {
+    "Title": "Fight Comics",
+    "Issue #": 10,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Fiction House",
+    "Cost Basis": 100,
     "": ""
   },
   {
@@ -2314,15 +2341,6 @@ export const data = [
   },
   {
     "Title": "Jackie Robinson",
-    "Issue #": 2,
-    "Condition": "FN",
-    "Website Notes": "Photo Cover",
-    "Personal Notes (Not on website)": "Fawcett",
-    "Cost Basis": 70,
-    "": ""
-  },
-  {
-    "Title": "Jackie Robinson",
     "Issue #": 4,
     "Condition": "G+",
     "Website Notes": "Photo Cover",
@@ -2392,15 +2410,6 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 5,
     "": "GFalls"
-  },
-  {
-    "Title": "Journey Into Unknown Worlds",
-    "Issue #": 56,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 65,
-    "": ""
   },
   {
     "Title": "Journey Into Unknown Worlds",
@@ -3394,15 +3403,6 @@ export const data = [
   },
   {
     "Title": "Men's Adventures",
-    "Issue #": 23,
-    "Condition": "VG/F",
-    "Website Notes": "Horror",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 155,
-    "": ""
-  },
-  {
-    "Title": "Men's Adventures",
     "Issue #": 24,
     "Condition": "G/VG",
     "Website Notes": "Horror",
@@ -3687,15 +3687,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Navy Combat",
-    "Issue #": 19,
-    "Condition": "G",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 45,
     "": ""
   },
   {
@@ -4437,6 +4428,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Space Action",
+    "Issue #": 1,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Ace",
+    "Cost Basis": 300,
+    "": "Florida"
+  },
+  {
     "Title": "Spaceman",
     "Issue #": 4,
     "Condition": "FA",
@@ -4462,6 +4462,15 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 25,
     "": ""
+  },
+  {
+    "Title": "Spy Smasher",
+    "Issue #": 7,
+    "Condition": "VG",
+    "Website Notes": "Japanese War C/S",
+    "Personal Notes (Not on website)": "Fawcett",
+    "Cost Basis": 600,
+    "": "A-1"
   },
   {
     "Title": "Steve Samson",
@@ -4516,15 +4525,6 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 50,
     "": "Owen"
-  },
-  {
-    "Title": "Strange Terrors",
-    "Issue #": 7,
-    "Condition": "FN",
-    "Website Notes": "Giant",
-    "Personal Notes (Not on website)": "St John",
-    "Cost Basis": 145,
-    "": ""
   },
   {
     "Title": "Strange Worlds (1958)",
