@@ -4790,6 +4790,15 @@ export const data = [
   {
     "Title": "Detective Comics",
     "Issue #": 400,
+    "Condition": "CGC 8.0",
+    "Website Notes": "1st Man Bat",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 300,
+    "": "Bednarz"
+  },
+  {
+    "Title": "Detective Comics",
+    "Issue #": 400,
     "Condition": "VF",
     "Website Notes": "1st Man Bat",
     "Personal Notes (Not on website)": "",
@@ -4875,15 +4884,6 @@ export const data = [
     "Website Notes": "1st Talia",
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Detective Comics",
-    "Issue #": 413,
-    "Condition": "VF+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 55,
     "": ""
   },
   {
@@ -8282,20 +8282,20 @@ export const data = [
   {
     "Title": "House of Secrets",
     "Issue #": 92,
+    "Condition": "CGC 8.0",
+    "Website Notes": "1st Swamp Thing",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1900,
+    "": "Bednarz"
+  },
+  {
+    "Title": "House of Secrets",
+    "Issue #": 92,
     "Condition": "CGC 7.5",
     "Website Notes": "1st Swamp Thing",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 1550,
     "": ""
-  },
-  {
-    "Title": "House of Secrets",
-    "Issue #": 92,
-    "Condition": "CGC 5.5",
-    "Website Notes": "1st Swamp Thing",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 1000,
-    "": "Mike"
   },
   {
     "Title": "House of Secrets",
@@ -9694,15 +9694,6 @@ export const data = [
   },
   {
     "Title": "My Greatest Adventure",
-    "Issue #": 80,
-    "Condition": "CGC 7.0",
-    "Website Notes": "1st Doom Patrol",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 1100,
-    "": ""
-  },
-  {
-    "Title": "My Greatest Adventure",
     "Issue #": 85,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -10469,15 +10460,6 @@ export const data = [
   {
     "Title": "Our Army at War",
     "Issue #": 128,
-    "Condition": "FN",
-    "Website Notes": "Origin",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 55,
-    "": ""
-  },
-  {
-    "Title": "Our Army at War",
-    "Issue #": 128,
     "Condition": "VG+",
     "Website Notes": "Origin",
     "Personal Notes (Not on website)": "",
@@ -10500,15 +10482,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Our Army at War",
-    "Issue #": 168,
-    "Condition": "FN",
-    "Website Notes": "1st Unknown Soldier",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 35,
     "": ""
   },
   {
@@ -11752,6 +11725,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 125,
     "": ""
+  },
+  {
+    "Title": "Star Spangled War Stories",
+    "Issue #": "131 (#1)",
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 300,
+    "": "George"
   },
   {
     "Title": "Star Spangled War Stories",
@@ -13261,7 +13243,7 @@ export const data = [
     "Issue #": 233,
     "Condition": "VG/F",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "",
+    "Personal Notes (Not on website)": "2 avail",
     "Cost Basis": 75,
     "": ""
   },

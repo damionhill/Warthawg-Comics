@@ -9,15 +9,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Beneath the Planet of the Apes",
-    "Issue #": "NN",
-    "Condition": "VF",
-    "Website Notes": "w/Poster",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 30,
-    "": ""
-  },
-  {
     "Title": "Brothers Grimm",
     "Issue #": 1962,
     "Condition": "VG",
@@ -51,6 +42,15 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
+    "": "Poon"
+  },
+  {
+    "Title": "Frankenstein Jr",
+    "Issue #": 1,
+    "Condition": "VF+",
+    "Website Notes": "Scarce",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
     "": "Poon"
   },
   {
@@ -110,15 +110,6 @@ export const data = [
   {
     "Title": "I Spy",
     "Issue #": 1,
-    "Condition": "VF-",
-    "Website Notes": "Photo Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "I Spy",
-    "Issue #": 1,
     "Condition": "GD",
     "Website Notes": "Photo Cvr",
     "Personal Notes (Not on website)": "",
@@ -135,6 +126,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "I Spy",
+    "Issue #": 5,
+    "Condition": "F/VF",
+    "Website Notes": "Photo Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": ""
+  },
+  {
     "Title": "Jet Dream",
     "Issue #": 1,
     "Condition": "FN",
@@ -142,6 +142,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
     "": ""
+  },
+  {
+    "Title": "Jonny Quest",
+    "Issue #": 1,
+    "Condition": "FN+",
+    "Website Notes": 1962,
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 500,
+    "": "Bednard"
   },
   {
     "Title": "Magnus Robot Fighter",
@@ -187,24 +196,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
-  },
-  {
-    "Title": "Peanuts",
-    "Issue #": 1,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 300,
-    "": ""
-  },
-  {
-    "Title": "Quick Draw McGraw",
-    "Issue #": "FC1040(1)",
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
-    "": "Poon"
   },
   {
     "Title": "Scooby Doo (Gold Key)",
@@ -456,15 +447,6 @@ export const data = [
     "Website Notes": "W/Poster",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 425,
-    "": ""
-  },
-  {
-    "Title": "Yellow Submarine Beatles",
-    "Issue #": "NN",
-    "Condition": "CBCS 7.5",
-    "Website Notes": "W/Poster",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 225,
     "": ""
   }
 ];

@@ -721,15 +721,6 @@ export const data = [
   },
   {
     "Title": "Cherry Poptart",
-    "Issue #": 15,
-    "Condition": "F/VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Yetzler",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Cherry Poptart",
     "Issue #": 19,
     "Condition": "VF/NM",
     "Website Notes": "1st Print",
@@ -922,7 +913,7 @@ export const data = [
     "Issue #": 16,
     "Condition": "NM",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "Kitchen Sink 2 avail",
+    "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": "",
     "": ""
   },
@@ -2160,15 +2151,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Monolith",
-    "Issue #": "",
-    "Condition": "VF",
-    "Website Notes": 1972,
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Moondog",
     "Issue #": 1,
     "Condition": "VF/NM",
@@ -2828,15 +2810,6 @@ export const data = [
   {
     "Title": "Snoid Comics",
     "Issue #": "",
-    "Condition": "VF+",
-    "Website Notes": "Crumb 4th Print",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Snoid Comics",
-    "Issue #": "",
     "Condition": "FN+",
     "Website Notes": "Crumb 1st Print",
     "Personal Notes (Not on website)": "Kitchen Sink",
@@ -3314,15 +3287,6 @@ export const data = [
   {
     "Title": "XXXenophile",
     "Issue #": 5,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Palliard",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "XXXenophile",
-    "Issue #": 6,
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Palliard",
