@@ -190,6 +190,15 @@ export const data = [
   },
   {
     "Title": "Creepy",
+    "Issue #": 1,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Warren",
+    "Cost Basis": 50,
+    "": "Mike"
+  },
+  {
+    "Title": "Creepy",
     "Issue #": 10,
     "Condition": "VF",
     "Website Notes": "",
@@ -514,6 +523,15 @@ export const data = [
   },
   {
     "Title": "Famous Monsters",
+    "Issue #": 2,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Warren",
+    "Cost Basis": 300,
+    "": ""
+  },
+  {
+    "Title": "Famous Monsters",
     "Issue #": 6,
     "Condition": "VG",
     "Website Notes": "",
@@ -528,6 +546,15 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
     "Cost Basis": 110,
+    "": ""
+  },
+  {
+    "Title": "Famous Monsters",
+    "Issue #": 11,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Warren",
+    "Cost Basis": 30,
     "": ""
   },
   {
@@ -561,7 +588,7 @@ export const data = [
     "Title": "Famous Monsters",
     "Issue #": 14,
     "Condition": "VG/F",
-    "Website Notes": "",
+    "Website Notes": "2 avail",
     "Personal Notes (Not on website)": "Warren",
     "Cost Basis": 65,
     "": ""
@@ -864,6 +891,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Marvel Comics Super Special",
+    "Issue #": 4,
+    "Condition": "NM-",
+    "Website Notes": "Beatles",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": ""
+  },
+  {
     "Title": "Marvel Graphic Novel",
     "Issue #": 1,
     "Condition": "NM",
@@ -1000,7 +1036,7 @@ export const data = [
   },
   {
     "Title": "Marvel Super Action",
-    "Issue #": 20,
+    "Issue #": 1,
     "Condition": "VG/F",
     "Website Notes": "Punisher",
     "Personal Notes (Not on website)": "",
@@ -1543,7 +1579,7 @@ export const data = [
     "Issue #": 1,
     "Condition": "VF+",
     "Website Notes": "Boris",
-    "Personal Notes (Not on website)": "2 avail",
+    "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
     "": ""
   },

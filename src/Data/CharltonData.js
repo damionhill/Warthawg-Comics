@@ -270,6 +270,24 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Reptisaurus",
+    "Issue #": 6,
+    "Condition": "F/VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": ""
+  },
+  {
+    "Title": "Reptisaurus",
+    "Issue #": 8,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15,
+    "": ""
+  },
+  {
     "Title": "Scooby Doo (Charlton)",
     "Issue #": 2,
     "Condition": "VF-",
@@ -295,6 +313,33 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
     "": ""
+  },
+  {
+    "Title": "Space Adventures",
+    "Issue #": 44,
+    "Condition": "VF+",
+    "Website Notes": "1st Mercury Man",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Bob"
+  },
+  {
+    "Title": "Space Adventures",
+    "Issue #": 50,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Bob"
+  },
+  {
+    "Title": "Space Western",
+    "Issue #": 40,
+    "Condition": "CGC 2.5",
+    "Website Notes": "1st Issue",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 185,
+    "": "Comiclink"
   },
   {
     "Title": "Space Western",

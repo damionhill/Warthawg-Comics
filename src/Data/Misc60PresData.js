@@ -11,12 +11,23 @@ export const data = [
     "__2": ""
   },
   {
-    "Title": "Airboy (Eclipse)",
+    "Title": "Airboy",
     "Issue #": 5,
-    "Condition": "NM-",
-    "Website Notes": "Stevens Cover",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
+    "Condition": "VF/NM",
+    "Website Notes": "Stevens Cvr",
+    "Personal Notes (Not on website)": "Eclipose",
+    "Cost Basis": 20,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Alarming Adventures",
+    "Issue #": 1,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 20,
     "": "",
     "__1": "",
     "__2": ""
@@ -105,7 +116,7 @@ export const data = [
     "Website Notes": "Stevens Cover",
     "Personal Notes (Not on website)": "Dark Horse",
     "Cost Basis": 20,
-    "": "2 avail",
+    "": "",
     "__1": "",
     "__2": ""
   },
@@ -187,17 +198,6 @@ export const data = [
     "__2": ""
   },
   {
-    "Title": "Crow",
-    "Issue #": 1,
-    "Condition": "CGC 9.6",
-    "Website Notes": "Signature Series",
-    "Personal Notes (Not on website)": "Caliber",
-    "Cost Basis": 3575,
-    "": "BCC",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Dark Horse Presents",
     "Issue #": 36,
     "Condition": "NM-",
@@ -259,6 +259,28 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Mirage",
     "Cost Basis": 10,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Droids",
+    "Issue #": 1,
+    "Condition": "CGC 9.8",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Star",
+    "Cost Basis": 30,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Droids",
+    "Issue #": 2,
+    "Condition": "CGC 9.8",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Star",
+    "Cost Basis": 30,
     "": "",
     "__1": "",
     "__2": ""
@@ -370,6 +392,17 @@ export const data = [
     "Personal Notes (Not on website)": "King",
     "Cost Basis": 20,
     "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Flinstones at the New York World's Fair",
+    "Issue #": "NN",
+    "Condition": "VF",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "JW",
+    "Cost Basis": 25,
+    "": "Rich G",
     "__1": "",
     "__2": ""
   },
@@ -529,9 +562,9 @@ export const data = [
   },
   {
     "Title": "Jonny Quest",
-    "Issue #": 5,
+    "Issue #": 3,
     "Condition": "VF/NM",
-    "Website Notes": "Stevens Cover",
+    "Website Notes": "Stevens Cvr",
     "Personal Notes (Not on website)": "Comico",
     "Cost Basis": 10,
     "": "",
@@ -682,66 +715,11 @@ export const data = [
     "__2": ""
   },
   {
-    "Title": "Pacific Presents",
-    "Issue #": 2,
-    "Condition": "VF/NM",
-    "Website Notes": "Rocketeer by Stevens",
-    "Personal Notes (Not on website)": "Pacific",
-    "Cost Basis": 10,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Pee-Wee Pixies",
     "Issue #": 10,
     "Condition": "VG/F",
     "Website Notes": "IW",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Personality Comics",
-    "Issue #": "",
-    "Condition": "NM",
-    "Website Notes": "Babe Ruth",
-    "Personal Notes (Not on website)": "Personality Comics",
-    "Cost Basis": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Personality Comics",
-    "Issue #": "",
-    "Condition": "NM",
-    "Website Notes": "Beatles",
-    "Personal Notes (Not on website)": "Personality Comics",
-    "Cost Basis": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Personality Comics",
-    "Issue #": "",
-    "Condition": "NM",
-    "Website Notes": "Beatles Experience",
-    "Personal Notes (Not on website)": "Personality Comics",
-    "Cost Basis": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Personality Comics",
-    "Issue #": "",
-    "Condition": "NM",
-    "Website Notes": "Beatles- Ringo Starr",
-    "Personal Notes (Not on website)": "Personality Comics",
     "Cost Basis": 5,
     "": "",
     "__1": "",
@@ -762,29 +740,7 @@ export const data = [
     "Title": "Personality Comics",
     "Issue #": "",
     "Condition": "NM",
-    "Website Notes": "Bo Jackson",
-    "Personal Notes (Not on website)": "Personality Comics",
-    "Cost Basis": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Personality Comics",
-    "Issue #": "",
-    "Condition": "NM",
     "Website Notes": "Christina Applegate",
-    "Personal Notes (Not on website)": "Personality Comics",
-    "Cost Basis": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Personality Comics",
-    "Issue #": "",
-    "Condition": "NM",
-    "Website Notes": "Duke Snyder",
     "Personal Notes (Not on website)": "Personality Comics",
     "Cost Basis": 5,
     "": "",
@@ -862,28 +818,6 @@ export const data = [
     "Issue #": "",
     "Condition": "NM",
     "Website Notes": "Metallica",
-    "Personal Notes (Not on website)": "Personality Comics",
-    "Cost Basis": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Personality Comics",
-    "Issue #": "",
-    "Condition": "NM",
-    "Website Notes": "Michael Jordan",
-    "Personal Notes (Not on website)": "Personality Comics",
-    "Cost Basis": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Personality Comics",
-    "Issue #": "",
-    "Condition": "NM",
-    "Website Notes": "Nolan Ryan",
     "Personal Notes (Not on website)": "Personality Comics",
     "Cost Basis": 5,
     "": "",
@@ -1254,6 +1188,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Spawn/Batman",
+    "Issue #": 1,
+    "Condition": "VF/NM",
+    "Website Notes": "Miller Auto w/COA",
+    "Personal Notes (Not on website)": "Image",
+    "Cost Basis": 100,
+    "": "Bednarz",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Spirit",
     "Issue #": 2,
     "Condition": "VG",
@@ -1573,6 +1518,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Twisted Tales",
+    "Issue #": 8,
+    "Condition": "NM-",
+    "Website Notes": "Stevens Cover",
+    "Personal Notes (Not on website)": "Eclipse",
+    "Cost Basis": 25,
+    "": "Rich G",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Unearthly Spectaculars",
     "Issue #": 3,
     "Condition": "FN",
@@ -1635,6 +1591,17 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 20,
     "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Walking Dead TPB",
+    "Issue #": "1-32",
+    "Condition": "VF/NM",
+    "Website Notes": "Complete Set",
+    "Personal Notes (Not on website)": "Image",
+    "Cost Basis": 100,
+    "": "Bednarz",
     "__1": "",
     "__2": ""
   },

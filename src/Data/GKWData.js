@@ -1,5 +1,14 @@
 export const data = [
   {
+    "Title": "Battle of the Planets",
+    "Issue #": 2,
+    "Condition": "VF",
+    "Website Notes": "Whitman Variant",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 30,
+    "": ""
+  },
+  {
     "Title": "Beetle Bailey",
     "Issue #": 49,
     "Condition": "VG/F",

@@ -5,7 +5,8 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Adventures of the Fly",
@@ -13,7 +14,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Adventures of the Jaguar",
@@ -21,7 +23,8 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Adventures of the Jaguar",
@@ -29,7 +32,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 8
+    "Cost Basis": 8,
+    "": ""
   },
   {
     "Title": "Adventure With the Brothers",
@@ -37,7 +41,8 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Adventure With the Brothers",
@@ -45,7 +50,8 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Archie",
@@ -53,7 +59,8 @@ export const data = [
     "Condition": "G+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 12
+    "Cost Basis": 12,
+    "": ""
   },
   {
     "Title": "Archie",
@@ -61,7 +68,8 @@ export const data = [
     "Condition": "CGC 4.5",
     "Website Notes": "Classic Betty Cvr",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 850
+    "Cost Basis": 850,
+    "": ""
   },
   {
     "Title": "Archie",
@@ -69,7 +77,8 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 12
+    "Cost Basis": 12,
+    "": ""
   },
   {
     "Title": "Archie and Mr Weatherbee",
@@ -77,7 +86,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Archie at Riverdale High",
@@ -85,7 +95,8 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 12
+    "Cost Basis": 12,
+    "": ""
   },
   {
     "Title": "Archie as Pureheart Powerful",
@@ -93,7 +104,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 12
+    "Cost Basis": 12,
+    "": ""
   },
   {
     "Title": "Archie Giant Series Magazine",
@@ -101,7 +113,8 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Christmas Issue",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 16
+    "Cost Basis": 16,
+    "": ""
   },
   {
     "Title": "Archie Giant Series Magazine",
@@ -109,7 +122,8 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 12
+    "Cost Basis": 12,
+    "": ""
   },
   {
     "Title": "Archie Giant Series Magazine",
@@ -117,7 +131,8 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Sabrina",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 12
+    "Cost Basis": 12,
+    "": ""
   },
   {
     "Title": "Archie's Girls Betty and Veronica",
@@ -125,7 +140,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 55
+    "Cost Basis": 55,
+    "": ""
   },
   {
     "Title": "Archie's Girls Betty and Veronica",
@@ -133,7 +149,8 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": ""
+    "Cost Basis": "",
+    "": ""
   },
   {
     "Title": "Archie's Girls Betty and Veronica",
@@ -141,7 +158,8 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Archie's Girls Betty and Veronica",
@@ -149,7 +167,8 @@ export const data = [
     "Condition": "CBCS 9.4",
     "Website Notes": "1st Cheryl Blossom",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 280
+    "Cost Basis": 280,
+    "": ""
   },
   {
     "Title": "Archie's Girls Betty and Veronica",
@@ -157,7 +176,8 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "1st Cheryl Blossom",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 30
+    "Cost Basis": 30,
+    "": ""
   },
   {
     "Title": "Archie's Girls Betty and Veronica Annual",
@@ -165,7 +185,17 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 13
+    "Cost Basis": 13,
+    "": ""
+  },
+  {
+    "Title": "Archie's Jokes",
+    "Issue #": 22,
+    "Condition": "VG/F",
+    "Website Notes": "1963 Giant",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "Vince"
   },
   {
     "Title": "Archie's Madhouse",
@@ -173,7 +203,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Scarce",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 40
+    "Cost Basis": 40,
+    "": ""
   },
   {
     "Title": "Archie's Madhouse",
@@ -181,7 +212,8 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Archie Meets Kiss",
@@ -189,7 +221,8 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Archie Meets the Punisher",
@@ -197,7 +230,8 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Archie's Clean Slate",
@@ -205,7 +239,8 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Archie's Date Book",
@@ -213,7 +248,8 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Archie's Festival",
@@ -221,7 +257,8 @@ export const data = [
     "Condition": "VF+",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Archie's Love Scene",
@@ -229,7 +266,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Archie's One Way",
@@ -237,7 +275,8 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Archie's Parables",
@@ -245,7 +284,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Archie's Pal Jughead",
@@ -253,7 +293,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
+    "Cost Basis": 20,
+    "": ""
   },
   {
     "Title": "Archie's Pal Jughead Annual",
@@ -261,7 +302,8 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 6
+    "Cost Basis": 6,
+    "": ""
   },
   {
     "Title": "Archie's Pals 'N' Gals",
@@ -269,7 +311,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Archie's Pals 'N' Gals",
@@ -277,7 +320,8 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "M. Monroe",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 30
+    "Cost Basis": 30,
+    "": ""
   },
   {
     "Title": "Archie's Roller Coaster",
@@ -285,7 +329,8 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Archie's TV Laugh Out",
@@ -293,7 +338,8 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 55
+    "Cost Basis": 55,
+    "": ""
   },
   {
     "Title": "Chilling Adventures in Sorcery",
@@ -301,7 +347,8 @@ export const data = [
     "Condition": "VF",
     "Website Notes": "Sabrina",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 35
+    "Cost Basis": 35,
+    "": ""
   },
   {
     "Title": "Fly Girl",
@@ -309,7 +356,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Gospel Blimp",
@@ -317,7 +365,8 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Hansi",
@@ -325,7 +374,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": ".39 Cvr 1st Print",
     "Personal Notes (Not on website)": "Spire",
-    "Cost Basis": ""
+    "Cost Basis": "",
+    "": ""
   },
   {
     "Title": "Jesus",
@@ -333,7 +383,8 @@ export const data = [
     "Condition": "NM-",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 5
+    "Cost Basis": 5,
+    "": ""
   },
   {
     "Title": "Jughead's Folly",
@@ -341,7 +392,8 @@ export const data = [
     "Condition": "CGC 5.5",
     "Website Notes": "Scarce 1960",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 155
+    "Cost Basis": 155,
+    "": ""
   },
   {
     "Title": "Katy Keene",
@@ -349,7 +401,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 45
+    "Cost Basis": 45,
+    "": ""
   },
   {
     "Title": "Laugh",
@@ -357,7 +410,8 @@ export const data = [
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Laugh",
@@ -365,7 +419,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Life With Archie",
@@ -373,7 +428,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Life With Archie",
@@ -381,7 +437,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Life With Archie",
@@ -389,7 +446,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Life With Archie",
@@ -397,7 +455,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Life With Archie",
@@ -405,7 +464,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Little Archie",
@@ -413,7 +473,8 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Little Archie",
@@ -421,7 +482,8 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Mighty Comics",
@@ -429,7 +491,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Mighty Comics",
@@ -437,7 +500,8 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Mighty Comics",
@@ -445,7 +509,8 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Mighty Comics",
@@ -453,7 +518,8 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "On the Road Andrae Grouch",
@@ -461,7 +527,8 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Spire",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "On the Road Andrae Grouch",
@@ -469,7 +536,8 @@ export const data = [
     "Condition": "F/VF",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Paul",
@@ -477,7 +545,8 @@ export const data = [
     "Condition": "",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 10
+    "Cost Basis": 10,
+    "": ""
   },
   {
     "Title": "Sabrina",
@@ -485,7 +554,8 @@ export const data = [
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 45
+    "Cost Basis": 45,
+    "": ""
   },
   {
     "Title": "Sabrina",
@@ -493,7 +563,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Sabrina",
@@ -501,7 +572,8 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15
+    "Cost Basis": 15,
+    "": ""
   },
   {
     "Title": "Suzie",
@@ -509,7 +581,8 @@ export const data = [
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
+    "Cost Basis": 20,
+    "": ""
   },
   {
     "Title": "Teen Age Mutant Ninja Turtles Adventures",
@@ -517,7 +590,8 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Mini Series",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 30
+    "Cost Basis": 30,
+    "": ""
   },
   {
     "Title": "Up From Harlem",
@@ -525,6 +599,7 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "Christian",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 20
+    "Cost Basis": 20,
+    "": ""
   }
 ];

@@ -10,12 +10,21 @@ export const data = [
   },
   {
     "Title": "Crime SuspenStories",
-    "Issue #": 16,
-    "Condition": "G/VG",
+    "Issue #": 12,
+    "Condition": "GD+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 320,
-    "": "30th Century"
+    "Cost Basis": 50,
+    "": "Rich G"
+  },
+  {
+    "Title": "Crime SuspenStories",
+    "Issue #": 15,
+    "Condition": "CGC 5.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 450,
+    "": "TTreasures"
   },
   {
     "Title": "Frontline Combat",
@@ -34,6 +43,24 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Frontline Combat",
+    "Issue #": 7,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Rich G"
+  },
+  {
+    "Title": "Frontline Combat",
+    "Issue #": 8,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Rich G"
   },
   {
     "Title": "Frontline Combat",
@@ -72,6 +99,24 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Humbug",
+    "Issue #": 2,
+    "Condition": "GD",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15,
+    "": "Rich G"
+  },
+  {
+    "Title": "Humbug",
+    "Issue #": 3,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15,
+    "": "Rich G"
+  },
+  {
     "Title": "Mad",
     "Issue #": 2,
     "Condition": "VG",
@@ -87,15 +132,6 @@ export const data = [
     "Website Notes": "1/3 BC out",
     "Personal Notes (Not on website)": 80,
     "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Mad",
-    "Issue #": 5,
-    "Condition": "G+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 110,
     "": ""
   },
   {
@@ -126,6 +162,51 @@ export const data = [
     "": ""
   },
   {
+    "Title": "MD",
+    "Issue #": 4,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Rich G"
+  },
+  {
+    "Title": "Panic",
+    "Issue #": 3,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 35,
+    "": "Rich G"
+  },
+  {
+    "Title": "Panic",
+    "Issue #": 4,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 35,
+    "": "Rich G"
+  },
+  {
+    "Title": "Panic",
+    "Issue #": 6,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Rich G"
+  },
+  {
+    "Title": "Panic",
+    "Issue #": 9,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Rich G"
+  },
+  {
     "Title": "Panic",
     "Issue #": 10,
     "Condition": "VG/F",
@@ -133,6 +214,15 @@ export const data = [
     "Personal Notes (Not on website)": "GA",
     "Cost Basis": 25,
     "": ""
+  },
+  {
+    "Title": "Panic",
+    "Issue #": 11,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Rich G"
   },
   {
     "Title": "Panic",
@@ -169,6 +259,24 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": ""
+  },
+  {
+    "Title": "ShockSuspenstories",
+    "Issue #": 8,
+    "Condition": "CGC 5.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 480,
+    "": "Dahlgren"
+  },
+  {
+    "Title": "Tales From The Crypt",
+    "Issue #": 30,
+    "Condition": "FA/P",
+    "Website Notes": "No Back Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Rich G"
   },
   {
     "Title": "Two-Fisted Tales",
@@ -225,6 +333,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Two-Fisted Tales",
+    "Issue #": 41,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 300,
+    "": "Rich G"
+  },
+  {
     "Title": "Valor",
     "Issue #": 4,
     "Condition": "GD",
@@ -241,6 +358,24 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": ""
+  },
+  {
+    "Title": "Vault of Horror",
+    "Issue #": 19,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 250,
+    "": "Rich G"
+  },
+  {
+    "Title": "Vault of Horror",
+    "Issue #": 26,
+    "Condition": "CGC 3.5",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 240,
+    "": "Dahlgren"
   },
   {
     "Title": "Vault of Horror",
@@ -268,6 +403,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 150,
     "": ""
+  },
+  {
+    "Title": "Vault of Horror",
+    "Issue #": 32,
+    "Condition": "CGC 2.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 240,
+    "": "Dahlgren"
   },
   {
     "Title": "Weird Science",
