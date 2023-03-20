@@ -361,6 +361,15 @@ export const data = [
   },
   {
     "Title": "Battle",
+    "Issue #": 17,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 60,
+    "": "Chris F"
+  },
+  {
+    "Title": "Battle",
     "Issue #": 35,
     "Condition": "VG/F",
     "Website Notes": "Heath Flamethrower C",
@@ -855,15 +864,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Black Rider",
-    "Issue #": 16,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
     "Title": "Blackstone Master Magician",
     "Issue #": 2,
     "Condition": "VG",
@@ -1285,6 +1285,15 @@ export const data = [
     "Personal Notes (Not on website)": "Harvey",
     "Cost Basis": 85,
     "": ""
+  },
+  {
+    "Title": "Chamber of Chills",
+    "Issue #": 20,
+    "Condition": "CGC 4.5",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 345,
+    "": "TTreasures"
   },
   {
     "Title": "Classic Comics",
@@ -2268,15 +2277,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Fighting Yank",
-    "Issue #": 17,
-    "Condition": "CGC 4.5",
-    "Website Notes": "Schomburg",
-    "Personal Notes (Not on website)": "Nedor",
-    "Cost Basis": 480,
-    "": "Dahlgren"
-  },
-  {
     "Title": "Flash Gordon",
     "Issue #": 1,
     "Condition": "F/VF",
@@ -2454,6 +2454,15 @@ export const data = [
     "Website Notes": "Maneely",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 15,
+    "": ""
+  },
+  {
+    "Title": "Gunsmoke Western",
+    "Issue #": 59,
+    "Condition": "FN",
+    "Website Notes": "Kirby",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 20,
     "": ""
   },
   {
@@ -3044,7 +3053,7 @@ export const data = [
   {
     "Title": "Kid Colt Outlaw",
     "Issue #": 33,
-    "Condition": "VG",
+    "Condition": "VG-",
     "Website Notes": "Black Rider",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 20,
@@ -3058,6 +3067,24 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 50,
     "": "30th Century"
+  },
+  {
+    "Title": "Kid Colt Outlaw",
+    "Issue #": 94,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 10,
+    "": ""
+  },
+  {
+    "Title": "Kid From Texas",
+    "Issue #": 1,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 20,
+    "": ""
   },
   {
     "Title": "Knockout Adventures",
@@ -3466,15 +3493,6 @@ export const data = [
   },
   {
     "Title": "Marvel Family",
-    "Issue #": 77,
-    "Condition": "VG/F",
-    "Website Notes": "Classic Cover",
-    "Personal Notes (Not on website)": "Fawcett",
-    "Cost Basis": 125,
-    "": ""
-  },
-  {
-    "Title": "Marvel Family",
     "Issue #": 81,
     "Condition": "VG",
     "Website Notes": "Used in POP",
@@ -3593,7 +3611,7 @@ export const data = [
   {
     "Title": "Men's Adventures",
     "Issue #": 23,
-    "Condition": "VG",
+    "Condition": "CGC 5.5",
     "Website Notes": "Horror",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 155,
@@ -3611,7 +3629,7 @@ export const data = [
   {
     "Title": "Men's Adventures",
     "Issue #": 24,
-    "Condition": "VG/F",
+    "Condition": "CGC 5.0",
     "Website Notes": "Horror",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 155,
@@ -4213,6 +4231,15 @@ export const data = [
   },
   {
     "Title": "Plastic Man",
+    "Issue #": 33,
+    "Condition": "PGX 5.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Quality",
+    "Cost Basis": 175,
+    "": "TTreasures"
+  },
+  {
+    "Title": "Plastic Man",
     "Issue #": 36,
     "Condition": "G/VG",
     "Website Notes": "",
@@ -4506,6 +4533,15 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Fiction House",
     "Cost Basis": 25,
+    "": ""
+  },
+  {
+    "Title": "Rawhide Kid",
+    "Issue #": 11,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 20,
     "": ""
   },
   {
@@ -5157,15 +5193,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "War Fury",
-    "Issue #": 1,
-    "Condition": "VG/F",
-    "Website Notes": "Classic Cover",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 750,
-    "": "Rich G"
-  },
-  {
     "Title": "War Heroes (Dell)",
     "Issue #": 3,
     "Condition": "G/VG",
@@ -5230,9 +5257,45 @@ export const data = [
   },
   {
     "Title": "Western Kid",
+    "Issue #": 1,
+    "Condition": "VG",
+    "Website Notes": "Origin",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 50,
+    "": ""
+  },
+  {
+    "Title": "Western Kid",
+    "Issue #": 7,
+    "Condition": "VG",
+    "Website Notes": "Maneely Flame Cover",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 25,
+    "": ""
+  },
+  {
+    "Title": "Western Kid",
+    "Issue #": 8,
+    "Condition": "VG/F",
+    "Website Notes": "Snowfall Cover",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 50,
+    "": ""
+  },
+  {
+    "Title": "Western Kid",
     "Issue #": 9,
     "Condition": "VG/F",
     "Website Notes": "Williamson",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
+    "Title": "Western Kid",
+    "Issue #": 17,
+    "Condition": "VG/F",
+    "Website Notes": "Last Issue",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 20,
     "": ""

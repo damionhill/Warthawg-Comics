@@ -1,15 +1,6 @@
 export const data = [
   {
     "Title": "Crime SuspenStories",
-    "Issue #": 9,
-    "Condition": "G+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "EC",
-    "Cost Basis": 65,
-    "": ""
-  },
-  {
-    "Title": "Crime SuspenStories",
     "Issue #": 12,
     "Condition": "GD+",
     "Website Notes": "",
@@ -81,15 +72,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Frontline Combat",
-    "Issue #": 14,
-    "Condition": "F/G",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
     "Title": "Haunt of Fear",
     "Issue #": 16,
     "Condition": "VG",
@@ -123,15 +105,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 110,
-    "": ""
-  },
-  {
-    "Title": "Mad",
-    "Issue #": 4,
-    "Condition": "FR",
-    "Website Notes": "1/3 BC out",
-    "Personal Notes (Not on website)": 80,
-    "Cost Basis": 25,
     "": ""
   },
   {
@@ -174,15 +147,6 @@ export const data = [
     "Title": "Panic",
     "Issue #": 3,
     "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 35,
-    "": "Rich G"
-  },
-  {
-    "Title": "Panic",
-    "Issue #": 4,
-    "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 35,
@@ -270,15 +234,6 @@ export const data = [
     "": "Dahlgren"
   },
   {
-    "Title": "Tales From The Crypt",
-    "Issue #": 30,
-    "Condition": "FA/P",
-    "Website Notes": "No Back Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 50,
-    "": "Rich G"
-  },
-  {
     "Title": "Two-Fisted Tales",
     "Issue #": 36,
     "Condition": "FA/G",
@@ -294,15 +249,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Two-Fisted Tales",
-    "Issue #": 37,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
     "": ""
   },
   {
@@ -427,7 +373,7 @@ export const data = [
     "Issue #": 29,
     "Condition": "VG-",
     "Website Notes": "Frazetta",
-    "Personal Notes (Not on website)": "",
+    "Personal Notes (Not on website)": "2 avail",
     "Cost Basis": 500,
     "": ""
   }
