@@ -271,15 +271,6 @@ export const data = [
   },
   {
     "Title": "Astonishing",
-    "Issue #": 33,
-    "Condition": "G",
-    "Website Notes": "Maneely",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 60,
-    "": ""
-  },
-  {
-    "Title": "Astonishing",
     "Issue #": 53,
     "Condition": "VG",
     "Website Notes": "Everett",
@@ -428,15 +419,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Fawcett",
-    "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Best of the West",
-    "Issue #": 11,
-    "Condition": "VG",
-    "Website Notes": "Ghost Rider",
-    "Personal Notes (Not on website)": "ME",
     "Cost Basis": 25,
     "": ""
   },
@@ -745,15 +727,6 @@ export const data = [
     "Personal Notes (Not on website)": "Harvey",
     "Cost Basis": 15,
     "": ""
-  },
-  {
-    "Title": "Black Cat Comics",
-    "Issue #": 61,
-    "Condition": "GD",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Harvey",
-    "Cost Basis": 10,
-    "": "Rich G"
   },
   {
     "Title": "Black Cat Comics",
@@ -1068,7 +1041,7 @@ export const data = [
     "Website Notes": "Frazetta Cvr",
     "Personal Notes (Not on website)": "Famous Funnies",
     "Cost Basis": 300,
-    "": "A-1"
+    "": "A-1 @CGC"
   },
   {
     "Title": "Camp Comics",
@@ -1483,6 +1456,15 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 10,
     "": ""
+  },
+  {
+    "Title": "Combat Kelly",
+    "Issue #": 44,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 25,
+    "": "Vancouver"
   },
   {
     "Title": "Comedy Comics",
@@ -2556,15 +2538,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Jet",
-    "Issue #": 3,
-    "Condition": "VG/F",
-    "Website Notes": "Powell Art",
-    "Personal Notes (Not on website)": "ME",
-    "Cost Basis": 75,
-    "": ""
-  },
-  {
     "Title": "Johnson Makes the Team",
     "Issue #": "NN",
     "Condition": "VG",
@@ -3075,15 +3048,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 10,
-    "": ""
-  },
-  {
-    "Title": "Kid From Texas",
-    "Issue #": 1,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 20,
     "": ""
   },
   {
@@ -5257,45 +5221,9 @@ export const data = [
   },
   {
     "Title": "Western Kid",
-    "Issue #": 1,
-    "Condition": "VG",
-    "Website Notes": "Origin",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 50,
-    "": ""
-  },
-  {
-    "Title": "Western Kid",
-    "Issue #": 7,
-    "Condition": "VG",
-    "Website Notes": "Maneely Flame Cover",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Western Kid",
-    "Issue #": 8,
-    "Condition": "VG/F",
-    "Website Notes": "Snowfall Cover",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 50,
-    "": ""
-  },
-  {
-    "Title": "Western Kid",
     "Issue #": 9,
     "Condition": "VG/F",
     "Website Notes": "Williamson",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Western Kid",
-    "Issue #": 17,
-    "Condition": "VG/F",
-    "Website Notes": "Last Issue",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 20,
     "": ""
@@ -5307,6 +5235,15 @@ export const data = [
     "Website Notes": "CFO ow VG",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 5,
+    "": ""
+  },
+  {
+    "Title": "Whack",
+    "Issue #": 1,
+    "Condition": "G/VG",
+    "Website Notes": "3-D Comics w/Glasses",
+    "Personal Notes (Not on website)": "St John",
+    "Cost Basis": 10,
     "": ""
   },
   {
@@ -5342,15 +5279,6 @@ export const data = [
     "Condition": "VG/F",
     "Website Notes": "Saunders Cvr",
     "Personal Notes (Not on website)": "Ziff Davis",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Wild Western",
-    "Issue #": 36,
-    "Condition": "VG",
-    "Website Notes": "Maneely",
-    "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 20,
     "": ""
   },
@@ -5497,6 +5425,24 @@ export const data = [
     "Personal Notes (Not on website)": "Fiction House",
     "Cost Basis": 75,
     "": ""
+  },
+  {
+    "Title": "Witches' Western Tales",
+    "Issue #": 29,
+    "Condition": "VG/F",
+    "Website Notes": "Precode",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 30,
+    "": "Vancouver"
+  },
+  {
+    "Title": "Witches' Western Tales",
+    "Issue #": 30,
+    "Condition": "VG/F",
+    "Website Notes": "Last Issue",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 36,
+    "": "Vancouver"
   },
   {
     "Title": "Wonder Book of Rubber",

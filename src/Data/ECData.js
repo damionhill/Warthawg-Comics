@@ -18,6 +18,15 @@ export const data = [
     "": "TTreasures"
   },
   {
+    "Title": "Crime SuspenStories",
+    "Issue #": 27,
+    "Condition": "VG/F",
+    "Website Notes": "tear seal on back cover",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 160,
+    "": "clink"
+  },
+  {
     "Title": "Frontline Combat",
     "Issue #": 3,
     "Condition": "VG",
@@ -72,15 +81,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Haunt of Fear",
-    "Issue #": 16,
-    "Condition": "VG",
-    "Website Notes": "Ingels Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 215,
-    "": ""
-  },
-  {
     "Title": "Humbug",
     "Issue #": 2,
     "Condition": "GD",
@@ -97,15 +97,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": "Rich G"
-  },
-  {
-    "Title": "Mad",
-    "Issue #": 2,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 110,
-    "": ""
   },
   {
     "Title": "Mad",
@@ -195,33 +186,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
     "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Piracy",
-    "Issue #": 4,
-    "Condition": "FN",
-    "Website Notes": "Evans Art",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Piracy",
-    "Issue #": 5,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
-    "Title": "Piracy",
-    "Issue #": 7,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
     "": ""
   },
   {
@@ -360,13 +324,58 @@ export const data = [
     "": "Dahlgren"
   },
   {
-    "Title": "Weird Science",
-    "Issue #": 12,
-    "Condition": "VG/F",
-    "Website Notes": "Int Cpn Clip",
+    "Title": "Weird Fantasy",
+    "Issue #": 17,
+    "Condition": "P/F",
+    "Website Notes": "One non story page missing",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 50,
-    "": ""
+    "Cost Basis": 35,
+    "": "Clink"
+  },
+  {
+    "Title": "Weird Fantasy",
+    "Issue #": 22,
+    "Condition": "F/G",
+    "Website Notes": "Last Issue",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 35,
+    "": "Clink"
+  },
+  {
+    "Title": "Weird Science",
+    "Issue #": 17,
+    "Condition": "F/G",
+    "Website Notes": "Used in POP",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 55,
+    "": "Clink"
+  },
+  {
+    "Title": "Weird Science Fantasy",
+    "Issue #": 24,
+    "Condition": "FA",
+    "Website Notes": "Williamson Art",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Clink"
+  },
+  {
+    "Title": "Weird Science Fantasy",
+    "Issue #": 26,
+    "Condition": "G/VG",
+    "Website Notes": "Flying Saucer Story",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 45,
+    "": "Clink"
+  },
+  {
+    "Title": "Weird Science Fantasy",
+    "Issue #": 28,
+    "Condition": "GD",
+    "Website Notes": "Williamson Art",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 35,
+    "": "Clink"
   },
   {
     "Title": "Weird Science Fantasy",

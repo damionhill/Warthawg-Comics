@@ -199,15 +199,6 @@ export const data = [
   },
   {
     "Title": "Creepy",
-    "Issue #": 10,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Creepy",
     "Issue #": 12,
     "Condition": "VF",
     "Website Notes": "",
@@ -537,15 +528,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
     "Cost Basis": 150,
-    "": ""
-  },
-  {
-    "Title": "Famous Monsters",
-    "Issue #": 11,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 110,
     "": ""
   },
   {
