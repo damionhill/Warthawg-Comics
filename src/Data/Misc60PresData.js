@@ -671,6 +671,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "MiracleMan",
+    "Issue #": 15,
+    "Condition": "VF",
+    "Website Notes": "Classic C",
+    "Personal Notes (Not on website)": "Eclipse",
+    "Cost Basis": 50,
+    "": "TReasures",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Noman",
     "Issue #": 1,
     "Condition": "VG/F",
@@ -1173,6 +1184,17 @@ export const data = [
     "Personal Notes (Not on website)": "Image",
     "Cost Basis": 100,
     "": "Bednarz",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Spirit",
+    "Issue #": 1,
+    "Condition": "VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 35,
+    "": "Dahlgren",
     "__1": "",
     "__2": ""
   },

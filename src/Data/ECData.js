@@ -19,6 +19,15 @@ export const data = [
   },
   {
     "Title": "Crime SuspenStories",
+    "Issue #": 16,
+    "Condition": "CGC 2.5",
+    "Website Notes": "Classic Cover",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "Dahlgren"
+  },
+  {
+    "Title": "Crime SuspenStories",
     "Issue #": 27,
     "Condition": "VG/F",
     "Website Notes": "tear seal on back cover",
@@ -199,6 +208,15 @@ export const data = [
   },
   {
     "Title": "Two-Fisted Tales",
+    "Issue #": 34,
+    "Condition": "VG",
+    "Website Notes": "Civil War",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 65,
+    "": "Dahlgren"
+  },
+  {
+    "Title": "Two-Fisted Tales",
     "Issue #": 36,
     "Condition": "FA/G",
     "Website Notes": "",
@@ -226,29 +244,11 @@ export const data = [
   },
   {
     "Title": "Two-Fisted Tales",
-    "Issue #": 39,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Two-Fisted Tales",
-    "Issue #": 41,
-    "Condition": "F/G",
-    "Website Notes": "Cpn Out Back Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Two-Fisted Tales",
     "Issue #": 41,
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 300,
+    "Cost Basis": 30,
     "": "Rich G"
   },
   {
@@ -334,6 +334,15 @@ export const data = [
   },
   {
     "Title": "Weird Fantasy",
+    "Issue #": 20,
+    "Condition": "F/G",
+    "Website Notes": "Tape",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 75,
+    "": "TTreasures"
+  },
+  {
+    "Title": "Weird Fantasy",
     "Issue #": 22,
     "Condition": "F/G",
     "Website Notes": "Last Issue",
@@ -380,10 +389,10 @@ export const data = [
   {
     "Title": "Weird Science Fantasy",
     "Issue #": 29,
-    "Condition": "VG-",
+    "Condition": "G",
     "Website Notes": "Frazetta",
-    "Personal Notes (Not on website)": "2 avail",
-    "Cost Basis": 500,
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 300,
     "": ""
   }
 ];

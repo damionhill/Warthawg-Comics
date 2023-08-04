@@ -72,6 +72,15 @@ export const data = [
     "": "2 avail"
   },
   {
+    "Title": "American Flyer Funnies",
+    "Issue #": 1,
+    "Condition": "F/VF",
+    "Website Notes": "Welz C/A",
+    "Personal Notes (Not on website)": "Rip Off Press",
+    "Cost Basis": 10,
+    "": ""
+  },
+  {
     "Title": "Amputee Love",
     "Issue #": 1,
     "Condition": "VF",
@@ -693,6 +702,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Cherry Deluxe",
+    "Issue #": 1,
+    "Condition": "VF/NM",
+    "Website Notes": "Gaiman Story",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 10,
+    "": ""
+  },
+  {
     "Title": "Cherry Poptart",
     "Issue #": 1,
     "Condition": "VF/NM",
@@ -757,12 +775,30 @@ export const data = [
   },
   {
     "Title": "Cherry Poptart",
+    "Issue #": 17,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 10,
+    "": ""
+  },
+  {
+    "Title": "Cherry Poptart",
+    "Issue #": 18,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 10,
+    "": ""
+  },
+  {
+    "Title": "Cherry Poptart",
     "Issue #": 19,
     "Condition": "VF/NM",
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": 10,
-    "": ""
+    "": "3 avail"
   },
   {
     "Title": "Cherry Poptart",
@@ -771,6 +807,24 @@ export const data = [
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": 12,
+    "": ""
+  },
+  {
+    "Title": "Cherry Poptart",
+    "Issue #": 20,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 10,
+    "": ""
+  },
+  {
+    "Title": "Cherry Poptart",
+    "Issue #": 21,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 10,
     "": ""
   },
   {
@@ -938,15 +992,6 @@ export const data = [
   {
     "Title": "Death Rattle",
     "Issue #": 3,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Death Rattle",
-    "Issue #": 5,
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Kitchen Sink",
@@ -1126,15 +1171,6 @@ export const data = [
   },
   {
     "Title": "Dopin' Dan",
-    "Issue #": 2,
-    "Condition": "VF",
-    "Website Notes": "1973 1st Print",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Dopin' Dan",
     "Issue #": 3,
     "Condition": "G/VG",
     "Website Notes": 1973,
@@ -1266,15 +1302,6 @@ export const data = [
     "Website Notes": "1st Print Corben",
     "Personal Notes (Not on website)": "Last Gasp",
     "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Fat Freddy's Cat",
-    "Issue #": 2,
-    "Condition": "NM",
-    "Website Notes": "$1.50 Cover Price",
-    "Personal Notes (Not on website)": "Rip Off Press",
-    "Cost Basis": "",
     "": ""
   },
   {
@@ -1500,15 +1527,6 @@ export const data = [
     "Website Notes": "1.50 Cvr Price",
     "Personal Notes (Not on website)": "Rip Off Press",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Freak Brothers",
-    "Issue #": 5,
-    "Condition": "VF/NM",
-    "Website Notes": "3rd Print",
-    "Personal Notes (Not on website)": "Rip Off Press",
-    "Cost Basis": 2,
     "": ""
   },
   {
@@ -2103,15 +2121,6 @@ export const data = [
     "Website Notes": 1972,
     "Personal Notes (Not on website)": "",
     "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Ku'k Awe Comics",
-    "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Print Mint",
-    "Cost Basis": "",
     "": ""
   },
   {

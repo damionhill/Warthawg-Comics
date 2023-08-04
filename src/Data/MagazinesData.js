@@ -956,6 +956,15 @@ export const data = [
   {
     "Title": "Marvel Preview",
     "Issue #": 4,
+    "Condition": "CGC 9.4",
+    "Website Notes": "1st Starlord",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 500,
+    "": ""
+  },
+  {
+    "Title": "Marvel Preview",
+    "Issue #": 4,
     "Condition": "VG/F",
     "Website Notes": "1st Starlord",
     "Personal Notes (Not on website)": "",
@@ -965,7 +974,7 @@ export const data = [
   {
     "Title": "Marvel Preview",
     "Issue #": 7,
-    "Condition": "NM-",
+    "Condition": "CGC 8.5",
     "Website Notes": "1st Rocket Raccoon",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 400,
@@ -1676,11 +1685,11 @@ export const data = [
   {
     "Title": "Vampirella",
     "Issue #": 1,
-    "Condition": "CGC 8.0",
+    "Condition": "CGC 7.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 1100,
-    "": ""
+    "Cost Basis": 1265,
+    "": "clink"
   },
   {
     "Title": "Vampirella",
@@ -1779,15 +1788,6 @@ export const data = [
     "Website Notes": 1977,
     "Personal Notes (Not on website)": "Warren",
     "Cost Basis": 225,
-    "": ""
-  },
-  {
-    "Title": "Vampire Tales",
-    "Issue #": 1,
-    "Condition": "VF-",
-    "Website Notes": "Morbius",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
     "": ""
   },
   {
