@@ -20,11 +20,38 @@ export const data = [
   {
     "Title": "Crime SuspenStories",
     "Issue #": 16,
+    "Condition": "CGC 3.5",
+    "Website Notes": "Classic Cover",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 330,
+    "": "CConnect"
+  },
+  {
+    "Title": "Crime SuspenStories",
+    "Issue #": 16,
     "Condition": "CGC 2.5",
     "Website Notes": "Classic Cover",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 200,
     "": "Dahlgren"
+  },
+  {
+    "Title": "Crime SuspenStories",
+    "Issue #": 19,
+    "Condition": "CGC 3.5",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 430,
+    "": "CConnect"
+  },
+  {
+    "Title": "Crime SuspenStories",
+    "Issue #": 27,
+    "Condition": "FN",
+    "Website Notes": "Last Issue Low Dist",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "Beyond"
   },
   {
     "Title": "Crime SuspenStories",
@@ -46,6 +73,15 @@ export const data = [
   },
   {
     "Title": "Frontline Combat",
+    "Issue #": 4,
+    "Condition": "FN",
+    "Website Notes": "Used in SOTI",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 80,
+    "": "Beyond"
+  },
+  {
+    "Title": "Frontline Combat",
     "Issue #": 6,
     "Condition": "VG",
     "Website Notes": "",
@@ -55,30 +91,21 @@ export const data = [
   },
   {
     "Title": "Frontline Combat",
-    "Issue #": 7,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": "Rich G"
-  },
-  {
-    "Title": "Frontline Combat",
-    "Issue #": 8,
-    "Condition": "G/VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": "Rich G"
-  },
-  {
-    "Title": "Frontline Combat",
     "Issue #": 10,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Frontline Combat",
+    "Issue #": 14,
+    "Condition": "FN-",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Beyond"
   },
   {
     "Title": "Frontline Combat",
@@ -118,12 +145,111 @@ export const data = [
   },
   {
     "Title": "Mad",
+    "Issue #": 9,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 160,
+    "": "Beyond"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 12,
+    "Condition": "VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 120,
+    "": "Beyond"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 13,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 80,
+    "": "Beyond"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 15,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 80,
+    "": "Beyond"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 16,
+    "Condition": "F/VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 80,
+    "": "Beyond"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 17,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 65,
+    "": "Beyond"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 18,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 70,
+    "": "Beyond"
+  },
+  {
+    "Title": "Mad",
     "Issue #": 19,
     "Condition": "FN-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
     "": ""
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 19,
+    "Condition": "VF-",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 160,
+    "": "Beyond"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 20,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Bob Fox"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 21,
+    "Condition": "VF-",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Beyond"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 23,
+    "Condition": "VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Beyond"
   },
   {
     "Title": "Mad",
@@ -199,12 +325,57 @@ export const data = [
   },
   {
     "Title": "ShockSuspenstories",
+    "Issue #": 4,
+    "Condition": "CGC 4.5",
+    "Website Notes": "Color Touch",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 150,
+    "": "CConnect"
+  },
+  {
+    "Title": "ShockSuspenstories",
     "Issue #": 8,
     "Condition": "CGC 5.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 480,
     "": "Dahlgren"
+  },
+  {
+    "Title": "ShockSuspenstories",
+    "Issue #": 11,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 250,
+    "": "Beyond"
+  },
+  {
+    "Title": "ShockSuspenstories",
+    "Issue #": 16,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "Beyond"
+  },
+  {
+    "Title": "ShockSuspenstories",
+    "Issue #": 16,
+    "Condition": "CGC 4.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 225,
+    "": "CConnect"
+  },
+  {
+    "Title": "Two-Fisted Tales",
+    "Issue #": 20,
+    "Condition": "VG",
+    "Website Notes": "Kurtzman",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40,
+    "": "Beyond"
   },
   {
     "Title": "Two-Fisted Tales",
@@ -280,15 +451,6 @@ export const data = [
   },
   {
     "Title": "Vault of Horror",
-    "Issue #": 26,
-    "Condition": "CGC 3.5",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 240,
-    "": "Dahlgren"
-  },
-  {
-    "Title": "Vault of Horror",
     "Issue #": 27,
     "Condition": "VG",
     "Website Notes": "",
@@ -306,31 +468,22 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Vault of Horror",
-    "Issue #": 31,
-    "Condition": "G",
-    "Website Notes": "",
+    "Title": "Weird Fantasy",
+    "Issue #": 8,
+    "Condition": "VG/F",
+    "Website Notes": "C Touch",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 150,
-    "": ""
-  },
-  {
-    "Title": "Vault of Horror",
-    "Issue #": 32,
-    "Condition": "CGC 2.0",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 240,
-    "": "Dahlgren"
+    "Cost Basis": 100,
+    "": "S. Ogden"
   },
   {
     "Title": "Weird Fantasy",
-    "Issue #": 17,
-    "Condition": "P/F",
-    "Website Notes": "One non story page missing",
+    "Issue #": 19,
+    "Condition": "VG/F",
+    "Website Notes": "Williamson Art",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 35,
-    "": "Clink"
+    "Cost Basis": 200,
+    "": "Beyond"
   },
   {
     "Title": "Weird Fantasy",
@@ -351,15 +504,6 @@ export const data = [
     "": "Clink"
   },
   {
-    "Title": "Weird Science",
-    "Issue #": 17,
-    "Condition": "F/G",
-    "Website Notes": "Used in POP",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 55,
-    "": "Clink"
-  },
-  {
     "Title": "Weird Science Fantasy",
     "Issue #": 24,
     "Condition": "FA",
@@ -367,6 +511,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
     "": "Clink"
+  },
+  {
+    "Title": "Weird Science Fantasy",
+    "Issue #": 25,
+    "Condition": "FN-",
+    "Website Notes": "Williamson Art",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 210,
+    "": "Chris"
   },
   {
     "Title": "Weird Science Fantasy",
@@ -389,10 +542,10 @@ export const data = [
   {
     "Title": "Weird Science Fantasy",
     "Issue #": 29,
-    "Condition": "G",
+    "Condition": "CGC 2.5",
     "Website Notes": "Frazetta",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 300,
-    "": ""
+    "": "Trade John"
   }
 ];

@@ -1395,15 +1395,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Savage Sword of Conan",
-    "Issue #": 235,
-    "Condition": "VF",
-    "Website Notes": "Last Issue",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
-    "": ""
-  },
-  {
     "Title": "Savage Tales",
     "Issue #": 1,
     "Condition": "FN",
@@ -1680,24 +1671,6 @@ export const data = [
     "Website Notes": "Lilith",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
-    "": ""
-  },
-  {
-    "Title": "Vampirella",
-    "Issue #": 1,
-    "Condition": "CGC 7.0",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 1265,
-    "": "clink"
-  },
-  {
-    "Title": "Vampirella",
-    "Issue #": 8,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 30,
     "": ""
   },
   {

@@ -364,17 +364,6 @@ export const data = [
   },
   {
     "Title": "Little Lulu",
-    "Issue #": "131 (#1)",
-    "Condition": "G/VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "cost": 10,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Little Lulu",
     "Issue #": 31,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -774,17 +763,6 @@ export const data = [
     "Issue #": "FC #907(#1)",
     "Condition": "VG/F",
     "Website Notes": "Toth Art",
-    "Personal Notes (Not on website)": "",
-    "cost": 10,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Tarzan",
-    "Issue #": 10,
-    "Condition": "VG/F",
-    "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "cost": 10,
     "": "",

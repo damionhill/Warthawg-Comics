@@ -69,7 +69,7 @@ export const data = [
     "Website Notes": 1972,
     "Personal Notes (Not on website)": "Rip Off Press",
     "Cost Basis": 2,
-    "": "2 avail"
+    "": ""
   },
   {
     "Title": "American Flyer Funnies",
@@ -121,15 +121,6 @@ export const data = [
     "Issue #": 71,
     "Condition": "NM",
     "Website Notes": "Fanzine",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Anomaly",
-    "Issue #": "nn",
-    "Condition": "VF/NM",
-    "Website Notes": "1972 Corben",
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
@@ -240,24 +231,6 @@ export const data = [
     "Website Notes": "Cherry Proto",
     "Personal Notes (Not on website)": "Last Gasp",
     "Cost Basis": 15,
-    "": ""
-  },
-  {
-    "Title": "Balloon Vendor",
-    "Issue #": "NN",
-    "Condition": "VF",
-    "Website Notes": "1971 Sheridan",
-    "Personal Notes (Not on website)": "Rip Off Press",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Barbarian Comics",
-    "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "California Comics",
-    "Cost Basis": "",
     "": ""
   },
   {
@@ -455,15 +428,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "Set",
     "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Bizarre Sex",
-    "Issue #": 1,
-    "Condition": "VF",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": "",
     "": ""
   },
@@ -947,28 +911,10 @@ export const data = [
   {
     "Title": "Dan O'Neil's Comics",
     "Issue #": 1,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Co & Sons",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Dan O'Neil's Comics",
-    "Issue #": 1,
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Co & Sons",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Death Dealer",
-    "Issue #": 1,
-    "Condition": "CGC 9.0",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Verotik",
-    "Cost Basis": 30,
     "": ""
   },
   {
@@ -1203,7 +1149,7 @@ export const data = [
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "Last Gasp",
     "Cost Basis": 4,
-    "": "2 avail"
+    "": ""
   },
   {
     "Title": "Dr Atomic",
@@ -1242,15 +1188,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Eating Raoul",
-    "Issue #": "NN",
-    "Condition": "VF+",
-    "Website Notes": 1982,
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "El Perfecto Comics",
     "Issue #": "",
     "Condition": "FN",
@@ -1281,15 +1218,6 @@ export const data = [
     "Title": "Fantagor",
     "Issue #": 2,
     "Condition": "F/VF",
-    "Website Notes": "1st Print Corben",
-    "Personal Notes (Not on website)": "Rip Off Press",
-    "Cost Basis": 5,
-    "": ""
-  },
-  {
-    "Title": "Fantagor",
-    "Issue #": 2,
-    "Condition": "VG/F",
     "Website Notes": "1st Print Corben",
     "Personal Notes (Not on website)": "Rip Off Press",
     "Cost Basis": 5,
@@ -2655,15 +2583,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Rip Kirby",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": ".50 Cvr Price",
-    "Personal Notes (Not on website)": "Street",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Rip Off Comix",
     "Issue #": 9,
     "Condition": "NM",
@@ -2908,29 +2827,11 @@ export const data = [
   },
   {
     "Title": "Slow Death",
-    "Issue #": 4,
-    "Condition": "VG/F",
-    "Website Notes": "1st Print Corben",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Slow Death",
     "Issue #": 5,
     "Condition": "VF+",
     "Website Notes": "1st Print Corben",
     "Personal Notes (Not on website)": "Last Gasp",
     "Cost Basis": 5,
-    "": ""
-  },
-  {
-    "Title": "Slow Death",
-    "Issue #": 5,
-    "Condition": "VF+",
-    "Website Notes": "2nd Print Corben",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": "",
     "": ""
   },
   {
@@ -3015,15 +2916,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Spaced Out",
-    "Issue #": "",
-    "Condition": "VF/NM",
-    "Website Notes": 1972,
-    "Personal Notes (Not on website)": "Print Mint",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Spasm!",
     "Issue #": "",
     "Condition": "VF/NM",
@@ -3057,15 +2949,6 @@ export const data = [
     "Website Notes": 1973,
     "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Tales From the Leather Nun",
-    "Issue #": 1,
-    "Condition": "VF+",
-    "Website Notes": "1973 1st Print",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": "",
     "": ""
   },
   {
@@ -3173,15 +3056,6 @@ export const data = [
     "Condition": "VF",
     "Website Notes": 1972,
     "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Thrilling Murder Comics",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "1971 Crumb Griffith",
-    "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
   },
@@ -3484,15 +3358,6 @@ export const data = [
   },
   {
     "Title": "XXXenophile",
-    "Issue #": 1,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Palliard",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "XXXenophile",
     "Issue #": 2,
     "Condition": "NM",
     "Website Notes": "",
@@ -3655,15 +3520,6 @@ export const data = [
   },
   {
     "Title": "Young Lust",
-    "Issue #": 1,
-    "Condition": "FN",
-    "Website Notes": "1970 1st Print",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Young Lust",
     "Issue #": 2,
     "Condition": "VG/F",
     "Website Notes": "1st Print",
@@ -3695,15 +3551,6 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Young Witches",
-    "Issue #": 3,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "EROS",
     "Cost Basis": "",
     "": ""
   },
@@ -3800,15 +3647,6 @@ export const data = [
   {
     "Title": "Zap Comix",
     "Issue #": 3,
-    "Condition": "VF/NM",
-    "Website Notes": "$2.50 Cover Price",
-    "Personal Notes (Not on website)": "Apex",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Zap Comix",
-    "Issue #": 3,
     "Condition": "FN",
     "Website Notes": "3rd Print 1975",
     "Personal Notes (Not on website)": "Apex",
@@ -3838,15 +3676,6 @@ export const data = [
     "Issue #": 4,
     "Condition": "F/VF",
     "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Apex",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Zap Comix",
-    "Issue #": 4,
-    "Condition": "VF/NM",
-    "Website Notes": "$2.50 Cover Price",
     "Personal Notes (Not on website)": "Apex",
     "Cost Basis": "",
     "": ""

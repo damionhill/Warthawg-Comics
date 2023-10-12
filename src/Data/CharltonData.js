@@ -126,15 +126,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Law Breakers",
-    "Issue #": 9,
-    "Condition": "G",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
     "Title": "Monster Hunters",
     "Issue #": 14,
     "Condition": "FN+",
@@ -340,15 +331,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 185,
     "": "Comiclink"
-  },
-  {
-    "Title": "Space Western",
-    "Issue #": 44,
-    "Condition": "F/G",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "GA",
-    "Cost Basis": 185,
-    "": ""
   },
   {
     "Title": "Strange Suspense Stories",
