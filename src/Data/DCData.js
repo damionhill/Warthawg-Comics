@@ -2539,15 +2539,6 @@ export const data = [
   },
   {
     "Title": "Batman",
-    "Issue #": 189,
-    "Condition": "CGC 6.5",
-    "Website Notes": "1st SA Scarecrow",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 255,
-    "": ""
-  },
-  {
-    "Title": "Batman",
     "Issue #": 190,
     "Condition": "CGC 8.0",
     "Website Notes": "Penguin C/S",
@@ -4002,15 +3993,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "GA",
     "Cost Basis": 5,
-    "": ""
-  },
-  {
-    "Title": "Dark Mansion of Forbidden Love",
-    "Issue #": 3,
-    "Condition": "F/VF",
-    "Website Notes": "Jones Cover",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
     "": ""
   },
   {
@@ -12250,15 +12232,6 @@ export const data = [
   },
   {
     "Title": "Superman",
-    "Issue #": 93,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 100,
-    "": ""
-  },
-  {
-    "Title": "Superman",
     "Issue #": 97,
     "Condition": "VF",
     "Website Notes": "Pizza Hut Giveaway",
@@ -13060,15 +13033,6 @@ export const data = [
   },
   {
     "Title": "Swamp Thing",
-    "Issue #": 1,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 40,
-    "": "Vancouver"
-  },
-  {
-    "Title": "Swamp Thing",
     "Issue #": 2,
     "Condition": "VF+",
     "Website Notes": "",
@@ -13165,6 +13129,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 250,
     "": "Clink"
+  },
+  {
+    "Title": "Swamp Thing",
+    "Issue #": 37,
+    "Condition": "FN+",
+    "Website Notes": "1st John Constatine",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Mark L"
   },
   {
     "Title": "Swing With Scooter",
@@ -14653,15 +14626,6 @@ export const data = [
   },
   {
     "Title": "Wonder Woman",
-    "Issue #": 84,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": 300,
-    "Cost Basis": 150,
-    "": ""
-  },
-  {
-    "Title": "Wonder Woman",
     "Issue #": 90,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -14815,6 +14779,24 @@ export const data = [
   },
   {
     "Title": "Wonder Woman",
+    "Issue #": 203,
+    "Condition": "VF",
+    "Website Notes": "Bondage Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "2023 BCC"
+  },
+  {
+    "Title": "Wonder Woman",
+    "Issue #": 204,
+    "Condition": "VG/F",
+    "Website Notes": "1st Nubia",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "2023 BCC"
+  },
+  {
+    "Title": "Wonder Woman",
     "Issue #": 204,
     "Condition": "CGC 5.5",
     "Website Notes": "1st Nubia",
@@ -14824,12 +14806,30 @@ export const data = [
   },
   {
     "Title": "Wonder Woman",
+    "Issue #": 205,
+    "Condition": "VF+",
+    "Website Notes": "2nd Nubia",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "2023 BCC"
+  },
+  {
+    "Title": "Wonder Woman",
     "Issue #": 206,
     "Condition": "VF/NM",
     "Website Notes": "Origin  Nubia",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 30,
     "": ""
+  },
+  {
+    "Title": "Wonder Woman",
+    "Issue #": 206,
+    "Condition": "F/VF",
+    "Website Notes": "Origin  Nubia",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "2023 BCC"
   },
   {
     "Title": "Wonder Woman",
@@ -14911,6 +14911,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
     "": ""
+  },
+  {
+    "Title": "Wonder Woman",
+    "Issue #": 72,
+    "Condition": "NM",
+    "Website Notes": "Classic Bolland Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 30,
+    "": "2023 BCC"
   },
   {
     "Title": "Wonder Woman (1987)",

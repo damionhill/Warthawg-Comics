@@ -1053,15 +1053,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Buster Crabbe",
-    "Issue #": 5,
-    "Condition": "CGC 1.8",
-    "Website Notes": "Frazetta Cvr",
-    "Personal Notes (Not on website)": "Famous Funnies",
-    "Cost Basis": 300,
-    "": "A-1"
-  },
-  {
     "Title": "Camp Comics",
     "Issue #": 2,
     "Condition": "G",
@@ -1474,6 +1465,15 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 10,
     "": ""
+  },
+  {
+    "Title": "Combat Kelly",
+    "Issue #": 20,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 50,
+    "": "30th Century"
   },
   {
     "Title": "Combat Kelly",
@@ -2043,15 +2043,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Doll Man",
-    "Issue #": 32,
-    "Condition": "GD+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Quality",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
     "Title": "Don Fortune",
     "Issue #": 2,
     "Condition": "FN",
@@ -2085,15 +2076,6 @@ export const data = [
     "Website Notes": "Coverless",
     "Personal Notes (Not on website)": "Nedor",
     "Cost Basis": 10,
-    "": ""
-  },
-  {
-    "Title": "Exciting Comics",
-    "Issue #": 55,
-    "Condition": "VG-",
-    "Website Notes": "Schomburg",
-    "Personal Notes (Not on website)": "Nedor",
-    "Cost Basis": 85,
     "": ""
   },
   {
@@ -2998,26 +2980,8 @@ export const data = [
   },
   {
     "Title": "Kerry Drake Detective cases",
-    "Issue #": 25,
-    "Condition": "VF+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Harvey",
-    "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Kerry Drake Detective cases",
     "Issue #": 28,
     "Condition": "VF+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Harvey",
-    "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Kerry Drake Detective cases",
-    "Issue #": 31,
-    "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Harvey",
     "Cost Basis": 25,
@@ -3331,15 +3295,6 @@ export const data = [
   },
   {
     "Title": "Marvel Family",
-    "Issue #": 16,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fawcett",
-    "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Marvel Family",
     "Issue #": 18,
     "Condition": "G/VG",
     "Website Notes": "",
@@ -3423,15 +3378,6 @@ export const data = [
     "Title": "Marvel Family",
     "Issue #": 62,
     "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fawcett",
-    "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Marvel Family",
-    "Issue #": 74,
-    "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Fawcett",
     "Cost Basis": 25,
@@ -4050,6 +3996,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Out of the Night",
+    "Issue #": 14,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "ACG",
+    "Cost Basis": 125,
+    "": "30th Century"
+  },
+  {
     "Title": "Out of the Shadows",
     "Issue #": 6,
     "Condition": "VG/F",
@@ -4441,7 +4396,7 @@ export const data = [
     "Issue #": 39,
     "Condition": "VG",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "Fiction House 2 avail",
+    "Personal Notes (Not on website)": "Fiction House",
     "Cost Basis": 85,
     "": ""
   },
@@ -4579,6 +4534,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
     "": ""
+  },
+  {
+    "Title": "Romantic Love",
+    "Issue #": 5,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Avon",
+    "Cost Basis": 50,
+    "": "2023 BCC"
   },
   {
     "Title": "Rugged Action",
@@ -4912,15 +4876,6 @@ export const data = [
     "Personal Notes (Not on website)": "Continental",
     "Cost Basis": 400,
     "": ""
-  },
-  {
-    "Title": "Terrifying Tales",
-    "Issue #": 12,
-    "Condition": "CBCS 5.0",
-    "Website Notes": "L Cole Bondage Cvr",
-    "Personal Notes (Not on website)": "Star",
-    "Cost Basis": 450,
-    "": "Dahlgren"
   },
   {
     "Title": "Terrifying Tales",
@@ -5605,15 +5560,6 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 125,
     "": ""
-  },
-  {
-    "Title": "Wow",
-    "Issue #": 34,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fawcett",
-    "Cost Basis": 45,
-    "": "Dahlgren"
   },
   {
     "Title": "Wow",

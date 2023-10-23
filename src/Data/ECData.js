@@ -1,15 +1,6 @@
 export const data = [
   {
     "Title": "Crime SuspenStories",
-    "Issue #": 12,
-    "Condition": "GD+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 50,
-    "": "Rich G"
-  },
-  {
-    "Title": "Crime SuspenStories",
     "Issue #": 15,
     "Condition": "CGC 5.0",
     "Website Notes": "",
@@ -25,15 +16,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 330,
     "": "CConnect"
-  },
-  {
-    "Title": "Crime SuspenStories",
-    "Issue #": 16,
-    "Condition": "CGC 2.5",
-    "Website Notes": "Classic Cover",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 200,
-    "": "Dahlgren"
   },
   {
     "Title": "Crime SuspenStories",
@@ -142,15 +124,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 40,
     "": ""
-  },
-  {
-    "Title": "Mad",
-    "Issue #": 9,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 160,
-    "": "Beyond"
   },
   {
     "Title": "Mad",
@@ -322,15 +295,6 @@ export const data = [
     "Personal Notes (Not on website)": "GA",
     "Cost Basis": 25,
     "": ""
-  },
-  {
-    "Title": "ShockSuspenstories",
-    "Issue #": 4,
-    "Condition": "CGC 4.5",
-    "Website Notes": "Color Touch",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 150,
-    "": "CConnect"
   },
   {
     "Title": "ShockSuspenstories",

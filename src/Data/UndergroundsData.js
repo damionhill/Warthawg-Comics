@@ -2844,15 +2844,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Slow Death",
-    "Issue #": 10,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
     "Title": "Smile",
     "Issue #": 1,
     "Condition": "FN+",
