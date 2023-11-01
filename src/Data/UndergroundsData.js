@@ -721,29 +721,11 @@ export const data = [
   },
   {
     "Title": "Cherry Poptart",
-    "Issue #": 8,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Yetzler",
-    "Cost Basis": 10,
-    "": ""
-  },
-  {
-    "Title": "Cherry Poptart",
     "Issue #": 12,
     "Condition": "VF/NM",
     "Website Notes": "Classic Cvr",
     "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": 14,
-    "": ""
-  },
-  {
-    "Title": "Cherry Poptart",
-    "Issue #": 17,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Yetzler",
-    "Cost Basis": 10,
     "": ""
   },
   {
@@ -757,38 +739,11 @@ export const data = [
   },
   {
     "Title": "Cherry Poptart",
-    "Issue #": 19,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Yetzler",
-    "Cost Basis": 10,
-    "": "3 avail"
-  },
-  {
-    "Title": "Cherry Poptart",
     "Issue #": 20,
     "Condition": "NM",
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": 12,
-    "": ""
-  },
-  {
-    "Title": "Cherry Poptart",
-    "Issue #": 20,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Yetzler",
-    "Cost Basis": 10,
-    "": ""
-  },
-  {
-    "Title": "Cherry Poptart",
-    "Issue #": 21,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Yetzler",
-    "Cost Basis": 10,
     "": ""
   },
   {
@@ -2106,15 +2061,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Little Greta Garbage",
-    "Issue #": 1,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Rip Off Press",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Magical Nymphini",
     "Issue #": 1,
     "Condition": "VF/NM",
@@ -2787,15 +2733,6 @@ export const data = [
     "Website Notes": "Corben",
     "Personal Notes (Not on website)": "Last Gasp",
     "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Sleazy Scandals of the Silver Screen",
-    "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": "1st Print 1974",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
     "": ""
   },
   {

@@ -524,15 +524,6 @@ export const data = [
   {
     "Title": "Black Cat Comics",
     "Issue #": 10,
-    "Condition": "CGC 3.0",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Harvey",
-    "Cost Basis": 50,
-    "": ""
-  },
-  {
-    "Title": "Black Cat Comics",
-    "Issue #": 10,
     "Condition": "G",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Harvey",
@@ -588,15 +579,6 @@ export const data = [
     "Title": "Black Cat Comics",
     "Issue #": 19,
     "Condition": "G/VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Harvey",
-    "Cost Basis": 50,
-    "": ""
-  },
-  {
-    "Title": "Black Cat Comics",
-    "Issue #": 19,
-    "Condition": "CGC 4.5",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Harvey",
     "Cost Basis": 50,
@@ -838,15 +820,6 @@ export const data = [
   },
   {
     "Title": "Black Terror",
-    "Issue #": 9,
-    "Condition": "GD",
-    "Website Notes": "Classic Cvr",
-    "Personal Notes (Not on website)": "Nedor",
-    "Cost Basis": 200,
-    "": "TTreasures"
-  },
-  {
-    "Title": "Black Terror",
     "Issue #": 25,
     "Condition": "P",
     "Website Notes": "Coverless",
@@ -970,15 +943,6 @@ export const data = [
     "Personal Notes (Not on website)": "Superior",
     "Cost Basis": 145,
     "": ""
-  },
-  {
-    "Title": "Brick Bradford",
-    "Issue #": 6,
-    "Condition": "VG",
-    "Website Notes": "Schomburg Robot Cvr",
-    "Personal Notes (Not on website)": "United Features",
-    "Cost Basis": 850,
-    "": "TrainsAuction"
   },
   {
     "Title": "Broncho Bill",
@@ -2095,15 +2059,6 @@ export const data = [
     "Personal Notes (Not on website)": "L. Miller",
     "Cost Basis": 10,
     "": ""
-  },
-  {
-    "Title": "Famous Funnies",
-    "Issue #": 16,
-    "Condition": "G/VG",
-    "Website Notes": "Buck Rogers",
-    "Personal Notes (Not on website)": "United",
-    "Cost Basis": 125,
-    "": "Dahlgren"
   },
   {
     "Title": "Fantastic",
@@ -3790,6 +3745,15 @@ export const data = [
   },
   {
     "Title": "Mystic",
+    "Issue #": 24,
+    "Condition": "CGC 4.5",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 375,
+    "": "Lone Star"
+  },
+  {
+    "Title": "Mystic",
     "Issue #": 38,
     "Condition": "G/VG",
     "Website Notes": "",
@@ -4080,15 +4044,6 @@ export const data = [
     "Title": "Planet Comics",
     "Issue #": 48,
     "Condition": "VF+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fiction House",
-    "Cost Basis": 110,
-    "": ""
-  },
-  {
-    "Title": "Planet Comics",
-    "Issue #": 49,
-    "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Fiction House",
     "Cost Basis": 110,

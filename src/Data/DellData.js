@@ -331,17 +331,6 @@ export const data = [
   },
   {
     "Title": "Little Beaver",
-    "Issue #": "FC294",
-    "Condition": "VG+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "cost": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Little Beaver",
     "Issue #": "FC529",
     "Condition": "VG",
     "Website Notes": "",
@@ -499,17 +488,6 @@ export const data = [
     "Issue #": 81,
     "Condition": "FA",
     "Website Notes": "3/4 Cover",
-    "Personal Notes (Not on website)": "",
-    "cost": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Red Ryder",
-    "Issue #": 85,
-    "Condition": "G/VG",
-    "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "cost": 5,
     "": "",
@@ -810,17 +788,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "cost": 10,
     "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Uncle Scrooge",
-    "Issue #": "FC 386 (#1)",
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "cost": 250,
-    "": "Marcy",
     "__1": "",
     "__2": ""
   },
