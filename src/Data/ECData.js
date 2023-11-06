@@ -19,6 +19,24 @@ export const data = [
   },
   {
     "Title": "Crime SuspenStories",
+    "Issue #": 20,
+    "Condition": "G/VG",
+    "Website Notes": "Classic Cover SOTI",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 400,
+    "": ""
+  },
+  {
+    "Title": "Crime SuspenStories",
+    "Issue #": 21,
+    "Condition": "FN+",
+    "Website Notes": "Classic Cover",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 600,
+    "": "Darnell"
+  },
+  {
+    "Title": "Crime SuspenStories",
     "Issue #": 27,
     "Condition": "FN",
     "Website Notes": "Last Issue Low Dist",
@@ -34,51 +52,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 160,
     "": "clink"
-  },
-  {
-    "Title": "Frontline Combat",
-    "Issue #": 3,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Frontline Combat",
-    "Issue #": 4,
-    "Condition": "FN",
-    "Website Notes": "Used in SOTI",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 80,
-    "": "Beyond"
-  },
-  {
-    "Title": "Frontline Combat",
-    "Issue #": 6,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Frontline Combat",
-    "Issue #": 10,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Frontline Combat",
-    "Issue #": 14,
-    "Condition": "FN-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 50,
-    "": "Beyond"
   },
   {
     "Title": "Frontline Combat",
@@ -424,12 +397,30 @@ export const data = [
   },
   {
     "Title": "Vault of Horror",
+    "Issue #": 32,
+    "Condition": "VG/F",
+    "Website Notes": "Classic Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 300,
+    "": ""
+  },
+  {
+    "Title": "Vault of Horror",
     "Issue #": 35,
     "Condition": "CGC 4.0",
     "Website Notes": "Conserved",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 625,
     "": "Lone Star"
+  },
+  {
+    "Title": "Vault of Horror",
+    "Issue #": 36,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": ""
   },
   {
     "Title": "Weird Fantasy",
@@ -493,6 +484,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 45,
     "": "Clink"
+  },
+  {
+    "Title": "Weird Science Fantasy",
+    "Issue #": 27,
+    "Condition": "G/VG",
+    "Website Notes": "Wood Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": ""
   },
   {
     "Title": "Weird Science Fantasy",

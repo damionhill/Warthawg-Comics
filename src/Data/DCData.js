@@ -262,6 +262,15 @@ export const data = [
   },
   {
     "Title": "Adventure Comics",
+    "Issue #": 294,
+    "Condition": "FN",
+    "Website Notes": "JFK M Monroe Bizzaro",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40,
+    "": ""
+  },
+  {
+    "Title": "Adventure Comics",
     "Issue #": 295,
     "Condition": "VG",
     "Website Notes": "1st Bizarro Titano",
@@ -1399,7 +1408,7 @@ export const data = [
     "Issue #": 29,
     "Condition": "VG/F",
     "Website Notes": "1st Ocean Master",
-    "Personal Notes (Not on website)": "2 avail",
+    "Personal Notes (Not on website)": "",
     "Cost Basis": 110,
     "": ""
   },
@@ -1969,15 +1978,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 85,
     "": ""
-  },
-  {
-    "Title": "Batman",
-    "Issue #": 106,
-    "Condition": "G+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 50,
-    "": "Poon"
   },
   {
     "Title": "Batman",
@@ -2589,15 +2589,6 @@ export const data = [
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 12,
-    "": ""
-  },
-  {
-    "Title": "Batman",
-    "Issue #": 222,
-    "Condition": "VG/F",
-    "Website Notes": "Beatles",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 78,
     "": ""
   },
   {
@@ -4474,15 +4465,6 @@ export const data = [
   },
   {
     "Title": "Detective Comics",
-    "Issue #": 297,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 35,
-    "": "Poon"
-  },
-  {
-    "Title": "Detective Comics",
     "Issue #": 298,
     "Condition": "CGC 5.5",
     "Website Notes": "1st SA Clayface",
@@ -5152,7 +5134,7 @@ export const data = [
     "Issue #": 500,
     "Condition": "NM",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "3 avail",
+    "Personal Notes (Not on website)": "2 avail",
     "Cost Basis": 22,
     "": ""
   },
@@ -12124,15 +12106,6 @@ export const data = [
   },
   {
     "Title": "Superman",
-    "Issue #": 90,
-    "Condition": "G/VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": 85,
-    "Cost Basis": 100,
-    "": ""
-  },
-  {
-    "Title": "Superman",
     "Issue #": 91,
     "Condition": "VG",
     "Website Notes": "",
@@ -12318,15 +12291,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "2 avail",
     "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Superman",
-    "Issue #": 170,
-    "Condition": "VF+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
     "": ""
   },
   {
@@ -12792,15 +12756,6 @@ export const data = [
     "Title": "Superman's Girlfriend Lois Lane",
     "Issue #": 105,
     "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Superman's Girlfriend Lois Lane",
-    "Issue #": 105,
-    "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
@@ -14303,15 +14258,6 @@ export const data = [
   {
     "Title": "Witching Hour",
     "Issue #": 19,
-    "Condition": "VF+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Witching Hour",
-    "Issue #": 19,
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
@@ -14412,24 +14358,6 @@ export const data = [
     "Title": "Witching Hour",
     "Issue #": 44,
     "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
-    "": "Palm Beach"
-  },
-  {
-    "Title": "Witching Hour",
-    "Issue #": 57,
-    "Condition": "NM-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
-    "": "Palm Beach"
-  },
-  {
-    "Title": "Witching Hour",
-    "Issue #": 58,
-    "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
@@ -14542,15 +14470,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 150,
     "": ""
-  },
-  {
-    "Title": "Wonder Woman",
-    "Issue #": 96,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 150,
-    "": "Maine"
   },
   {
     "Title": "Wonder Woman",
@@ -14856,6 +14775,15 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5,
+    "": ""
+  },
+  {
+    "Title": "Wonder Woman (1987)",
+    "Issue #": 197,
+    "Condition": "VF/NM",
+    "Website Notes": "Giant",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
     "": ""
   },
   {
@@ -15193,11 +15121,11 @@ export const data = [
   },
   {
     "Title": "Young Love",
-    "Issue #": 124,
-    "Condition": "CGC 9.2",
-    "Website Notes": "Giant",
-    "Personal Notes (Not on website)": "2 avail",
-    "Cost Basis": 35,
+    "Issue #": 109,
+    "Condition": "NM-",
+    "Website Notes": "100 Pg Giant",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
     "": ""
   },
   {
@@ -15216,6 +15144,42 @@ export const data = [
     "Website Notes": "Giant",
     "Personal Notes (Not on website)": "Romance",
     "Cost Basis": 15,
+    "": ""
+  },
+  {
+    "Title": "Young Romance",
+    "Issue #": 197,
+    "Condition": "NM-",
+    "Website Notes": "100 Pg Giant",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": ""
+  },
+  {
+    "Title": "Young Romance",
+    "Issue #": 198,
+    "Condition": "VF",
+    "Website Notes": "100 Pg Giant",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": ""
+  },
+  {
+    "Title": "Young Romance",
+    "Issue #": 199,
+    "Condition": "VF+",
+    "Website Notes": "100 Pg Giant",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": ""
+  },
+  {
+    "Title": "Young Romance",
+    "Issue #": 201,
+    "Condition": "VF/NM",
+    "Website Notes": "100 Pg Giant",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
     "": ""
   }
 ];
