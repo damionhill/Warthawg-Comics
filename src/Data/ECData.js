@@ -19,6 +19,15 @@ export const data = [
   },
   {
     "Title": "Crime SuspenStories",
+    "Issue #": 16,
+    "Condition": "G/VG",
+    "Website Notes": "Classic Cover",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 180,
+    "": ""
+  },
+  {
+    "Title": "Crime SuspenStories",
     "Issue #": 20,
     "Condition": "G/VG",
     "Website Notes": "Classic Cover SOTI",
@@ -403,15 +412,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 300,
     "": ""
-  },
-  {
-    "Title": "Vault of Horror",
-    "Issue #": 35,
-    "Condition": "CGC 4.0",
-    "Website Notes": "Conserved",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 625,
-    "": "Lone Star"
   },
   {
     "Title": "Vault of Horror",

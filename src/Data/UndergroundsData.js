@@ -460,15 +460,6 @@ export const data = [
   },
   {
     "Title": "Bizarre Sex",
-    "Issue #": 4,
-    "Condition": "NM",
-    "Website Notes": "$2 Cvr w/Wrapper",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Bizarre Sex",
     "Issue #": 5,
     "Condition": "VF/NM",
     "Website Notes": "Corben",
@@ -730,6 +721,15 @@ export const data = [
   },
   {
     "Title": "Cherry Poptart",
+    "Issue #": 17,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 10,
+    "": ""
+  },
+  {
+    "Title": "Cherry Poptart",
     "Issue #": 18,
     "Condition": "VF/NM",
     "Website Notes": "",
@@ -870,15 +870,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Co & Sons",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Death Rattle",
-    "Issue #": "V2#1",
-    "Condition": "NM",
-    "Website Notes": "Corben",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 2,
     "": ""
   },
   {
@@ -1773,6 +1764,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Illuminations",
+    "Issue #": "NN",
+    "Condition": "VF/NM",
+    "Website Notes": 1987,
+    "Personal Notes (Not on website)": "Eye N Apple",
+    "Cost Basis": 2,
+    "": ""
+  },
+  {
     "Title": "Incredible Facts O' Life",
     "Issue #": "",
     "Condition": "F/VF",
@@ -2367,6 +2367,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Omaha The Cat Dancer",
+    "Issue #": 7,
+    "Condition": "VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 2,
+    "": ""
+  },
+  {
     "Title": "Images of Omaha the Cat Dancer",
     "Issue #": 1,
     "Condition": "NM",
@@ -2808,6 +2817,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Solo",
+    "Issue #": 2,
+    "Condition": "NM",
+    "Website Notes": "Corben",
+    "Personal Notes (Not on website)": "DC",
+    "Cost Basis": 3,
+    "": ""
+  },
+  {
     "Title": "Son of Mutant World",
     "Issue #": 2,
     "Condition": "NM",
@@ -2868,15 +2886,6 @@ export const data = [
     "Website Notes": 1973,
     "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Tales From the Fridge",
-    "Issue #": 1,
-    "Condition": "VG",
-    "Website Notes": 1973,
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 1,
     "": ""
   },
   {
