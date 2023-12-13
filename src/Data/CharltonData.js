@@ -162,6 +162,33 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Outer Space",
+    "Issue #": 24,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Green Valley"
+  },
+  {
+    "Title": "Out of This World",
+    "Issue #": 10,
+    "Condition": "F/VF",
+    "Website Notes": "Ditko",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 75,
+    "": "Brian"
+  },
+  {
+    "Title": "Out of This World",
+    "Issue #": 14,
+    "Condition": "FN+",
+    "Website Notes": "Baker Art",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Brian"
+  },
+  {
     "Title": "Phantom",
     "Issue #": 18,
     "Condition": "VF+",
@@ -279,6 +306,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Rookie Cop",
+    "Issue #": 27,
+    "Condition": "VG/F",
+    "Website Notes": "1st Issue",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Brian"
+  },
+  {
     "Title": "Scooby Doo (Charlton)",
     "Issue #": 2,
     "Condition": "VF-",
@@ -307,6 +343,15 @@ export const data = [
   },
   {
     "Title": "Space Adventures",
+    "Issue #": 29,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Brian"
+  },
+  {
+    "Title": "Space Adventures",
     "Issue #": 44,
     "Condition": "VF+",
     "Website Notes": "1st Mercury Man",
@@ -322,6 +367,24 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
     "": "Bob"
+  },
+  {
+    "Title": "Space War",
+    "Issue #": 2,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Green Valley"
+  },
+  {
+    "Title": "Space War",
+    "Issue #": 9,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Green Valley"
   },
   {
     "Title": "Space Western",
@@ -351,6 +414,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Tales of the Mysterious Traveler",
+    "Issue #": 13,
+    "Condition": "FN+",
+    "Website Notes": "Baker Last Issue",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Brian"
+  },
+  {
     "Title": "This Magazine is Haunted",
     "Issue #": "V2#16",
     "Condition": "CGC 6.5",
@@ -367,6 +439,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5,
     "": ""
+  },
+  {
+    "Title": "Unusual Tales",
+    "Issue #": 17,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40,
+    "": "Brian"
   },
   {
     "Title": "Unusual Tales",

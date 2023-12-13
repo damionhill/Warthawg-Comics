@@ -77,6 +77,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Donald Duck",
+    "Issue #": 54,
+    "Condition": "VG/F",
+    "Website Notes": "26 Page Barks Story!",
+    "Personal Notes (Not on website)": "",
+    "cost": 10,
+    "": "Charlottesville",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Easter With Mother Goose",
     "Issue #": "",
     "Condition": "VG",
@@ -425,6 +436,94 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "cost": 5,
     "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Mickey Mouse",
+    "Issue #": "FC 157",
+    "Condition": "GD",
+    "Website Notes": "MM and the Beanstock",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
+    "": "Green Valley",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Mickey Mouse",
+    "Issue #": "FC 170",
+    "Condition": "GD",
+    "Website Notes": "Spooks Island",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
+    "": "Green Valley",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Mickey Mouse",
+    "Issue #": "FC 181",
+    "Condition": "G/VG",
+    "Website Notes": "Jungle Magic",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
+    "": "Green Valley",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Mickey Mouse",
+    "Issue #": "FC 194",
+    "Condition": "VG",
+    "Website Notes": "World Under the Sea",
+    "Personal Notes (Not on website)": "",
+    "cost": 10,
+    "": "Green Valley",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Mickey Mouse",
+    "Issue #": "FC 214",
+    "Condition": "VG",
+    "Website Notes": "Sky Adventure",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
+    "": "Green Valley",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Mickey Mouse",
+    "Issue #": "FC 231",
+    "Condition": "VG/F",
+    "Website Notes": "Rajah's Treasure",
+    "Personal Notes (Not on website)": "",
+    "cost": 10,
+    "": "Green Valley",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Mickey Mouse",
+    "Issue #": "FC 279",
+    "Condition": "GD",
+    "Website Notes": "Giant Ants",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
+    "": "Green Valley",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Mickey Mouse",
+    "Issue #": "FC 296",
+    "Condition": "VG",
+    "Website Notes": "Private Eye",
+    "Personal Notes (Not on website)": "",
+    "cost": 10,
+    "": "Green Valley",
     "__1": "",
     "__2": ""
   },

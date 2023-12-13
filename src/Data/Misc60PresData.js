@@ -1,16 +1,5 @@
 export const data = [
   {
-    "Title": "Adventures of Super Mario Brothers",
-    "Issue #": 2,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Valiant",
-    "Cost Basis": 22,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Alarming Adventures",
     "Issue #": 1,
     "Condition": "VG/F",
@@ -28,17 +17,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Dark Horse",
     "Cost Basis": 25,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Alien Worlds",
-    "Issue #": 2,
-    "Condition": "VF",
-    "Website Notes": "Stevens Cover",
-    "Personal Notes (Not on website)": "PC",
-    "Cost Basis": 10,
     "": "",
     "__1": "",
     "__2": ""
@@ -381,17 +359,6 @@ export const data = [
     "Personal Notes (Not on website)": "JW",
     "Cost Basis": 25,
     "": "Rich G",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Game Boy",
-    "Issue #": 2,
-    "Condition": "NM",
-    "Website Notes": "Nintendo 1.95",
-    "Personal Notes (Not on website)": "Valiant",
-    "Cost Basis": 35,
-    "": "",
     "__1": "",
     "__2": ""
   },
@@ -1100,17 +1067,6 @@ export const data = [
     "__2": ""
   },
   {
-    "Title": "Sheena 3-D",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "Stevens Cvr",
-    "Personal Notes (Not on website)": "Blackthorne",
-    "Cost Basis": 16,
-    "": "2 avail",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Solar Man of the Atom",
     "Issue #": 1,
     "Condition": "NM",
@@ -1523,6 +1479,17 @@ export const data = [
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 10,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Unusual Tales",
+    "Issue #": 5,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "ACG",
     "Cost Basis": 10,
     "": "",
     "__1": "",

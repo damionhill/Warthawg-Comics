@@ -217,6 +217,15 @@ export const data = [
   },
   {
     "Title": "Panic",
+    "Issue #": 2,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "TTreasures"
+  },
+  {
+    "Title": "Panic",
     "Issue #": 3,
     "Condition": "VG/F",
     "Website Notes": "",

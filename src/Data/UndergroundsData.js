@@ -135,15 +135,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "A+ Plus",
-    "Issue #": 4,
-    "Condition": "VF",
-    "Website Notes": "1978 Fantasy",
-    "Personal Notes (Not on website)": "Megaton",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Are Your Highs  Getting You Down?",
     "Issue #": "NN",
     "Condition": "VF",
@@ -1057,7 +1048,7 @@ export const data = [
     "Issue #": 1,
     "Condition": "F/VF",
     "Website Notes": "1972 1st Print",
-    "Personal Notes (Not on website)": "2 avail",
+    "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
   },
@@ -1328,15 +1319,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": 1977,
     "Personal Notes (Not on website)": "Stampart",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Freak Brothers",
-    "Issue #": 1,
-    "Condition": "VG",
-    "Website Notes": ".75 Cvr Price",
-    "Personal Notes (Not on website)": "Rip Off Press",
     "Cost Basis": "",
     "": ""
   },
@@ -1737,15 +1719,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Hungry Chuck Biscuits",
-    "Issue #": 1,
-    "Condition": "FN",
-    "Website Notes": "4th Print 1971",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
     "Title": "Hydrogen Bomb",
     "Issue #": 1,
     "Condition": "VF/NM",
@@ -1761,15 +1734,6 @@ export const data = [
     "Website Notes": "1st Print 1970",
     "Personal Notes (Not on website)": "2 avail",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Illuminations",
-    "Issue #": "NN",
-    "Condition": "VF/NM",
-    "Website Notes": 1987,
-    "Personal Notes (Not on website)": "Eye N Apple",
-    "Cost Basis": 2,
     "": ""
   },
   {
@@ -2049,7 +2013,7 @@ export const data = [
     "Website Notes": 1972,
     "Personal Notes (Not on website)": "Last Gasp",
     "Cost Basis": 2,
-    "": "2 avail"
+    "": ""
   },
   {
     "Title": "Little Green Dinosaur",
@@ -2871,6 +2835,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Stacia Stories",
+    "Issue #": 2,
+    "Condition": "VF/NM",
+    "Website Notes": "Scarce",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 10,
+    "": ""
+  },
+  {
     "Title": "Star Forces",
     "Issue #": 1,
     "Condition": "F/VF",
@@ -3087,15 +3060,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Tuff Shit Comics",
-    "Issue #": "NN",
-    "Condition": "FN",
-    "Website Notes": "1972 Crumb",
-    "Personal Notes (Not on website)": "Print Mint",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
     "Title": "Turned on Cuties",
     "Issue #": "",
     "Condition": "F/VF",
@@ -3137,15 +3101,6 @@ export const data = [
     "Condition": "GD",
     "Website Notes": "1st Print Crumb",
     "Personal Notes (Not on website)": "Print Mint",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Up From the Deep",
-    "Issue #": "",
-    "Condition": "VG/F",
-    "Website Notes": "Corben",
-    "Personal Notes (Not on website)": "Rip Off Press",
     "Cost Basis": 2,
     "": ""
   },

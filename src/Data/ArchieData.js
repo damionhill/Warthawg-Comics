@@ -351,6 +351,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Cosmo the Merry Martian",
+    "Issue #": 1,
+    "Condition": "VG/F",
+    "Website Notes": "Scarce",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Brian"
+  },
+  {
     "Title": "Fly Girl",
     "Issue #": 39,
     "Condition": "VG",
@@ -408,15 +417,6 @@ export const data = [
     "Title": "Laugh",
     "Issue #": 38,
     "Condition": "FN-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
-    "Title": "Laugh",
-    "Issue #": 93,
-    "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
