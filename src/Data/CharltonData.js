@@ -18,6 +18,33 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Captain Atom",
+    "Issue #": 85,
+    "Condition": "F/VF",
+    "Website Notes": "Ditko C/A",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
+    "Title": "Captain Atom",
+    "Issue #": 86,
+    "Condition": "F/VF",
+    "Website Notes": "Ditko C/A",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
+    "Title": "Captain Atom",
+    "Issue #": 87,
+    "Condition": "F/VF",
+    "Website Notes": "Nightshade",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": ""
+  },
+  {
     "Title": "Crime and Justice",
     "Issue #": 20,
     "Condition": "VG",

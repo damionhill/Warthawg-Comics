@@ -432,6 +432,16 @@ export const data = [
   {
     "Title": "Amazing Spider-Man",
     "Issue #": 10,
+    "Condition": "CGC 4.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 425,
+    "": "clink",
+    "__1": ""
+  },
+  {
+    "Title": "Amazing Spider-Man",
+    "Issue #": 10,
     "Condition": "CGC 3.5",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
@@ -1067,6 +1077,16 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 570,
     "": "CConnect",
+    "__1": ""
+  },
+  {
+    "Title": "Amazing Spider-Man",
+    "Issue #": 50,
+    "Condition": "CGC 3.5",
+    "Website Notes": "1st Kingpin",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 430,
+    "": "clink",
     "__1": ""
   },
   {
@@ -8252,6 +8272,16 @@ export const data = [
   {
     "Title": "Captain America",
     "Issue #": 241,
+    "Condition": "NM-",
+    "Website Notes": "Punisher",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 75,
+    "": "Tomlinson",
+    "__1": ""
+  },
+  {
+    "Title": "Captain America",
+    "Issue #": 241,
     "Condition": "VG/F",
     "Website Notes": "Punisher",
     "Personal Notes (Not on website)": "",
@@ -11277,6 +11307,16 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
     "": "",
+    "__1": ""
+  },
+  {
+    "Title": "Defenders",
+    "Issue #": 18,
+    "Condition": "CGC 7.0",
+    "Website Notes": "1st Wrecking Crew",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Dahlgren",
     "__1": ""
   },
   {
@@ -18170,6 +18210,16 @@ export const data = [
     "__1": ""
   },
   {
+    "Title": "Magik",
+    "Issue #": 1,
+    "Condition": "CGC 9.8",
+    "Website Notes": "Newsstand",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "clink",
+    "__1": ""
+  },
+  {
     "Title": "Man -Thing (1974)",
     "Issue #": 1,
     "Condition": "F/VF",
@@ -19090,10 +19140,20 @@ export const data = [
     "__1": ""
   },
   {
+    "Title": "Marvel Spotlight",
+    "Issue #": 6,
+    "Condition": "CGC 9.8",
+    "Website Notes": "1st Starlord in comics",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 300,
+    "": "nick",
+    "__1": ""
+  },
+  {
     "Title": "Marvel Spotlight (1979)",
     "Issue #": 6,
     "Condition": "VF+",
-    "Website Notes": "Starlord",
+    "Website Notes": "1st Starlord in comics",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": "",
@@ -21962,6 +22022,26 @@ export const data = [
   {
     "Title": "Spider-Man",
     "Issue #": 1,
+    "Condition": "CGC 9.8",
+    "Website Notes": "Lee/McFarlane SS",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 850,
+    "": "clink",
+    "__1": ""
+  },
+  {
+    "Title": "Spider-Man",
+    "Issue #": 1,
+    "Condition": "CGC 9.8",
+    "Website Notes": "Stan Lee SS",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 850,
+    "": "Ted",
+    "__1": ""
+  },
+  {
+    "Title": "Spider-Man",
+    "Issue #": 1,
     "Condition": "CGC 9.4",
     "Website Notes": "Platinum",
     "Personal Notes (Not on website)": "",
@@ -24304,7 +24384,7 @@ export const data = [
     "Issue #": 51,
     "Condition": "G/VG",
     "Website Notes": "1st Scarecrow",
-    "Personal Notes (Not on website)": "",
+    "Personal Notes (Not on website)": "2 avail",
     "Cost Basis": 50,
     "": "Bob",
     "__1": ""
@@ -24347,6 +24427,16 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 35,
     "": "",
+    "__1": ""
+  },
+  {
+    "Title": "Tales of Suspense",
+    "Issue #": 56,
+    "Condition": "VG/F",
+    "Website Notes": "1st Unicorn",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Green Valley",
     "__1": ""
   },
   {
@@ -25676,16 +25766,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": 50,
     "Cost Basis": 100,
-    "": "",
-    "__1": ""
-  },
-  {
-    "Title": "Tales to Astonish",
-    "Issue #": 93,
-    "Condition": "CGC 9.2",
-    "Website Notes": "S. Surfer c/s",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 600,
     "": "",
     "__1": ""
   },
@@ -28021,6 +28101,16 @@ export const data = [
   },
   {
     "Title": "X-Men",
+    "Issue #": 2,
+    "Condition": "CGC 7.5",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1150,
+    "": "keith",
+    "__1": ""
+  },
+  {
+    "Title": "X-Men",
     "Issue #": 3,
     "Condition": "FN",
     "Website Notes": "1st Blob",
@@ -28037,16 +28127,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 400,
     "": "",
-    "__1": ""
-  },
-  {
-    "Title": "X-Men",
-    "Issue #": 4,
-    "Condition": "CGC 4.5",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 1200,
-    "": "Mike",
     "__1": ""
   },
   {
@@ -31577,6 +31657,16 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 500,
     "": "",
+    "__1": ""
+  },
+  {
+    "Title": "X-Men",
+    "Issue #": 266,
+    "Condition": "VF/NM",
+    "Website Notes": "1st Gambit",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 95,
+    "": "clink",
     "__1": ""
   },
   {

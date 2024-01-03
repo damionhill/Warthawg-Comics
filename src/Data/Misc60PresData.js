@@ -363,6 +363,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Futurama",
+    "Issue #": 1,
+    "Condition": "CGC 9.8",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Bongo",
+    "Cost Basis": 320,
+    "": "clink",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Godzilla",
     "Issue #": 0,
     "Condition": "NM",
@@ -1063,6 +1074,17 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas Seaboard",
     "Cost Basis": 5,
     "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Simpsons",
+    "Issue #": 1,
+    "Condition": "CGC 9.8",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Bongo",
+    "Cost Basis": 125,
+    "": "clink",
     "__1": "",
     "__2": ""
   },

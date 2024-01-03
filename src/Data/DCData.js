@@ -1,6 +1,15 @@
 export const data = [
   {
     "Title": "Action Comics",
+    "Issue #": 194,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Dahlgren"
+  },
+  {
+    "Title": "Action Comics",
     "Issue #": 241,
     "Condition": "VG/F",
     "Website Notes": "Fortress of Solitude",
@@ -169,6 +178,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
     "": ""
+  },
+  {
+    "Title": "Adventure Comics",
+    "Issue #": 220,
+    "Condition": "VG",
+    "Website Notes": "Krypto C/S",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40,
+    "": "Dahlgren"
   },
   {
     "Title": "Adventure Comics",
@@ -1996,6 +2014,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 100,
     "": "Poon"
+  },
+  {
+    "Title": "Batman",
+    "Issue #": 129,
+    "Condition": "CGC 5.0",
+    "Website Notes": "Batwoman C/S",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 115,
+    "": "clink"
   },
   {
     "Title": "Batman",
@@ -4453,6 +4480,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 12,
     "": ""
+  },
+  {
+    "Title": "Detective Comics",
+    "Issue #": 370,
+    "Condition": "CGC 7.0",
+    "Website Notes": "1st Adams Art on Batman",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40,
+    "": "Dahlgren"
   },
   {
     "Title": "Detective Comics",
@@ -7193,8 +7229,17 @@ export const data = [
   {
     "Title": "House of Mystery",
     "Issue #": 174,
+    "Condition": "F/VF",
+    "Website Notes": "1st Mystery Issue",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "Tomlinson"
+  },
+  {
+    "Title": "House of Mystery",
+    "Issue #": 174,
     "Condition": "FN",
-    "Website Notes": "",
+    "Website Notes": "1st Mystery Issue",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 35,
     "": ""
@@ -7777,12 +7822,48 @@ export const data = [
   },
   {
     "Title": "House of Secrets",
+    "Issue #": 108,
+    "Condition": "NM-",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Dahlgren"
+  },
+  {
+    "Title": "House of Secrets",
+    "Issue #": 198,
+    "Condition": "NM-",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Dahlgren"
+  },
+  {
+    "Title": "House of Secrets",
     "Issue #": 109,
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 35,
     "": ""
+  },
+  {
+    "Title": "House of Secrets",
+    "Issue #": 112,
+    "Condition": "NM-",
+    "Website Notes": "Grey Tone Cover",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Dahlgren"
+  },
+  {
+    "Title": "House of Secrets",
+    "Issue #": 115,
+    "Condition": "NM-",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Dahlgren"
   },
   {
     "Title": "Jackie Gleason",
@@ -11252,6 +11333,15 @@ export const data = [
   {
     "Title": "Strange Adventures",
     "Issue #": 110,
+    "Condition": "CGC 7.5",
+    "Website Notes": "ClassicGrey Tone Cover",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 400,
+    "": "Tomlinson"
+  },
+  {
+    "Title": "Strange Adventures",
+    "Issue #": 110,
     "Condition": "G/VG",
     "Website Notes": "Classic Cover",
     "Personal Notes (Not on website)": "",
@@ -11896,6 +11986,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5,
     "": ""
+  },
+  {
+    "Title": "Superman",
+    "Issue #": 101,
+    "Condition": "G+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Dahlgren"
   },
   {
     "Title": "Superman",
@@ -14524,6 +14623,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 50,
     "": "Marty"
+  },
+  {
+    "Title": "Worlds Finest",
+    "Issue #": 97,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Dahlgren"
   },
   {
     "Title": "Worlds Finest",
