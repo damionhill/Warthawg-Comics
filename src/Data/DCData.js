@@ -1369,6 +1369,15 @@ export const data = [
   },
   {
     "Title": "Aquaman",
+    "Issue #": 1,
+    "Condition": "CGC 7.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 775,
+    "": "CConnect"
+  },
+  {
+    "Title": "Aquaman",
     "Issue #": 6,
     "Condition": "VF+",
     "Website Notes": "",
@@ -2314,15 +2323,6 @@ export const data = [
   },
   {
     "Title": "Batman",
-    "Issue #": 162,
-    "Condition": "FN-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": "Poon"
-  },
-  {
-    "Title": "Batman",
     "Issue #": 163,
     "Condition": "VG+",
     "Website Notes": "Joker c/s",
@@ -2563,6 +2563,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 275,
     "": ""
+  },
+  {
+    "Title": "Batman",
+    "Issue #": 234,
+    "Condition": "F/VF",
+    "Website Notes": "1st SA Two Face Adams",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 300,
+    "": "Keith"
   },
   {
     "Title": "Batman",
@@ -4448,6 +4457,15 @@ export const data = [
   {
     "Title": "Detective Comics",
     "Issue #": 359,
+    "Condition": "CGC 3.5",
+    "Website Notes": "1st Batgirl",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 315,
+    "": "CConnect"
+  },
+  {
+    "Title": "Detective Comics",
+    "Issue #": 359,
     "Condition": "VG-",
     "Website Notes": "1st Batgirl",
     "Personal Notes (Not on website)": "",
@@ -4480,6 +4498,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 12,
     "": ""
+  },
+  {
+    "Title": "Detective Comics",
+    "Issue #": 365,
+    "Condition": "VG/F",
+    "Website Notes": "Joker C/S",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40,
+    "": "Tim"
   },
   {
     "Title": "Detective Comics",
@@ -5797,6 +5824,15 @@ export const data = [
   },
   {
     "Title": "Forever People",
+    "Issue #": 1,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 75,
+    "": "Tommy"
+  },
+  {
+    "Title": "Forever People",
     "Issue #": 2,
     "Condition": "FN+",
     "Website Notes": "",
@@ -6648,15 +6684,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 55,
-    "": ""
-  },
-  {
-    "Title": "Green Lantern",
-    "Issue #": 85,
-    "Condition": "VF",
-    "Website Notes": "Adams",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 85,
     "": ""
   },
   {
@@ -7774,15 +7801,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 1550,
     "": ""
-  },
-  {
-    "Title": "House of Secrets",
-    "Issue #": 92,
-    "Condition": "CGC 5.5",
-    "Website Notes": "1st Swamp Thing",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 1215,
-    "": "Hakes"
   },
   {
     "Title": "House of Secrets",
@@ -12760,6 +12778,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 144,
     "": "Pedigree"
+  },
+  {
+    "Title": "Swamp Thing",
+    "Issue #": 1,
+    "Condition": "F/VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "Mark"
   },
   {
     "Title": "Swamp Thing",

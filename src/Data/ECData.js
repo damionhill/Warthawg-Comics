@@ -11,15 +11,6 @@ export const data = [
   {
     "Title": "Crime SuspenStories",
     "Issue #": 16,
-    "Condition": "CGC 3.5",
-    "Website Notes": "Classic Cover",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 330,
-    "": "CConnect"
-  },
-  {
-    "Title": "Crime SuspenStories",
-    "Issue #": 16,
     "Condition": "G/VG",
     "Website Notes": "Classic Cover",
     "Personal Notes (Not on website)": "",
@@ -424,6 +415,15 @@ export const data = [
   },
   {
     "Title": "Vault of Horror",
+    "Issue #": 35,
+    "Condition": "CGC 4.5",
+    "Website Notes": "Classic Cvr",
+    "Personal Notes (Not on website)": "B. Blue",
+    "Cost Basis": 1325,
+    "": "CConnect"
+  },
+  {
+    "Title": "Vault of Horror",
     "Issue #": 36,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -511,14 +511,5 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 35,
     "": "Clink"
-  },
-  {
-    "Title": "Weird Science Fantasy",
-    "Issue #": 29,
-    "Condition": "CGC 2.5",
-    "Website Notes": "Frazetta",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 300,
-    "": "Trade John"
   }
 ];

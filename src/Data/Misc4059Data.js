@@ -118,15 +118,6 @@ export const data = [
   },
   {
     "Title": "Adventures into the Unknown",
-    "Issue #": 33,
-    "Condition": "GD",
-    "Website Notes": "Spider Cover",
-    "Personal Notes (Not on website)": "ACG",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Adventures into the Unknown",
     "Issue #": 54,
     "Condition": "VG",
     "Website Notes": "3-D Effect",
@@ -237,15 +228,6 @@ export const data = [
     "Title": "Airboy Comics",
     "Issue #": "V8 #6",
     "Condition": "VG-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Hillman",
-    "Cost Basis": 27,
-    "": ""
-  },
-  {
-    "Title": "Airboy Comics",
-    "Issue #": "V9 #10",
-    "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Hillman",
     "Cost Basis": 27,
@@ -868,15 +850,6 @@ export const data = [
     "Issue #": "V5#7",
     "Condition": "VG+",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": "Dahlgren"
-  },
-  {
-    "Title": "Blue Bolt",
-    "Issue #": "V7 #1",
-    "Condition": "G/VG",
-    "Website Notes": "War Cover/Story",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
     "": "Dahlgren"
@@ -2197,15 +2170,6 @@ export const data = [
   },
   {
     "Title": "Fight Comics",
-    "Issue #": 32,
-    "Condition": "G",
-    "Website Notes": "Classic Cover",
-    "Personal Notes (Not on website)": "Fiction House",
-    "Cost Basis": 400,
-    "": ""
-  },
-  {
-    "Title": "Fight Comics",
     "Issue #": 77,
     "Condition": "F/VF",
     "Website Notes": "",
@@ -2509,15 +2473,6 @@ export const data = [
     "Personal Notes (Not on website)": "Farrell",
     "Cost Basis": 100,
     "": "TTreasures"
-  },
-  {
-    "Title": "Haunted Thrills",
-    "Issue #": 9,
-    "Condition": "CGC 1.8",
-    "Website Notes": "Classic Cover",
-    "Personal Notes (Not on website)": "Farrell",
-    "Cost Basis": 120,
-    "": ""
   },
   {
     "Title": "He-Man",
@@ -5018,24 +4973,6 @@ export const data = [
     "Condition": "VG-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Toby",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Tennessee Jed",
-    "Issue #": "NN",
-    "Condition": "GD",
-    "Website Notes": "1945 Promo",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Tennessee Jed Magic Tricks",
-    "Issue #": "NN",
-    "Condition": "GD",
-    "Website Notes": "1945 Promo",
-    "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
     "": ""
   },
