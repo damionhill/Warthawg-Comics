@@ -363,17 +363,6 @@ export const data = [
     "__2": ""
   },
   {
-    "Title": "Futurama",
-    "Issue #": 1,
-    "Condition": "CGC 9.8",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Bongo",
-    "Cost Basis": 320,
-    "": "clink",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Godzilla",
     "Issue #": 0,
     "Condition": "NM",
@@ -534,17 +523,6 @@ export const data = [
     "Website Notes": "Bolland",
     "Personal Notes (Not on website)": "Eagle Comics",
     "Cost Basis": 15,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Kite Fun Book",
-    "Issue #": 1969,
-    "Condition": "VF",
-    "Website Notes": "Dastardly&Muttley",
-    "Personal Notes (Not on website)": "H-B",
-    "Cost Basis": 25,
     "": "",
     "__1": "",
     "__2": ""
@@ -1034,17 +1012,6 @@ export const data = [
     "__2": ""
   },
   {
-    "Title": "Rocky Horror Picture Show",
-    "Issue #": 3,
-    "Condition": "NM",
-    "Website Notes": "w/lyrics",
-    "Personal Notes (Not on website)": "Caliber",
-    "Cost Basis": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Sad Sack and the Sarge",
     "Issue #": 25,
     "Condition": "VG/F",
@@ -1520,52 +1487,8 @@ export const data = [
   {
     "Title": "Vicki",
     "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": "Giant",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 20,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Vicki",
-    "Issue #": 1,
     "Condition": "VF",
     "Website Notes": "Giant",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 20,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Vicki",
-    "Issue #": 2,
-    "Condition": "VG",
-    "Website Notes": "Giant",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 20,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Vicki",
-    "Issue #": 3,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 20,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Vicki",
-    "Issue #": 4,
-    "Condition": "VF+",
-    "Website Notes": "",
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 20,
     "": "",

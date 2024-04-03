@@ -18,33 +18,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Captain Atom",
-    "Issue #": 85,
-    "Condition": "F/VF",
-    "Website Notes": "Ditko C/A",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Captain Atom",
-    "Issue #": 86,
-    "Condition": "F/VF",
-    "Website Notes": "Ditko C/A",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Captain Atom",
-    "Issue #": 87,
-    "Condition": "F/VF",
-    "Website Notes": "Nightshade",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
     "Title": "Crime and Justice",
     "Issue #": 20,
     "Condition": "VG",
@@ -79,6 +52,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 30,
     "": "30th Century"
+  },
+  {
+    "Title": "Danny Blaze",
+    "Issue #": 1,
+    "Condition": "CGC 6.5",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Wolf"
   },
   {
     "Title": "Fightin' Army",
@@ -171,15 +153,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Mysteries of Unexplored Worlds",
-    "Issue #": 23,
-    "Condition": "VG/F",
-    "Website Notes": "Ditko",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 130,
-    "": ""
-  },
-  {
     "Title": "Outer Space",
     "Issue #": 17,
     "Condition": "G/VG",
@@ -196,15 +169,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
     "": "Green Valley"
-  },
-  {
-    "Title": "Out of This World",
-    "Issue #": 10,
-    "Condition": "F/VF",
-    "Website Notes": "Ditko",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 75,
-    "": "Brian"
   },
   {
     "Title": "Out of This World",
@@ -343,20 +307,20 @@ export const data = [
   },
   {
     "Title": "Scooby Doo (Charlton)",
-    "Issue #": 2,
-    "Condition": "VF-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Scooby Doo (Charlton)",
     "Issue #": 3,
     "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5,
+    "": ""
+  },
+  {
+    "Title": "Scooby Doo (Charlton)",
+    "Issue #": 11,
+    "Condition": "VF/VF+",
+    "Website Notes": "Last Issue",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15,
     "": ""
   },
   {
@@ -376,33 +340,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 50,
     "": "Brian"
-  },
-  {
-    "Title": "Space Adventures",
-    "Issue #": 44,
-    "Condition": "VF+",
-    "Website Notes": "1st Mercury Man",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 50,
-    "": "Bob"
-  },
-  {
-    "Title": "Space Adventures",
-    "Issue #": 50,
-    "Condition": "FN+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": "Bob"
-  },
-  {
-    "Title": "Space War",
-    "Issue #": 2,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": "Green Valley"
   },
   {
     "Title": "Space War",
@@ -475,15 +412,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 40,
     "": "Brian"
-  },
-  {
-    "Title": "Unusual Tales",
-    "Issue #": 25,
-    "Condition": "VG/F",
-    "Website Notes": "Ditko",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
   },
   {
     "Title": "Unusual Tales",

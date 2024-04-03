@@ -488,15 +488,6 @@ export const data = [
   {
     "Title": "Captain Guts",
     "Issue #": 1,
-    "Condition": "VF+",
-    "Website Notes": "1969 2nd Print",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Captain Guts",
-    "Issue #": 1,
     "Condition": "VG/F",
     "Website Notes": "1969 2nd Print",
     "Personal Notes (Not on website)": "",
@@ -691,6 +682,33 @@ export const data = [
     "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Cherry Poptart",
+    "Issue #": 7,
+    "Condition": "VF/NM",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 15,
+    "": "Foundations Edge"
+  },
+  {
+    "Title": "Cherry Poptart",
+    "Issue #": 8,
+    "Condition": "VF/NM",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 15,
+    "": "Foundations Edge"
+  },
+  {
+    "Title": "Cherry Poptart",
+    "Issue #": 9,
+    "Condition": "VF/NM",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 15,
+    "": "Foundations Edge"
   },
   {
     "Title": "Cherry Poptart",
@@ -1053,15 +1071,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Dope Comix",
-    "Issue #": 5,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 4,
-    "": ""
-  },
-  {
     "Title": "Dopin' Dan",
     "Issue #": 1,
     "Condition": "F/VF",
@@ -1077,15 +1086,6 @@ export const data = [
     "Website Notes": 1973,
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Dracula's Daughter",
-    "Issue #": "NN",
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 1,
     "": ""
   },
   {
@@ -2124,6 +2124,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Mickey Rat",
+    "Issue #": 4,
+    "Condition": "VF/NM",
+    "Website Notes": "$2.50 Cover Price",
+    "Personal Notes (Not on website)": "Last Gasp",
+    "Cost Basis": 10,
+    "": "Foundations Edge"
+  },
+  {
     "Title": "Milk & Cheese",
     "Issue #": 1,
     "Condition": "VG/F",
@@ -2355,15 +2364,6 @@ export const data = [
     "Website Notes": "2nd Print",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
-    "": ""
-  },
-  {
-    "Title": "Omaha The Cat Dancer",
-    "Issue #": 7,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 2,
     "": ""
   },
   {
