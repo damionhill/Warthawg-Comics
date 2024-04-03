@@ -54,15 +54,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "All New Underground Comics",
-    "Issue #": 5,
-    "Condition": "VF",
-    "Website Notes": 1973,
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
     "Title": "Amazon Comics",
     "Issue #": 1,
     "Condition": "VF+",
@@ -703,6 +694,15 @@ export const data = [
   },
   {
     "Title": "Cherry Poptart",
+    "Issue #": 10,
+    "Condition": "VF/NM",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Yetzler",
+    "Cost Basis": 10,
+    "": "Indy"
+  },
+  {
+    "Title": "Cherry Poptart",
     "Issue #": 12,
     "Condition": "VF/NM",
     "Website Notes": "Classic Cvr",
@@ -745,6 +745,24 @@ export const data = [
     "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": 15,
     "": ""
+  },
+  {
+    "Title": "Cherry's Jubilee",
+    "Issue #": 1,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 5,
+    "": "3 avail"
+  },
+  {
+    "Title": "Cherry's Jubilee",
+    "Issue #": 4,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 5,
+    "": "Indy"
   },
   {
     "Title": "Chocolate Alphabet",
@@ -1446,6 +1464,15 @@ export const data = [
     "Website Notes": "1st Cherry",
     "Personal Notes (Not on website)": "AP Co",
     "Cost Basis": "",
+    "": ""
+  },
+  {
+    "Title": "Funnybook",
+    "Issue #": 1,
+    "Condition": "FN+",
+    "Website Notes": "1st Cherry",
+    "Personal Notes (Not on website)": "AP Co",
+    "Cost Basis": 40,
     "": ""
   },
   {
@@ -2512,6 +2539,15 @@ export const data = [
   },
   {
     "Title": "Rip Off Comix",
+    "Issue #": 9,
+    "Condition": "FN",
+    "Website Notes": "$1.50 Cover Price",
+    "Personal Notes (Not on website)": "Rip Off Comix",
+    "Cost Basis": 5,
+    "": "Indy"
+  },
+  {
+    "Title": "Rip Off Comix",
     "Issue #": 10,
     "Condition": "VG/F",
     "Website Notes": "1st Print",
@@ -3358,15 +3394,6 @@ export const data = [
   },
   {
     "Title": "Yellow Dog Comics",
-    "Issue #": 20,
-    "Condition": "VG/F",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Print Mint",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Yellow Dog Comics",
     "Issue #": 23,
     "Condition": "VG/F",
     "Website Notes": "1st Print",
@@ -3381,15 +3408,6 @@ export const data = [
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "Print Mint",
     "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Yellow Dog Comics",
-    "Issue #": 25,
-    "Condition": "VF",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Print Mint",
-    "Cost Basis": 3,
     "": ""
   },
   {
@@ -3678,15 +3696,6 @@ export const data = [
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "Apex",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Zero",
-    "Issue #": 3,
-    "Condition": "F/VF",
-    "Website Notes": 1976,
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": 2,
     "": ""
   }
 ];
