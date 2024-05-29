@@ -120,7 +120,7 @@ export const data = [
     "Title": "Hot Rod Racers",
     "Issue #": 12,
     "Condition": "NM",
-    "Website Notes": "3 avail",
+    "Website Notes": "2 avail",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
     "": ""

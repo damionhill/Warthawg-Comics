@@ -19,6 +19,15 @@ export const data = [
   },
   {
     "Title": "Crime SuspenStories",
+    "Issue #": 19,
+    "Condition": "VG",
+    "Website Notes": "Classic Cover",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 500,
+    "": "Tim"
+  },
+  {
+    "Title": "Crime SuspenStories",
     "Issue #": 20,
     "Condition": "G/VG",
     "Website Notes": "Classic Cover SOTI",
@@ -61,6 +70,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Haunt of Fear",
+    "Issue #": 20,
+    "Condition": "VG+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "TTreasures"
   },
   {
     "Title": "Humbug",
@@ -304,15 +322,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 225,
     "": "CConnect"
-  },
-  {
-    "Title": "Two-Fisted Tales",
-    "Issue #": 20,
-    "Condition": "VG",
-    "Website Notes": "Kurtzman",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 40,
-    "": "Beyond"
   },
   {
     "Title": "Two-Fisted Tales",
