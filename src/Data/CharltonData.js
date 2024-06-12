@@ -333,24 +333,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Space Adventures",
-    "Issue #": 29,
-    "Condition": "FN+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 50,
-    "": "Brian"
-  },
-  {
-    "Title": "Space War",
-    "Issue #": 9,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
-    "": "Green Valley"
-  },
-  {
     "Title": "Space Western",
     "Issue #": 40,
     "Condition": "CGC 2.5",
@@ -403,15 +385,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5,
     "": ""
-  },
-  {
-    "Title": "Unusual Tales",
-    "Issue #": 17,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 40,
-    "": "Brian"
   },
   {
     "Title": "Unusual Tales",

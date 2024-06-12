@@ -73,6 +73,15 @@ export const data = [
   },
   {
     "Title": "Haunt of Fear",
+    "Issue #": 11,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 225,
+    "": "Trade"
+  },
+  {
+    "Title": "Haunt of Fear",
     "Issue #": 20,
     "Condition": "VG+",
     "Website Notes": "",
@@ -466,6 +475,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 75,
     "": "TTreasures"
+  },
+  {
+    "Title": "Weird Fantasy",
+    "Issue #": 21,
+    "Condition": "VG",
+    "Website Notes": "Frazetta Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 225,
+    "": "Trade"
   },
   {
     "Title": "Weird Fantasy",

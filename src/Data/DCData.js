@@ -1891,15 +1891,6 @@ export const data = [
   },
   {
     "Title": "Batman",
-    "Issue #": 93,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 85,
-    "": ""
-  },
-  {
-    "Title": "Batman",
     "Issue #": 95,
     "Condition": "VG",
     "Website Notes": "",
@@ -4308,15 +4299,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 90,
-    "": ""
-  },
-  {
-    "Title": "Detective Comics",
-    "Issue #": 217,
-    "Condition": "VG+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 86,
     "": ""
   },
   {
@@ -14667,15 +14649,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Wonder Woman",
-    "Issue #": 199,
-    "Condition": "VF-",
-    "Website Notes": "J Jones Bondage Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 26,
     "": ""
   },
   {

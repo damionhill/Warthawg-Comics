@@ -955,6 +955,15 @@ export const data = [
   },
   {
     "Title": "Buck Rogers",
+    "Issue #": 3,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Famous Funnies",
+    "Cost Basis": 100,
+    "": "Trade"
+  },
+  {
+    "Title": "Buck Rogers",
     "Issue #": 4,
     "Condition": "P/F",
     "Website Notes": "Centerfold Missing",
@@ -3267,15 +3276,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Mammoth Comics",
-    "Issue #": 1,
-    "Condition": "GD",
-    "Website Notes": "Gerber '8'",
-    "Personal Notes (Not on website)": 1938,
-    "Cost Basis": 200,
-    "": "Trade"
-  },
-  {
     "Title": "Man Comics",
     "Issue #": 10,
     "Condition": "VG/F",
@@ -3823,6 +3823,15 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 100,
     "": "TTreasures"
+  },
+  {
+    "Title": "Mystery Tales",
+    "Issue #": 51,
+    "Condition": "F/G",
+    "Website Notes": "Williamson",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 8,
+    "": ""
   },
   {
     "Title": "Mystery Tales",
@@ -5506,15 +5515,6 @@ export const data = [
     "Personal Notes (Not on website)": "St John",
     "Cost Basis": 10,
     "": ""
-  },
-  {
-    "Title": "White Indian",
-    "Issue #": 12,
-    "Condition": "VG/F",
-    "Website Notes": "Al Frazetta Art",
-    "Personal Notes (Not on website)": "ME",
-    "Cost Basis": 35,
-    "": "calgary"
   },
   {
     "Title": "Wild Bill Hickok",
