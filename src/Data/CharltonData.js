@@ -378,6 +378,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "This Magazine is Haunted",
+    "Issue #": 21,
+    "Condition": "P/FA",
+    "Website Notes": "Ditko",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "Heroes"
+  },
+  {
     "Title": "Timmy the Timid Ghost",
     "Issue #": 17,
     "Condition": "VG",

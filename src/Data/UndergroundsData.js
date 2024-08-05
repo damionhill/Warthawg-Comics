@@ -9,15 +9,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Adventures of Crystal Night",
-    "Issue #": "NN",
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
     "Title": "After Shock",
     "Issue #": 1,
     "Condition": "VF/NM",
@@ -216,6 +207,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Bakersfield Kountry Komics",
+    "Issue #": 1,
+    "Condition": "VF",
+    "Website Notes": "Cherry Proto",
+    "Personal Notes (Not on website)": "Last Gasp",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
     "Title": "Barefootz Funnies",
     "Issue #": 1,
     "Condition": "VF/NM",
@@ -236,11 +236,11 @@ export const data = [
   {
     "Title": "Barn of Fear",
     "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Prin 1978",
+    "Condition": "VF",
+    "Website Notes": 1978,
     "Personal Notes (Not on website)": "CAG",
-    "Cost Basis": "",
-    "": ""
+    "Cost Basis": 5,
+    "": "20th Century"
   },
   {
     "Title": "Best Buy Comics",
@@ -325,15 +325,6 @@ export const data = [
   },
   {
     "Title": "Bijou Funnies",
-    "Issue #": 2,
-    "Condition": "VG",
-    "Website Notes": "2nd Print .50 Cover Price",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Bijou Funnies",
     "Issue #": 3,
     "Condition": "VF+",
     "Website Notes": "2nd Print .50 over Price",
@@ -398,6 +389,15 @@ export const data = [
   {
     "Title": "Bijou Funnies",
     "Issue #": 7,
+    "Condition": "VF/NM",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
+    "Title": "Bijou Funnies",
+    "Issue #": 7,
     "Condition": "VG/F",
     "Website Notes": "2nd Print",
     "Personal Notes (Not on website)": "Kitchen Sink",
@@ -433,6 +433,15 @@ export const data = [
   },
   {
     "Title": "Bizarre Sex",
+    "Issue #": 2,
+    "Condition": "F/VF",
+    "Website Notes": "2nd Print",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
+    "Title": "Bizarre Sex",
     "Issue #": 3,
     "Condition": "FN+",
     "Website Notes": "1st Print",
@@ -447,24 +456,6 @@ export const data = [
     "Website Notes": "Corben",
     "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Bizarre Sex",
-    "Issue #": 8,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 5,
-    "": ""
-  },
-  {
-    "Title": "Bizarre Sex",
-    "Issue #": 10,
-    "Condition": "VF/NM",
-    "Website Notes": "Omaha",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 3,
     "": ""
   },
   {
@@ -498,15 +489,6 @@ export const data = [
     "Title": "Captain Guts",
     "Issue #": 2,
     "Condition": "VF",
-    "Website Notes": 1969,
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Captain Guts",
-    "Issue #": 2,
-    "Condition": "F/VF",
     "Website Notes": 1969,
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
@@ -712,15 +694,6 @@ export const data = [
   },
   {
     "Title": "Cherry Poptart",
-    "Issue #": 10,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Yetzler",
-    "Cost Basis": 10,
-    "": "Indy"
-  },
-  {
-    "Title": "Cherry Poptart",
     "Issue #": 12,
     "Condition": "VF/NM",
     "Website Notes": "Classic Cvr",
@@ -730,21 +703,12 @@ export const data = [
   },
   {
     "Title": "Cherry Poptart",
-    "Issue #": 17,
+    "Issue #": 13,
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": 10,
-    "": ""
-  },
-  {
-    "Title": "Cherry Poptart",
-    "Issue #": 18,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Yetzler",
-    "Cost Basis": 10,
-    "": ""
+    "": "Heroes"
   },
   {
     "Title": "Cherry Poptart",
@@ -756,22 +720,13 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Cherry Poptart",
-    "Issue #": 22,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Yetzler",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
     "Title": "Cherry's Jubilee",
     "Issue #": 1,
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": 5,
-    "": "3 avail"
+    "": ""
   },
   {
     "Title": "Cherry's Jubilee",
@@ -810,6 +765,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Compleat Fart",
+    "Issue #": 1,
+    "Condition": "VF",
+    "Website Notes": 1976,
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
     "Title": "Complete Cheech Wizard",
     "Issue #": 3,
     "Condition": "VF/NM",
@@ -819,30 +783,30 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Conspiracy Capers",
+    "Issue #": 1,
+    "Condition": "VF",
+    "Website Notes": "1969 Williamson",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
+    "Title": "Consumer Comi",
+    "Issue #": "",
+    "Condition": "VF",
+    "Website Notes": 1975,
+    "Personal Notes (Not on website)": "Wisc DOJ",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
     "Title": "Coochy Cooty",
     "Issue #": 1,
     "Condition": "VF/NM",
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "Print Mint",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Corben Special",
-    "Issue #": 1,
-    "Condition": "NM",
-    "Website Notes": "Corben",
-    "Personal Notes (Not on website)": "Pacific",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Corporate Crime Comics",
-    "Issue #": "NN",
-    "Condition": "NM",
-    "Website Notes": 1979,
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 1,
     "": ""
   },
   {
@@ -901,12 +865,12 @@ export const data = [
   },
   {
     "Title": "Death Rattle",
-    "Issue #": 2,
-    "Condition": "FN",
-    "Website Notes": "1st Print",
+    "Issue #": "V2#1",
+    "Condition": "NM",
+    "Website Notes": "Corbin C/A",
     "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 2,
-    "": ""
+    "Cost Basis": 8,
+    "": "SDCon"
   },
   {
     "Title": "Death Rattle",
@@ -981,15 +945,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Despair",
-    "Issue #": 1,
-    "Condition": "VG",
-    "Website Notes": "2nd Print Crumb",
-    "Personal Notes (Not on website)": "Print Mint",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
     "Title": "Deviant Slice",
     "Issue #": 1,
     "Condition": "VF",
@@ -1050,15 +1005,6 @@ export const data = [
     "Website Notes": "Complete Set",
     "Personal Notes (Not on website)": "Rip Off Press",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Dope Comix",
-    "Issue #": 2,
-    "Condition": "NM",
-    "Website Notes": "3rd Print 1982",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 1,
     "": ""
   },
   {
@@ -1125,13 +1071,31 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Dr. Wertham's Comix & Stories",
+    "Title": "Dr. Wirtham's Comix & Stories",
     "Issue #": 2,
     "Condition": "VF/NM",
     "Website Notes": 1976,
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Dr. Wirtham's Comix & Stories",
+    "Issue #": 3,
+    "Condition": "VF/NM",
+    "Website Notes": 1978,
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
+    "Title": "Dr. Wirtham's Comix & Stories",
+    "Issue #": 4,
+    "Condition": "VF/NM",
+    "Website Notes": 1979,
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 5,
+    "": "20th Century"
   },
   {
     "Title": "Drool",
@@ -1548,6 +1512,24 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Googiewaumer Comics",
+    "Issue #": "",
+    "Condition": "VF",
+    "Website Notes": 1969,
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
+    "Title": "Gory Stories Quarterly",
+    "Issue #": "21/2",
+    "Condition": "VF",
+    "Website Notes": 1972,
+    "Personal Notes (Not on website)": "Hafaso",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
     "Title": "Greaser",
     "Issue #": 1,
     "Condition": "VF/NM",
@@ -1564,6 +1546,15 @@ export const data = [
     "Personal Notes (Not on website)": "Rip Off Press",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Griffith Observatory",
+    "Issue #": 1,
+    "Condition": "VF/NM",
+    "Website Notes": "1979 1st Print",
+    "Personal Notes (Not on website)": "Rip Off Press",
+    "Cost Basis": 5,
+    "": "20th Century"
   },
   {
     "Title": "Grim Wit",
@@ -1593,15 +1584,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Grim Wit",
-    "Issue #": 2,
-    "Condition": "VF",
-    "Website Notes": "1st Den 1st Print",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": 10,
-    "": ""
-  },
-  {
     "Title": "Guano Comix",
     "Issue #": 4,
     "Condition": "VF/NM",
@@ -1618,6 +1600,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 2,
     "": ""
+  },
+  {
+    "Title": "Hash-Slinger Comix",
+    "Issue #": "",
+    "Condition": "NM",
+    "Website Notes": 1978,
+    "Personal Notes (Not on website)": "Green River",
+    "Cost Basis": 5,
+    "": "20th Century"
   },
   {
     "Title": "Harold Hedd",
@@ -1788,114 +1779,6 @@ export const data = [
     "Website Notes": 1973,
     "Personal Notes (Not on website)": "Last Gasp",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Insect Fear",
-    "Issue #": 3,
-    "Condition": "VG/F",
-    "Website Notes": "Crumb .50 Cvr Price",
-    "Personal Notes (Not on website)": "Print Mint",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Ironwood",
-    "Issue #": 1,
-    "Condition": "VF",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Ironwood",
-    "Issue #": 2,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Ironwood",
-    "Issue #": 3,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Ironwood",
-    "Issue #": 4,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Ironwood",
-    "Issue #": 5,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Ironwood",
-    "Issue #": 6,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Ironwood",
-    "Issue #": 7,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Ironwood",
-    "Issue #": 8,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Ironwood",
-    "Issue #": 9,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Ironwood",
-    "Issue #": 10,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Ironwood",
-    "Issue #": 11,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 1,
     "": ""
   },
   {
@@ -2070,15 +1953,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Manhunt!",
-    "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": 1973,
-    "Personal Notes (Not on website)": "Print Mint",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Mean Bitch Thrills",
     "Issue #": "",
     "Condition": "VF",
@@ -2124,30 +1998,12 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Mickey Rat",
-    "Issue #": 4,
-    "Condition": "VF/NM",
-    "Website Notes": "$2.50 Cover Price",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": 10,
-    "": "Foundations Edge"
-  },
-  {
     "Title": "Milk & Cheese",
     "Issue #": 1,
     "Condition": "VG/F",
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "Slave Labor",
     "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Mom's Homemade Comics",
-    "Issue #": 3,
-    "Condition": "VF/NM",
-    "Website Notes": "2nd Print",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 2,
     "": ""
   },
   {
@@ -2430,6 +2286,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Power Pak Comics",
+    "Issue #": 1,
+    "Condition": "VF",
+    "Website Notes": "Crumb",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
     "Title": "Pro Junior",
     "Issue #": "",
     "Condition": "VG/F",
@@ -2467,12 +2332,39 @@ export const data = [
   },
   {
     "Title": "Quack!",
+    "Issue #": 1,
+    "Condition": "FN",
+    "Website Notes": "Brunner C/A",
+    "Personal Notes (Not on website)": "Star Reach",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
+    "Title": "Quack!",
     "Issue #": 3,
     "Condition": "VF/NM",
     "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "",
+    "Personal Notes (Not on website)": "Star Reach",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Rainbow Funnies",
+    "Issue #": "1&2",
+    "Condition": "VF/NM",
+    "Website Notes": 1978,
+    "Personal Notes (Not on website)": "Three Rivers",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
+    "Title": "R. Crumb's Comics and Stories",
+    "Issue #": 1,
+    "Condition": "VF",
+    "Website Notes": 1969,
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 5,
+    "": "20th Century"
   },
   {
     "Title": "Real Pulp Comics",
@@ -2503,15 +2395,6 @@ export const data = [
   },
   {
     "Title": "Rip in Time",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "Corben",
-    "Personal Notes (Not on website)": "Fantagor",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Rip in Time",
     "Issue #": 2,
     "Condition": "VF/NM",
     "Website Notes": "Corben",
@@ -2527,6 +2410,33 @@ export const data = [
     "Personal Notes (Not on website)": "Fantagor",
     "Cost Basis": 1,
     "": ""
+  },
+  {
+    "Title": "Rip Off Comix",
+    "Issue #": 4,
+    "Condition": "VF",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Rip Off Press",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
+    "Title": "Rip Off Comix",
+    "Issue #": 5,
+    "Condition": "VF",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Rip Off Press",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
+    "Title": "Rip Off Comix",
+    "Issue #": 5,
+    "Condition": "FN+",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Rip Off Press",
+    "Cost Basis": 5,
+    "": "20th Century"
   },
   {
     "Title": "Rip Off Comix",
@@ -2572,6 +2482,15 @@ export const data = [
     "Personal Notes (Not on website)": "Rip Off Press",
     "Cost Basis": 5,
     "": ""
+  },
+  {
+    "Title": "Roxy Funnies",
+    "Issue #": 1,
+    "Condition": "FN+",
+    "Website Notes": "1972 Lynch",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 5,
+    "": "20th Century"
   },
   {
     "Title": "Roxy Funnies",
@@ -2635,6 +2554,15 @@ export const data = [
     "Personal Notes (Not on website)": "Print Mint",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Savage Humor",
+    "Issue #": 1,
+    "Condition": "FN",
+    "Website Notes": 1973,
+    "Personal Notes (Not on website)": "Print Mint",
+    "Cost Basis": 5,
+    "": "20th Century"
   },
   {
     "Title": "Schizophrenia",
@@ -2817,6 +2745,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Soft Core",
+    "Issue #": "",
+    "Condition": "F/VF",
+    "Website Notes": 1973,
+    "Personal Notes (Not on website)": "Print Mint",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
     "Title": "Solo",
     "Issue #": 2,
     "Condition": "NM",
@@ -2880,15 +2817,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Star Forces",
-    "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
     "Title": "Tales From the Fridge",
     "Issue #": 1,
     "Condition": "VF+",
@@ -2912,8 +2840,8 @@ export const data = [
     "Condition": "VF/NM",
     "Website Notes": 1975,
     "Personal Notes (Not on website)": "Print Mint",
-    "Cost Basis": "",
-    "": ""
+    "Cost Basis": 5,
+    "": "2 avail"
   },
   {
     "Title": "Tales of the Armorkins",
@@ -3013,6 +2941,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Tits & Clits Comix",
+    "Issue #": 5,
+    "Condition": "VF",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Last Gasp",
+    "Cost Basis": 5,
+    "": "20th Century"
   },
   {
     "Title": "Tooney Loons",
@@ -3366,13 +3303,22 @@ export const data = [
     "": ""
   },
   {
+    "Title": "XYZ Comics",
+    "Issue #": 1,
+    "Condition": "VF",
+    "Website Notes": "Crumb .75 Cvr Price",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 5,
+    "": "20th Century"
+  },
+  {
     "Title": "Yellow Dog Comics",
     "Issue #": 13,
     "Condition": "VG/F",
     "Website Notes": "1st Print Crumb",
     "Personal Notes (Not on website)": "Print Mint",
-    "Cost Basis": "",
-    "": ""
+    "Cost Basis": 5,
+    "": "20th 2 avail"
   },
   {
     "Title": "Yellow Dog Comics",
@@ -3507,15 +3453,6 @@ export const data = [
     "Website Notes": "Shelton Digest Size",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 3,
-    "": ""
-  },
-  {
-    "Title": "Zap Comix",
-    "Issue #": 0,
-    "Condition": "VF",
-    "Website Notes": "2nd Print Crumb",
-    "Personal Notes (Not on website)": "Apex",
-    "Cost Basis": "",
     "": ""
   },
   {
