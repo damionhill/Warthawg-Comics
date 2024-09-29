@@ -127,15 +127,6 @@ export const data = [
   },
   {
     "Title": "Mad",
-    "Issue #": 13,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 80,
-    "": "Beyond"
-  },
-  {
-    "Title": "Mad",
     "Issue #": 15,
     "Condition": "FN",
     "Website Notes": "",
@@ -232,6 +223,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
     "": "Rich G"
+  },
+  {
+    "Title": "Moon Girl",
+    "Issue #": 4,
+    "Condition": "VG",
+    "Website Notes": "Int Panel cut out ow VG",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Tim"
   },
   {
     "Title": "Panic",
@@ -397,15 +397,6 @@ export const data = [
   },
   {
     "Title": "Vault of Horror",
-    "Issue #": 19,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 250,
-    "": "Rich G"
-  },
-  {
-    "Title": "Vault of Horror",
     "Issue #": 27,
     "Condition": "VG",
     "Website Notes": "",
@@ -468,42 +459,6 @@ export const data = [
     "": "Beyond"
   },
   {
-    "Title": "Weird Fantasy",
-    "Issue #": 20,
-    "Condition": "F/G",
-    "Website Notes": "Tape",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 75,
-    "": "TTreasures"
-  },
-  {
-    "Title": "Weird Fantasy",
-    "Issue #": 21,
-    "Condition": "VG",
-    "Website Notes": "Frazetta Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 225,
-    "": "Trade"
-  },
-  {
-    "Title": "Weird Fantasy",
-    "Issue #": 22,
-    "Condition": "F/G",
-    "Website Notes": "Last Issue",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 35,
-    "": "Clink"
-  },
-  {
-    "Title": "Weird Science Fantasy",
-    "Issue #": 24,
-    "Condition": "FA",
-    "Website Notes": "Williamson Art",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": "Clink"
-  },
-  {
     "Title": "Weird Science Fantasy",
     "Issue #": 25,
     "Condition": "FN-",
@@ -529,14 +484,5 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 100,
     "": ""
-  },
-  {
-    "Title": "Weird Science Fantasy",
-    "Issue #": 28,
-    "Condition": "GD",
-    "Website Notes": "Williamson Art",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 35,
-    "": "Clink"
   }
 ];

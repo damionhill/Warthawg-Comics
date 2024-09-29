@@ -343,6 +343,33 @@ export const data = [
   },
   {
     "Title": "Strange Suspense Stories",
+    "Issue #": 19,
+    "Condition": "CGC 4.0",
+    "Website Notes": "Classic Ditko Cover",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1350,
+    "": "George Cumberland"
+  },
+  {
+    "Title": "Strange Suspense Stories",
+    "Issue #": 19,
+    "Condition": "CGC 4.0",
+    "Website Notes": "Classic Ditko Cover",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1200,
+    "": "trade ogden"
+  },
+  {
+    "Title": "Strange Suspense Stories",
+    "Issue #": 19,
+    "Condition": "VG-",
+    "Website Notes": "Classic Ditko Cover",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1100,
+    "": "Steve ttrade"
+  },
+  {
+    "Title": "Strange Suspense Stories",
     "Issue #": 57,
     "Condition": "VF+",
     "Website Notes": "",
