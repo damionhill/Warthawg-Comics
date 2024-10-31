@@ -783,15 +783,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Creepsville",
-    "Issue #": 1,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "GOGO",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Crow: Wild Justice",
     "Issue #": 3,
     "Condition": "VF/NM",
@@ -3819,15 +3810,6 @@ export const data = [
     "Title": "Zap Comix",
     "Issue #": 3,
     "Condition": "FN",
-    "Website Notes": "3rd Print 1975",
-    "Personal Notes (Not on website)": "Apex",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Zap Comix",
-    "Issue #": 3,
-    "Condition": "VG",
     "Website Notes": "3rd Print 1975",
     "Personal Notes (Not on website)": "Apex",
     "Cost Basis": 2,

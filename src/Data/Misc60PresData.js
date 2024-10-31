@@ -17,7 +17,7 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Dark Horse",
     "Cost Basis": 25,
-    "": "",
+    "": "2 avail",
     "__1": "",
     "__2": ""
   },
@@ -93,17 +93,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "w/record",
     "Personal Notes (Not on website)": "Power Records",
-    "Cost Basis": 10,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Captain EO",
-    "Issue #": "3-D",
-    "Condition": "VF/NM",
-    "Website Notes": "M Jackson",
-    "Personal Notes (Not on website)": "Eclipse",
     "Cost Basis": 10,
     "": "",
     "__1": "",
@@ -1452,6 +1441,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Voltron",
+    "Issue #": 1,
+    "Condition": "NM-",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Modern",
+    "Cost Basis": 60,
+    "": "Joe",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Walking Dead TPB",
     "Issue #": "1-32",
     "Condition": "VF/NM",
@@ -1473,4 +1473,5 @@ export const data = [
     "__1": "",
     "__2": ""
   }
-];
+]
+;

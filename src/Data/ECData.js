@@ -73,15 +73,6 @@ export const data = [
   },
   {
     "Title": "Haunt of Fear",
-    "Issue #": 11,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 225,
-    "": "Trade"
-  },
-  {
-    "Title": "Haunt of Fear",
     "Issue #": 20,
     "Condition": "VG+",
     "Website Notes": "",
@@ -307,15 +298,6 @@ export const data = [
   },
   {
     "Title": "ShockSuspenstories",
-    "Issue #": 11,
-    "Condition": "FN+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 250,
-    "": "Beyond"
-  },
-  {
-    "Title": "ShockSuspenstories",
     "Issue #": 16,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -343,29 +325,11 @@ export const data = [
   },
   {
     "Title": "Two-Fisted Tales",
-    "Issue #": 36,
-    "Condition": "FA/G",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
-    "Title": "Two-Fisted Tales",
     "Issue #": 37,
     "Condition": "VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Two-Fisted Tales",
-    "Issue #": 38,
-    "Condition": "VG-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
     "": ""
   },
   {
@@ -397,6 +361,15 @@ export const data = [
   },
   {
     "Title": "Vault of Horror",
+    "Issue #": 26,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 300,
+    "": "Darnell"
+  },
+  {
+    "Title": "Vault of Horror",
     "Issue #": 27,
     "Condition": "VG",
     "Website Notes": "",
@@ -411,15 +384,6 @@ export const data = [
     "Website Notes": "Classic Cvr",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 1200,
-    "": ""
-  },
-  {
-    "Title": "Vault of Horror",
-    "Issue #": 32,
-    "Condition": "VG/F",
-    "Website Notes": "Classic Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 300,
     "": ""
   },
   {

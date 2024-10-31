@@ -64,15 +64,6 @@ export const data = [
   },
   {
     "Title": "Fightin' Army",
-    "Issue #": 23,
-    "Condition": "FN+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
-    "": ""
-  },
-  {
-    "Title": "Fightin' Army",
     "Issue #": 12,
     "Condition": "VF",
     "Website Notes": "",
@@ -135,6 +126,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "In Love",
+    "Issue #": 5,
+    "Condition": "VG",
+    "Website Notes": "Kirby C/A",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 150,
+    "": "heritage"
+  },
+  {
     "Title": "Monster Hunters",
     "Issue #": 14,
     "Condition": "FN+",
@@ -169,15 +169,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
     "": "Green Valley"
-  },
-  {
-    "Title": "Out of This World",
-    "Issue #": 14,
-    "Condition": "FN+",
-    "Website Notes": "Baker Art",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 50,
-    "": "Brian"
   },
   {
     "Title": "Phantom",
