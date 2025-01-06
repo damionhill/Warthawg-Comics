@@ -17,8 +17,10 @@ function Events()
 
         {/*DAD! Add events below this line by copying the format. */}
         {/* <EventInstance linkURL = "http://www.shoffpromotions.com/" name = "Comic Logic Comic Show" date = "Jul 11, 2021 12-5PM" address = "44031 Ashburn Plaza Shopping Center #281 Ashburn, VA 20147"/> */}
-        <EventInstance linkURL = "http://www.shoffpromotions.com/" name = "Annandale, VA Comic Book Show" date = "Nov 17,2024 10-3PM" address = "5400 Holiday Drive Frederick, MD 21703"/>
-        <EventInstance linkURL = "http://www.shoffpromotions.com/" name = "Annandale, VA Comic Book Show" date = "Dec 8,2024 10-3PM" address = "7128 Columbia Pike Annandale, VA 22003"/>
+        <EventInstance linkURL = "http://www.shoffpromotions.com/" name = "Laurel, MD Comic Book Show" date = "Feb 9,2025 10-3PM" address = "Double Tree 15101 Sweitzer Ln Laurel, MD"/>
+        <EventInstance linkURL = "http://www.shoffpromotions.com/" name = "Annandale, VA Comic Book Show" date = "Feb 23,2025 10-3PM" address = "7128 Columbia Pike Annandale, VA 22003"/>
+        <EventInstance linkURL = "http://www.shoffpromotions.com/" name = "Frederick, MD Comic Book Show" date = "Mar 16,2025 10-3PM" address = "5400 Holiday Drive Frederick, MD 21703"/>
+        <EventInstance linkURL = "http://www.shoffpromotions.com/" name = "Annandale, VA Comic Book Show" date = "Mar 23,2025 10-3PM" address = "7128 Columbia Pike Annandale, VA 22003"/>
   </div>
 
     </>

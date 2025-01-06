@@ -572,6 +572,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Madman Comics",
+    "Issue #": 4,
+    "Condition": "CGC 9.8",
+    "Website Notes": "D Stevens",
+    "Personal Notes (Not on website)": "Dark Horse",
+    "Cost Basis": 130,
+    "": "clink",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Mandrake the Magician",
     "Issue #": 2,
     "Condition": "VG/F",
@@ -1430,6 +1441,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Usagi Yojimbo",
+    "Issue #": 1,
+    "Condition": "VF/NM",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Fantagraphics",
+    "Cost Basis": 40,
+    "": "Green Valley",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Vicki",
     "Issue #": 1,
     "Condition": "VF",
@@ -1437,17 +1459,6 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 20,
     "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Voltron",
-    "Issue #": 1,
-    "Condition": "NM-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Modern",
-    "Cost Basis": 60,
-    "": "Joe",
     "__1": "",
     "__2": ""
   },
@@ -1473,5 +1484,4 @@ export const data = [
     "__1": "",
     "__2": ""
   }
-]
-;
+];

@@ -261,15 +261,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Big Apple Comics",
-    "Issue #": "NN",
-    "Condition": "VF/NM",
-    "Website Notes": 1975,
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Big Ass Comics",
     "Issue #": 1,
     "Condition": "VG/F",
@@ -343,15 +334,6 @@ export const data = [
   },
   {
     "Title": "Bijou Funnies",
-    "Issue #": 5,
-    "Condition": "VG",
-    "Website Notes": "4th Print",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Bijou Funnies",
     "Issue #": 6,
     "Condition": "NM",
     "Website Notes": "1st Print Crumb",
@@ -384,15 +366,6 @@ export const data = [
     "Website Notes": "2nd Print",
     "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Birdland",
-    "Issue #": "1-3",
-    "Condition": "NM",
-    "Website Notes": "Set",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": "",
     "": ""
   },
   {
@@ -555,15 +528,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Rip Off Press",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Cerebus",
-    "Issue #": 54,
-    "Condition": "VF/NM",
-    "Website Notes": "Wolveroach",
-    "Personal Notes (Not on website)": "Aardvark",
-    "Cost Basis": 5,
     "": ""
   },
   {
@@ -882,24 +846,6 @@ export const data = [
     "": "BCC 2024"
   },
   {
-    "Title": "Den",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "Corben",
-    "Personal Notes (Not on website)": "Fantagor",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
-    "Title": "Den",
-    "Issue #": 10,
-    "Condition": "VF/NM",
-    "Website Notes": "Corben",
-    "Personal Notes (Not on website)": "Fantagor",
-    "Cost Basis": 1,
-    "": ""
-  },
-  {
     "Title": "Despair",
     "Issue #": 1,
     "Condition": "F/VF",
@@ -1200,25 +1146,7 @@ export const data = [
     "Title": "Fever Dreams",
     "Issue #": 1,
     "Condition": "F/VF",
-    "Website Notes": "2nd Print Corben",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Fever Dreams",
-    "Issue #": 1,
-    "Condition": "F/VF",
     "Website Notes": ".75 Cover Price",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Fever Dreams",
-    "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": "$1 Cover Price",
     "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": 2,
     "": ""
@@ -1383,15 +1311,6 @@ export const data = [
     "Website Notes": "1st Print Crumb",
     "Personal Notes (Not on website)": "Apex",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Funny Animals",
-    "Issue #": "",
-    "Condition": "FN+",
-    "Website Notes": "1st Print Crumb",
-    "Personal Notes (Not on website)": "Apex",
-    "Cost Basis": 5,
     "": ""
   },
   {
@@ -1567,15 +1486,6 @@ export const data = [
   },
   {
     "Title": "Harold Hedd",
-    "Issue #": 1,
-    "Condition": "VG",
-    "Website Notes": "Tabloid Size",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Harold Hedd",
     "Issue #": 2,
     "Condition": "VF/NM",
     "Website Notes": "1st Print",
@@ -1599,6 +1509,15 @@ export const data = [
     "Website Notes": "2 issue story",
     "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": "",
+    "": ""
+  },
+  {
+    "Title": "Harold Hedd Hitler's Cocaine",
+    "Issue #": 1,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 1,
     "": ""
   },
   {
@@ -1708,15 +1627,6 @@ export const data = [
     "Personal Notes (Not on website)": "Eros",
     "Cost Basis": 5,
     "": "BCC 2024"
-  },
-  {
-    "Title": "Horror in the Dark",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "Corben",
-    "Personal Notes (Not on website)": "Fantagor",
-    "Cost Basis": 2,
-    "": ""
   },
   {
     "Title": "Hot Stuff",
@@ -2287,15 +2197,6 @@ export const data = [
   },
   {
     "Title": "Omaha The Cat Dancer",
-    "Issue #": 8,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 3,
-    "": ""
-  },
-  {
-    "Title": "Omaha The Cat Dancer",
     "Issue #": 9,
     "Condition": "VF/NM",
     "Website Notes": "1st Print",
@@ -2305,34 +2206,7 @@ export const data = [
   },
   {
     "Title": "Omaha The Cat Dancer",
-    "Issue #": 10,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 3,
-    "": ""
-  },
-  {
-    "Title": "Omaha The Cat Dancer",
     "Issue #": 11,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 3,
-    "": ""
-  },
-  {
-    "Title": "Omaha The Cat Dancer",
-    "Issue #": 12,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": 3,
-    "": ""
-  },
-  {
-    "Title": "Omaha The Cat Dancer",
-    "Issue #": 13,
     "Condition": "VF/NM",
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "Kitchen Sink",
@@ -2890,15 +2764,6 @@ export const data = [
   },
   {
     "Title": "Skull Comics",
-    "Issue #": 5,
-    "Condition": "FN",
-    "Website Notes": "Corben",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
-    "Title": "Skull Comics",
     "Issue #": 6,
     "Condition": "FN+",
     "Website Notes": "Corben",
@@ -3303,24 +3168,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "True North",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "Cerebus",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "True North",
-    "Issue #": 2,
-    "Condition": "VF/NM",
-    "Website Notes": "Cerebus",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Turned on Cuties",
     "Issue #": "",
     "Condition": "F/VF",
@@ -3515,24 +3362,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Rip Off Press",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Xenozioc Tales",
-    "Issue #": 11,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Xenozioc Tales",
-    "Issue #": 12,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": "",
     "": ""
   },

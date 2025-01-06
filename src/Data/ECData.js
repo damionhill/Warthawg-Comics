@@ -10,12 +10,12 @@ export const data = [
   },
   {
     "Title": "Crime SuspenStories",
-    "Issue #": 16,
-    "Condition": "G/VG",
+    "Issue #": 19,
+    "Condition": "CGC 4.5",
     "Website Notes": "Classic Cover",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 180,
-    "": ""
+    "Cost Basis": 750,
+    "": "Trade Keith"
   },
   {
     "Title": "Crime SuspenStories",
@@ -25,15 +25,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 500,
     "": "Tim"
-  },
-  {
-    "Title": "Crime SuspenStories",
-    "Issue #": 20,
-    "Condition": "G/VG",
-    "Website Notes": "Classic Cover SOTI",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 400,
-    "": ""
   },
   {
     "Title": "Crime SuspenStories",
@@ -64,21 +55,21 @@ export const data = [
   },
   {
     "Title": "Frontline Combat",
+    "Issue #": 4,
+    "Condition": "VG",
+    "Website Notes": "Used in SOTI",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 75,
+    "": "Ogden"
+  },
+  {
+    "Title": "Frontline Combat",
     "Issue #": 14,
     "Condition": "GD+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
-  },
-  {
-    "Title": "Haunt of Fear",
-    "Issue #": 20,
-    "Condition": "VG+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 200,
-    "": "TTreasures"
   },
   {
     "Title": "Humbug",
@@ -97,15 +88,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": "Rich G"
-  },
-  {
-    "Title": "Mad",
-    "Issue #": 6,
-    "Condition": "F/G",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 40,
-    "": ""
   },
   {
     "Title": "Mad",
