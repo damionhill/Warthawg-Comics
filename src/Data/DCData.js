@@ -1,6 +1,15 @@
 export const data = [
   {
     "Title": "Action Comics",
+    "Issue #": 22,
+    "Condition": "F/G",
+    "Website Notes": 1940,
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1100,
+    "": "30th century"
+  },
+  {
+    "Title": "Action Comics",
     "Issue #": 173,
     "Condition": "CGC 5.0",
     "Website Notes": "Robot Cvr",
@@ -2434,8 +2443,8 @@ export const data = [
     "Issue #": 189,
     "Condition": "G/VG",
     "Website Notes": "1st SA Scarecrow",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 75,
+    "Personal Notes (Not on website)": "2 avail",
+    "Cost Basis": 150,
     "": "Mark"
   },
   {
@@ -2446,6 +2455,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 95,
     "": ""
+  },
+  {
+    "Title": "Batman",
+    "Issue #": 190,
+    "Condition": "VG+",
+    "Website Notes": "Penguin C/S",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "Ann Arbor"
   },
   {
     "Title": "Batman",
@@ -2871,6 +2889,33 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Batman",
+    "Issue #": 608,
+    "Condition": "NM",
+    "Website Notes": "Newsstand",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Cutler"
+  },
+  {
+    "Title": "Batman",
+    "Issue #": 612,
+    "Condition": "NM",
+    "Website Notes": "Newsstand",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Cutler"
+  },
+  {
+    "Title": "Batman",
+    "Issue #": 612,
+    "Condition": "NM",
+    "Website Notes": "Superman",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Cutler"
+  },
+  {
     "Title": "Batman Annual",
     "Issue #": 1,
     "Condition": "VG",
@@ -3220,15 +3265,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
     "": ""
-  },
-  {
-    "Title": "Blackhawk",
-    "Issue #": 117,
-    "Condition": "CGC 3.5",
-    "Website Notes": "Mr Freeze",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 50,
-    "": "houston"
   },
   {
     "Title": "Blackhawk",
@@ -5095,6 +5131,15 @@ export const data = [
   },
   {
     "Title": "Detective Comics",
+    "Issue #": 532,
+    "Condition": "VF/NM",
+    "Website Notes": "Joker C/S",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15,
+    "": "Ann Arbor"
+  },
+  {
+    "Title": "Detective Comics",
     "Issue #": 533,
     "Condition": "NM",
     "Website Notes": "",
@@ -6148,6 +6193,15 @@ export const data = [
   },
   {
     "Title": "G.I. Combat",
+    "Issue #": 85,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 30,
+    "": "Annandale"
+  },
+  {
+    "Title": "G.I. Combat",
     "Issue #": 87,
     "Condition": "CGC 5.5",
     "Website Notes": "1st Haunted Tank",
@@ -6280,6 +6334,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": ""
+  },
+  {
+    "Title": "Girl's Romances",
+    "Issue #": 8,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "30th Century"
   },
   {
     "Title": "Girl's Romances",
@@ -6527,6 +6590,15 @@ export const data = [
   {
     "Title": "Green Lantern",
     "Issue #": 78,
+    "Condition": "VF",
+    "Website Notes": "Adams",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 30,
+    "": "Ann Arbor"
+  },
+  {
+    "Title": "Green Lantern",
+    "Issue #": 78,
     "Condition": "VG/F",
     "Website Notes": "Adams",
     "Personal Notes (Not on website)": "",
@@ -6550,6 +6622,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 55,
     "": ""
+  },
+  {
+    "Title": "Green Lantern",
+    "Issue #": 82,
+    "Condition": "VF/NM",
+    "Website Notes": "Adams",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 30,
+    "": "Ann Arbor"
   },
   {
     "Title": "Green Lantern",
@@ -9362,15 +9443,6 @@ export const data = [
   {
     "Title": "New Gods",
     "Issue #": 1,
-    "Condition": "CGC 9.2",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 180,
-    "": ""
-  },
-  {
-    "Title": "New Gods",
-    "Issue #": 1,
     "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
@@ -9934,15 +10006,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 35,
     "": ""
-  },
-  {
-    "Title": "Our Fighting Forces",
-    "Issue #": 94,
-    "Condition": "CGC 6.0",
-    "Website Notes": "Grey Tone",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 45,
-    "": "pedigree"
   },
   {
     "Title": "Our Fighting Forces",
@@ -11693,6 +11756,15 @@ export const data = [
   {
     "Title": "Superboy",
     "Issue #": 68,
+    "Condition": "VG",
+    "Website Notes": "1st Bizarro",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 500,
+    "": ""
+  },
+  {
+    "Title": "Superboy",
+    "Issue #": 68,
     "Condition": "CGC 4.5",
     "Website Notes": "1st Bizarro",
     "Personal Notes (Not on website)": "",
@@ -12010,7 +12082,7 @@ export const data = [
     "Issue #": 91,
     "Condition": "VG",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "",
+    "Personal Notes (Not on website)": "2 avail",
     "Cost Basis": 100,
     "": ""
   },
@@ -12621,7 +12693,7 @@ export const data = [
     "Title": "Superman's Girlfriend Lois Lane",
     "Issue #": 105,
     "Condition": "VF+",
-    "Website Notes": "",
+    "Website Notes": "1st Rose & Thorn",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
     "": ""
@@ -12630,10 +12702,19 @@ export const data = [
     "Title": "Superman's Girlfriend Lois Lane",
     "Issue #": 105,
     "Condition": "FN",
-    "Website Notes": "",
+    "Website Notes": "1st Rose & Thorn",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
     "": ""
+  },
+  {
+    "Title": "Superman's Girlfriend Lois Lane",
+    "Issue #": 105,
+    "Condition": "VG/F",
+    "Website Notes": "1st Rose & Thorn",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15,
+    "": "Ann Arbor"
   },
   {
     "Title": "Superman's Girlfriend Lois Lane",
