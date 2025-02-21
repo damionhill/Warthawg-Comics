@@ -595,6 +595,15 @@ export const data = [
   },
   {
     "Title": "Cherry Poptart",
+    "Issue #": 1,
+    "Condition": "VF",
+    "Website Notes": "2nd Print",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 20,
+    "": "Laurel"
+  },
+  {
+    "Title": "Cherry Poptart",
     "Issue #": 2,
     "Condition": "NM-",
     "Website Notes": "1st Print",
@@ -789,7 +798,7 @@ export const data = [
     "Website Notes": "Corbin C/A",
     "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": 8,
-    "": "SDCon"
+    "": "SDCon 2 avail"
   },
   {
     "Title": "Death Rattle",
@@ -1504,15 +1513,6 @@ export const data = [
   },
   {
     "Title": "Harold Hedd Hitler's Cocaine",
-    "Issue #": "1,2",
-    "Condition": "NM",
-    "Website Notes": "2 issue story",
-    "Personal Notes (Not on website)": "Kitchen Sink",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Harold Hedd Hitler's Cocaine",
     "Issue #": 1,
     "Condition": "VF/NM",
     "Website Notes": "",
@@ -1797,6 +1797,15 @@ export const data = [
     "Website Notes": 1972,
     "Personal Notes (Not on website)": "",
     "Cost Basis": 2,
+    "": ""
+  },
+  {
+    "Title": "Kukawy Comics",
+    "Issue #": 1,
+    "Condition": "VF",
+    "Website Notes": 1969,
+    "Personal Notes (Not on website)": "7 Seal",
+    "Cost Basis": 10,
     "": ""
   },
   {
@@ -3138,7 +3147,7 @@ export const data = [
     "Website Notes": 1971,
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
-    "": "2 avail"
+    "": ""
   },
   {
     "Title": "Truckin'",

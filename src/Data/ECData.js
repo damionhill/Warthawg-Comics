@@ -1,5 +1,23 @@
 export const data = [
   {
+    "Title": "Aces High",
+    "Issue #": 1,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 55,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Aces High",
+    "Issue #": 5,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 28,
+    "": "Gilligans"
+  },
+  {
     "Title": "Crime SuspenStories",
     "Issue #": 15,
     "Condition": "CGC 5.0",
@@ -88,6 +106,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": "Rich G"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 1,
+    "Condition": "GD",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 575,
+    "": "Gilligans"
   },
   {
     "Title": "Mad",
@@ -270,6 +297,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Saddle Justice",
+    "Issue #": 3,
+    "Condition": "GD",
+    "Website Notes": "1st Issue",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 13,
+    "": "Gilligans"
+  },
+  {
     "Title": "ShockSuspenstories",
     "Issue #": 8,
     "Condition": "CGC 5.0",
@@ -295,6 +331,33 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 225,
     "": "CConnect"
+  },
+  {
+    "Title": "Two-Fisted Tales",
+    "Issue #": 27,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Two-Fisted Tales",
+    "Issue #": 28,
+    "Condition": "VG",
+    "Website Notes": "Classic Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Two-Fisted Tales",
+    "Issue #": 34,
+    "Condition": "VG/F",
+    "Website Notes": "Civil War",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40,
+    "": "Annandale"
   },
   {
     "Title": "Two-Fisted Tales",
@@ -405,6 +468,24 @@ export const data = [
     "": "Beyond"
   },
   {
+    "Title": "Weird Fantasy",
+    "Issue #": 22,
+    "Condition": "VG",
+    "Website Notes": "Williamson Art",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Weird Science",
+    "Issue #": 15,
+    "Condition": "GD",
+    "Website Notes": "Williamson Art",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "Gilligans"
+  },
+  {
     "Title": "Weird Science Fantasy",
     "Issue #": 25,
     "Condition": "FN-",
@@ -430,5 +511,23 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 100,
     "": ""
+  },
+  {
+    "Title": "Weird Science Fantasy",
+    "Issue #": 28,
+    "Condition": "VG",
+    "Website Notes": "Williamson Art",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Weird Science Fantasy",
+    "Issue #": 29,
+    "Condition": "VG",
+    "Website Notes": "Classic Frazetta Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 270,
+    "": "Gilligans"
   }
 ];

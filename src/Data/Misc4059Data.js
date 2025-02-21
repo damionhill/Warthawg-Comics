@@ -351,6 +351,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Atomic Bomb",
+    "Issue #": 1,
+    "Condition": "F+",
+    "Website Notes": "Rare",
+    "Personal Notes (Not on website)": "Jay Burtis",
+    "Cost Basis": 300,
+    "": ""
+  },
+  {
     "Title": "Atomic Comics",
     "Issue #": 4,
     "Condition": "FN+",
@@ -1045,6 +1054,24 @@ export const data = [
   },
   {
     "Title": "Captain Marvel Jr",
+    "Issue #": 11,
+    "Condition": "VG",
+    "Website Notes": "War Cvr",
+    "Personal Notes (Not on website)": "Fawcett",
+    "Cost Basis": 160,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Captain Marvel Jr",
+    "Issue #": 33,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Fawcett",
+    "Cost Basis": 65,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Captain Marvel Jr",
     "Issue #": 47,
     "Condition": "FN+",
     "Website Notes": "",
@@ -1339,6 +1366,15 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 25,
     "": "Vancouver"
+  },
+  {
+    "Title": "Comic Land",
+    "Issue #": 1,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Fact & Fiction",
+    "Cost Basis": 40,
+    "": ""
   },
   {
     "Title": "Complete Book of True Crime Comics",
@@ -1978,6 +2014,15 @@ export const data = [
     "Personal Notes (Not on website)": "King",
     "Cost Basis": 10,
     "": ""
+  },
+  {
+    "Title": "Fight Against Crime",
+    "Issue #": 18,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Story",
+    "Cost Basis": 400,
+    "": "Gilligans"
   },
   {
     "Title": "Fight Comics",
@@ -4374,6 +4419,15 @@ export const data = [
     "": "Heritage"
   },
   {
+    "Title": "Shadow Comics",
+    "Issue #": 11,
+    "Condition": "VG",
+    "Website Notes": "Volume 1",
+    "Personal Notes (Not on website)": "Steet & Smith",
+    "Cost Basis": 120,
+    "": "Gilligans"
+  },
+  {
     "Title": "Sheena",
     "Issue #": 16,
     "Condition": "VG",
@@ -4537,15 +4591,6 @@ export const data = [
   },
   {
     "Title": "Strange Tales",
-    "Issue #": 40,
-    "Condition": "GD+",
-    "Website Notes": "Maneely",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 50,
-    "": ""
-  },
-  {
-    "Title": "Strange Tales",
     "Issue #": 58,
     "Condition": "F/G",
     "Website Notes": "Williamson",
@@ -4615,6 +4660,15 @@ export const data = [
     "Personal Notes (Not on website)": "Ace",
     "Cost Basis": 2300,
     "": "Baltimore"
+  },
+  {
+    "Title": "Surprising Adventures",
+    "Issue #": 11,
+    "Condition": "GD",
+    "Website Notes": "Canadian LB Cole Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": ""
   },
   {
     "Title": "Suspense",
@@ -4984,6 +5038,15 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 400,
     "": ""
+  },
+  {
+    "Title": "Uncle Milty",
+    "Issue #": 1,
+    "Condition": "FN",
+    "Website Notes": "Milton Berle",
+    "Personal Notes (Not on website)": "Fawcett",
+    "Cost Basis": 240,
+    "": "Gilligans"
   },
   {
     "Title": "Undersea Commandos",
@@ -5488,6 +5551,15 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 15,
     "": ""
+  },
+  {
+    "Title": "Wyatt Earp",
+    "Issue #": 25,
+    "Condition": "VG",
+    "Website Notes": "Davis Art",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 10,
+    "": "Harbour"
   },
   {
     "Title": "Yellowjacket Comics",

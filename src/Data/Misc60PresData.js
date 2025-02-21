@@ -209,6 +209,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Double Talk",
+    "Issue #": "NN",
+    "Condition": "VG/F",
+    "Website Notes": "Anti Communist",
+    "Personal Notes (Not on website)": 1961,
+    "Cost Basis": 75,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Droids",
     "Issue #": 1,
     "Condition": "CGC 9.8",
@@ -1282,17 +1293,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Mirage",
     "Cost Basis": 50,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Teen Age Mutant Ninja Turtles",
-    "Issue #": 8,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Mirage",
-    "Cost Basis": 10,
     "": "",
     "__1": "",
     "__2": ""

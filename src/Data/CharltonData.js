@@ -54,15 +54,6 @@ export const data = [
     "": "30th Century"
   },
   {
-    "Title": "Danny Blaze",
-    "Issue #": 1,
-    "Condition": "CGC 6.5",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 100,
-    "": "Wolf"
-  },
-  {
     "Title": "Fightin' Army",
     "Issue #": 12,
     "Condition": "VF",
@@ -91,15 +82,6 @@ export const data = [
   },
   {
     "Title": "Hot Rod Racers",
-    "Issue #": 5,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Hot Rod Racers",
     "Issue #": 9,
     "Condition": "F/VF",
     "Website Notes": "",
@@ -124,15 +106,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": ""
-  },
-  {
-    "Title": "In Love",
-    "Issue #": 5,
-    "Condition": "VG",
-    "Website Notes": "Kirby C/A",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 150,
-    "": "heritage"
   },
   {
     "Title": "Monster Hunters",
@@ -324,15 +297,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Space Western",
-    "Issue #": 40,
-    "Condition": "CGC 2.5",
-    "Website Notes": "1st Issue",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 185,
-    "": "Comiclink"
-  },
-  {
     "Title": "Strange Suspense Stories",
     "Issue #": 19,
     "Condition": "CGC 4.0",
@@ -340,24 +304,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 1350,
     "": "George Cumberland"
-  },
-  {
-    "Title": "Strange Suspense Stories",
-    "Issue #": 19,
-    "Condition": "CGC 4.0",
-    "Website Notes": "Classic Ditko Cover",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 1200,
-    "": "trade ogden"
-  },
-  {
-    "Title": "Strange Suspense Stories",
-    "Issue #": 19,
-    "Condition": "VG-",
-    "Website Notes": "Classic Ditko Cover",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 1100,
-    "": "Steve ttrade"
   },
   {
     "Title": "Strange Suspense Stories",
@@ -378,15 +324,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Tales of the Mysterious Traveler",
-    "Issue #": 13,
-    "Condition": "FN+",
-    "Website Notes": "Baker Last Issue",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 50,
-    "": "Brian"
-  },
-  {
     "Title": "This Magazine is Haunted",
     "Issue #": "V2#16",
     "Condition": "CGC 6.5",
@@ -394,15 +331,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 100,
     "": ""
-  },
-  {
-    "Title": "This Magazine is Haunted",
-    "Issue #": 21,
-    "Condition": "P/FA",
-    "Website Notes": "Ditko",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": "Heroes"
   },
   {
     "Title": "Timmy the Timid Ghost",
