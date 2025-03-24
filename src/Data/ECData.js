@@ -9,15 +9,6 @@ export const data = [
     "": "Gilligans"
   },
   {
-    "Title": "Aces High",
-    "Issue #": 5,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 28,
-    "": "Gilligans"
-  },
-  {
     "Title": "Crime SuspenStories",
     "Issue #": 15,
     "Condition": "CGC 5.0",
@@ -55,6 +46,15 @@ export const data = [
   },
   {
     "Title": "Crime SuspenStories",
+    "Issue #": 23,
+    "Condition": "VG/F",
+    "Website Notes": "Senate Investigation",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 600,
+    "": "Darnell"
+  },
+  {
+    "Title": "Crime SuspenStories",
     "Issue #": 27,
     "Condition": "FN",
     "Website Notes": "Last Issue Low Dist",
@@ -82,12 +82,30 @@ export const data = [
   },
   {
     "Title": "Frontline Combat",
+    "Issue #": 7,
+    "Condition": "VG/F",
+    "Website Notes": "Iwo Jima",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 30,
+    "": ""
+  },
+  {
+    "Title": "Frontline Combat",
     "Issue #": 14,
     "Condition": "GD+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Haunt of Fear",
+    "Issue #": 26,
+    "Condition": "GD",
+    "Website Notes": "Ingels Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Trade"
   },
   {
     "Title": "Humbug",
@@ -297,15 +315,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Saddle Justice",
-    "Issue #": 3,
-    "Condition": "GD",
-    "Website Notes": "1st Issue",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 13,
-    "": "Gilligans"
-  },
-  {
     "Title": "ShockSuspenstories",
     "Issue #": 8,
     "Condition": "CGC 5.0",
@@ -340,6 +349,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": "Gilligans"
+  },
+  {
+    "Title": "Two-Fisted Tales",
+    "Issue #": 28,
+    "Condition": "VG/F",
+    "Website Notes": "Classic Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "TTreasures"
   },
   {
     "Title": "Two-Fisted Tales",
@@ -469,6 +487,15 @@ export const data = [
   },
   {
     "Title": "Weird Fantasy",
+    "Issue #": 19,
+    "Condition": "F/G",
+    "Website Notes": "Williamson Art",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Beyond"
+  },
+  {
+    "Title": "Weird Fantasy",
     "Issue #": 22,
     "Condition": "VG",
     "Website Notes": "Williamson Art",
@@ -484,6 +511,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 200,
     "": "Gilligans"
+  },
+  {
+    "Title": "Weird Science",
+    "Issue #": 16,
+    "Condition": "FN+",
+    "Website Notes": "Mars Attacks!",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 650,
+    "": "Beyond"
   },
   {
     "Title": "Weird Science Fantasy",
@@ -502,6 +538,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 45,
     "": "Clink"
+  },
+  {
+    "Title": "Weird Science Fantasy",
+    "Issue #": 27,
+    "Condition": "CGC 5.0",
+    "Website Notes": "Wood Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "Dahlgren"
   },
   {
     "Title": "Weird Science Fantasy",

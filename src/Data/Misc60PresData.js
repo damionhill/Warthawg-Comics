@@ -17,7 +17,7 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Dark Horse",
     "Cost Basis": 25,
-    "": "2 avail",
+    "": "",
     "__1": "",
     "__2": ""
   },
@@ -73,6 +73,17 @@ export const data = [
     "Personal Notes (Not on website)": "Revolutionary",
     "Cost Basis": 5,
     "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Betie Page Queen of the Nile",
+    "Issue #": 1,
+    "Condition": "NM",
+    "Website Notes": "Stevens Cvr",
+    "Personal Notes (Not on website)": "Dark Horse",
+    "Cost Basis": 50,
+    "": "Comiclink",
     "__1": "",
     "__2": ""
   },
@@ -671,6 +682,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Out of This World",
+    "Issue #": 1,
+    "Condition": "VF/NM",
+    "Website Notes": "Sci Fi Bondage Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 150,
+    "": "BCC",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Pee-Wee Pixies",
     "Issue #": 10,
     "Condition": "VG/F",
@@ -1045,6 +1067,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Saved By the Bell",
+    "Issue #": 1,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 5,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Scorpion",
     "Issue #": 1,
     "Condition": "VF/NM",
@@ -1255,6 +1288,17 @@ export const data = [
   },
   {
     "Title": "Teen Age Mutant Ninja Turtles",
+    "Issue #": 1,
+    "Condition": "VF/NM",
+    "Website Notes": "4th Print",
+    "Personal Notes (Not on website)": "Mirage",
+    "Cost Basis": 100,
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Teen Age Mutant Ninja Turtles",
     "Issue #": 2,
     "Condition": "VF",
     "Website Notes": "",
@@ -1437,17 +1481,6 @@ export const data = [
     "Personal Notes (Not on website)": "ACG",
     "Cost Basis": 10,
     "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Usagi Yojimbo",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Fantagraphics",
-    "Cost Basis": 40,
-    "": "Green Valley",
     "__1": "",
     "__2": ""
   },

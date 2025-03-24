@@ -828,15 +828,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Debbie Does Dallas",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Aircel",
-    "Cost Basis": 5,
-    "": "BCC 2024"
-  },
-  {
     "Title": "Demented Pervert",
     "Issue #": 2,
     "Condition": "VG/F",

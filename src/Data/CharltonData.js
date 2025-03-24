@@ -45,15 +45,6 @@ export const data = [
     "": "30th Century"
   },
   {
-    "Title": "Danger and Adventure",
-    "Issue #": 23,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 30,
-    "": "30th Century"
-  },
-  {
     "Title": "Fightin' Army",
     "Issue #": 12,
     "Condition": "VF",
@@ -225,39 +216,12 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Racket Squad in Action",
-    "Issue #": 9,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 30,
-    "": ""
-  },
-  {
     "Title": "Ramar of the Jungle",
     "Issue #": 2,
     "Condition": "VG/F",
     "Website Notes": "Photo Cover",
     "Personal Notes (Not on website)": "GA",
     "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Reptisaurus",
-    "Issue #": 6,
-    "Condition": "F/VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Reptisaurus",
-    "Issue #": 8,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
     "": ""
   },
   {
@@ -306,15 +270,6 @@ export const data = [
     "": "George Cumberland"
   },
   {
-    "Title": "Strange Suspense Stories",
-    "Issue #": 57,
-    "Condition": "VF+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
     "Title": "Tales of the Mysterious Traveler",
     "Issue #": 1,
     "Condition": "CGC 4.5",
@@ -322,6 +277,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 125,
     "": ""
+  },
+  {
+    "Title": "The Thing!",
+    "Issue #": 16,
+    "Condition": "CGC 6.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Dahlgren"
   },
   {
     "Title": "This Magazine is Haunted",
