@@ -450,15 +450,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Carnal Comics Starring",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Carnal",
-    "Cost Basis": 5,
-    "": "BCC 2024"
-  },
-  {
     "Title": "Cartoon History of the Universe",
     "Issue #": 1,
     "Condition": "FN",
@@ -684,15 +675,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Commies From Mars",
-    "Issue #": 4,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
     "Title": "Compleat Fart",
     "Issue #": 1,
     "Condition": "VF",
@@ -835,15 +817,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
-  },
-  {
-    "Title": "Demi the Demoness",
-    "Issue #": 1,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Carnal Comics",
-    "Cost Basis": 5,
-    "": "BCC 2024"
   },
   {
     "Title": "Despair",
@@ -2097,15 +2070,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Night of the Living Dead",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fantaco",
-    "Cost Basis": 5,
-    "": "BCC 2024"
-  },
-  {
     "Title": "No Ducks!",
     "Issue #": 2,
     "Condition": "VF+",
@@ -3245,24 +3209,6 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Venus Comics",
-    "Cost Basis": 5,
-    "": "BCC 2024"
-  },
-  {
-    "Title": "Venus Domina",
-    "Issue #": 2,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Verotik",
-    "Cost Basis": 5,
-    "": "BCC 2024"
-  },
-  {
-    "Title": "Venus in Chains",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "T Jonelli",
-    "Personal Notes (Not on website)": "",
     "Cost Basis": 5,
     "": "BCC 2024"
   },
