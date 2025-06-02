@@ -46,15 +46,6 @@ export const data = [
   },
   {
     "Title": "Crime SuspenStories",
-    "Issue #": 23,
-    "Condition": "VG/F",
-    "Website Notes": "Senate Investigation",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 600,
-    "": "Darnell"
-  },
-  {
-    "Title": "Crime SuspenStories",
     "Issue #": 27,
     "Condition": "FN",
     "Website Notes": "Last Issue Low Dist",
@@ -100,6 +91,15 @@ export const data = [
   },
   {
     "Title": "Haunt of Fear",
+    "Issue #": 18,
+    "Condition": "CGC 5.5",
+    "Website Notes": "Ingels Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 480,
+    "": "Trade"
+  },
+  {
+    "Title": "Haunt of Fear",
     "Issue #": 26,
     "Condition": "GD",
     "Website Notes": "Ingels Cvr",
@@ -124,6 +124,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": "Rich G"
+  },
+  {
+    "Title": "Incredible Science Fiction",
+    "Issue #": 32,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Joe"
   },
   {
     "Title": "Mad",
@@ -182,15 +191,6 @@ export const data = [
   {
     "Title": "Mad",
     "Issue #": 19,
-    "Condition": "FN-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Mad",
-    "Issue #": 19,
     "Condition": "VF-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
@@ -226,12 +226,12 @@ export const data = [
   },
   {
     "Title": "Mad",
-    "Issue #": 23,
-    "Condition": "FN",
-    "Website Notes": "",
+    "Issue #": 24,
+    "Condition": "VG/F",
+    "Website Notes": "1st Magazine Iss",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 85,
-    "": ""
+    "Cost Basis": 75,
+    "": "PBA"
   },
   {
     "Title": "MD",
@@ -421,6 +421,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": ""
+  },
+  {
+    "Title": "Vault of Horror",
+    "Issue #": 15,
+    "Condition": "FN",
+    "Website Notes": "Classic Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 720,
+    "": "Todd"
   },
   {
     "Title": "Vault of Horror",
