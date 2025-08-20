@@ -63,13 +63,13 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Frank Merriwell",
-    "Issue #": 2,
-    "Condition": "VG",
-    "Website Notes": "",
+    "Title": "Foxhole",
+    "Issue #": 5,
+    "Condition": "G/VG",
+    "Website Notes": "Kirby",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
+    "Cost Basis": 375,
+    "": "Gilligans"
   },
   {
     "Title": "Hot Rod Racers",
@@ -261,6 +261,24 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Space Adventures",
+    "Issue #": 35,
+    "Condition": "VG/F",
+    "Website Notes": "Ditko",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Heroes"
+  },
+  {
+    "Title": "Space Adventures",
+    "Issue #": 36,
+    "Condition": "FN",
+    "Website Notes": "Ditko",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Heroes"
+  },
+  {
     "Title": "Strange Suspense Stories",
     "Issue #": 19,
     "Condition": "CGC 4.0",
@@ -276,24 +294,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 125,
-    "": ""
-  },
-  {
-    "Title": "The Thing!",
-    "Issue #": 16,
-    "Condition": "CGC 6.0",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 100,
-    "": "Dahlgren"
-  },
-  {
-    "Title": "This Magazine is Haunted",
-    "Issue #": "V2#16",
-    "Condition": "CGC 6.5",
-    "Website Notes": "Ditko",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 100,
     "": ""
   },
   {

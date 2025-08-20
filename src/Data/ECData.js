@@ -54,15 +54,6 @@ export const data = [
     "": "Beyond"
   },
   {
-    "Title": "Crime SuspenStories",
-    "Issue #": 27,
-    "Condition": "VG/F",
-    "Website Notes": "tear seal on back cover",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 160,
-    "": "clink"
-  },
-  {
     "Title": "Frontline Combat",
     "Issue #": 4,
     "Condition": "VG",
@@ -88,15 +79,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
-  },
-  {
-    "Title": "Haunt of Fear",
-    "Issue #": 18,
-    "Condition": "CGC 5.5",
-    "Website Notes": "Ingels Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 480,
-    "": "Trade"
   },
   {
     "Title": "Haunt of Fear",
@@ -315,13 +297,13 @@ export const data = [
     "": ""
   },
   {
-    "Title": "ShockSuspenstories",
-    "Issue #": 8,
-    "Condition": "CGC 5.0",
-    "Website Notes": "",
+    "Title": "Shock Illustrated",
+    "Issue #": 2,
+    "Condition": "VG/F",
+    "Website Notes": "Magazine",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 480,
-    "": "Dahlgren"
+    "Cost Basis": 100,
+    "": "TBC"
   },
   {
     "Title": "ShockSuspenstories",
@@ -340,6 +322,24 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 225,
     "": "CConnect"
+  },
+  {
+    "Title": "Tales of Terror",
+    "Issue #": 1,
+    "Condition": "VG/F",
+    "Website Notes": "Magazine",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "TBC"
+  },
+  {
+    "Title": "Tales of Terror",
+    "Issue #": 2,
+    "Condition": "VG/F",
+    "Website Notes": "Magazine",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 35,
+    "": "TBC"
   },
   {
     "Title": "Two-Fisted Tales",
@@ -520,15 +520,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 200,
     "": "Gilligans"
-  },
-  {
-    "Title": "Weird Science",
-    "Issue #": 16,
-    "Condition": "FN+",
-    "Website Notes": "Mars Attacks!",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 650,
-    "": "Beyond"
   },
   {
     "Title": "Weird Science Fantasy",
