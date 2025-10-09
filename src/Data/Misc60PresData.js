@@ -110,6 +110,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Caliber Presents",
+    "Issue #": 1,
+    "Condition": "F/VF",
+    "Website Notes": "1st Crow",
+    "Personal Notes (Not on website)": "Caliber",
+    "Cost Basis": 75,
+    "": "Jerry friend",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Care Bears",
     "Issue #": 6,
     "Condition": "VF/NM",
@@ -139,17 +150,6 @@ export const data = [
     "Personal Notes (Not on website)": "Power Records",
     "Cost Basis": 15,
     "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Crow",
-    "Issue #": 1,
-    "Condition": "CGC 7.5",
-    "Website Notes": "2nd Print 1989",
-    "Personal Notes (Not on website)": "Caliber",
-    "Cost Basis": 40,
-    "": "Vancouver",
     "__1": "",
     "__2": ""
   },
@@ -693,17 +693,6 @@ export const data = [
     "__2": ""
   },
   {
-    "Title": "Pee-Wee Pixies",
-    "Issue #": 10,
-    "Condition": "VG/F",
-    "Website Notes": "IW",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Personality Comics",
     "Issue #": "",
     "Condition": "NM",
@@ -951,7 +940,7 @@ export const data = [
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Mirage",
-    "Cost Basis": 10,
+    "Cost Basis": 5,
     "": "",
     "__1": "",
     "__2": ""
@@ -1019,6 +1008,17 @@ export const data = [
     "Personal Notes (Not on website)": "Harvey",
     "Cost Basis": 10,
     "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Rocketeer Adv Magazine",
+    "Issue #": 1,
+    "Condition": "NM",
+    "Website Notes": "Stevens C/A",
+    "Personal Notes (Not on website)": "Comico",
+    "Cost Basis": 10,
+    "": "Jerrys friend",
     "__1": "",
     "__2": ""
   },
@@ -1151,6 +1151,28 @@ export const data = [
     "Personal Notes (Not on website)": "Image 2 avail",
     "Cost Basis": 10,
     "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Spawn",
+    "Issue #": 229,
+    "Condition": "NM",
+    "Website Notes": "Steranko Hulk Homage",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Ron",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Spawn",
+    "Issue #": 230,
+    "Condition": "NM",
+    "Website Notes": "Batman 423 Homage",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Ron",
     "__1": "",
     "__2": ""
   },

@@ -405,6 +405,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Bizarre Sex",
+    "Issue #": 7,
+    "Condition": "FN",
+    "Website Notes": "1st Print",
+    "Personal Notes (Not on website)": "Kitchen Sink",
+    "Cost Basis": 3,
+    "": "lehigh"
+  },
+  {
     "Title": "Bound Beauty",
     "Issue #": 1,
     "Condition": "VF/NM",
@@ -453,15 +462,6 @@ export const data = [
     "Title": "Captain Guts",
     "Issue #": 3,
     "Condition": "F/VF",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Print Mint",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Captain Guts",
-    "Issue #": 3,
-    "Condition": "VG/F",
     "Website Notes": "1st Print",
     "Personal Notes (Not on website)": "Print Mint",
     "Cost Basis": "",
@@ -567,6 +567,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Cheech Wizard",
+    "Issue #": 2,
+    "Condition": "VF/NM",
+    "Website Notes": "Scarcer 1987",
+    "Personal Notes (Not on website)": "Rip Off Press",
+    "Cost Basis": 3,
+    "": "lehigh"
+  },
+  {
     "Title": "Cherry Collection",
     "Issue #": "Vol 2",
     "Condition": "VF/NM",
@@ -609,7 +618,7 @@ export const data = [
     "Website Notes": "2nd Print",
     "Personal Notes (Not on website)": "Yetzler",
     "Cost Basis": 20,
-    "": ""
+    "": "2 avail"
   },
   {
     "Title": "Cherry Poptart",
@@ -691,6 +700,15 @@ export const data = [
     "Personal Notes (Not on website)": "Last Gasp",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Cocaine Comix",
+    "Issue #": 2,
+    "Condition": "VF/NM",
+    "Website Notes": "Dicaprio",
+    "Personal Notes (Not on website)": "Last Gasp",
+    "Cost Basis": 4,
+    "": "lehigh"
   },
   {
     "Title": "Collected Purple Pictography",
@@ -1188,15 +1206,6 @@ export const data = [
     "": "BCC 2024"
   },
   {
-    "Title": "Forbidden Frankenstein",
-    "Issue #": 2,
-    "Condition": "NM",
-    "Website Notes": "Drek",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 5,
-    "": "BCC 2024"
-  },
-  {
     "Title": "Freak Brothers",
     "Issue #": 2,
     "Condition": "FN",
@@ -1540,6 +1549,15 @@ export const data = [
   },
   {
     "Title": "Horny Biker Sluts",
+    "Issue #": 1,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Last Gasp",
+    "Cost Basis": 5,
+    "": "Hunt Valley"
+  },
+  {
+    "Title": "Horny Biker Sluts",
     "Issue #": 8,
     "Condition": "NM",
     "Website Notes": "",
@@ -1834,6 +1852,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Leather & Lace",
+    "Issue #": "TPB",
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Hunt Valley"
   },
   {
     "Title": "Lipstick",
@@ -2296,24 +2323,6 @@ export const data = [
   },
   {
     "Title": "Penthouse Comix",
-    "Issue #": 31,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Penthouse",
-    "Cost Basis": 5,
-    "": "BCC 2024"
-  },
-  {
-    "Title": "Penthouse Comix",
-    "Issue #": 32,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Penthouse",
-    "Cost Basis": 5,
-    "": "BCC 2024"
-  },
-  {
-    "Title": "Penthouse Comix",
     "Issue #": 33,
     "Condition": "NM",
     "Website Notes": "Last Issue",
@@ -2446,15 +2455,6 @@ export const data = [
     "Personal Notes (Not on website)": "Eros",
     "Cost Basis": 5,
     "": "BCC 2024"
-  },
-  {
-    "Title": "Red Raider",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "Last Gasp",
-    "Cost Basis": 2,
-    "": ""
   },
   {
     "Title": "Revolver",
@@ -2932,6 +2932,15 @@ export const data = [
     "Personal Notes (Not on website)": "Kitchen Sink",
     "Cost Basis": 10,
     "": ""
+  },
+  {
+    "Title": "Strips",
+    "Issue #": 3,
+    "Condition": "NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Rip Off Press",
+    "Cost Basis": 5,
+    "": "Hunt Valley"
   },
   {
     "Title": "Tales From the Fridge",

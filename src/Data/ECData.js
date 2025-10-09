@@ -1,4 +1,4 @@
-export const data = [
+export const data =[
   {
     "Title": "Aces High",
     "Issue #": 1,
@@ -497,6 +497,15 @@ export const data = [
   {
     "Title": "Weird Fantasy",
     "Issue #": 19,
+    "Condition": "GD",
+    "Website Notes": "Williamson Art",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Jerry Hayes"
+  },
+  {
+    "Title": "Weird Fantasy",
+    "Issue #": 19,
     "Condition": "F/G",
     "Website Notes": "Williamson Art",
     "Personal Notes (Not on website)": "",
@@ -532,6 +541,15 @@ export const data = [
   },
   {
     "Title": "Weird Science Fantasy",
+    "Issue #": 25,
+    "Condition": "VG",
+    "Website Notes": "Williamson Art",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Jerry Hayes"
+  },
+  {
+    "Title": "Weird Science Fantasy",
     "Issue #": 26,
     "Condition": "G/VG",
     "Website Notes": "Flying Saucer Story",
@@ -547,6 +565,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 200,
     "": "Dahlgren"
+  },
+  {
+    "Title": "Weird Science Fantasy",
+    "Issue #": 27,
+    "Condition": "VG",
+    "Website Notes": "Wood Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 150,
+    "": "Jerry Hayes"
   },
   {
     "Title": "Weird Science Fantasy",
@@ -574,5 +601,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 270,
     "": "Gilligans"
+  },
+  {
+    "Title": "Weird Science Fantasy",
+    "Issue #": 29,
+    "Condition": "GD",
+    "Website Notes": "Classic Frazetta Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "Jerry Hayes"
   }
 ];
+ 
