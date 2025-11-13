@@ -54,15 +54,6 @@ export const data = [
     "__1": "Poon"
   },
   {
-    "Title": "Frankenstein Jr",
-    "Issue #": 1,
-    "Condition": "VF+",
-    "Website Notes": "Scarce",
-    "": "",
-    "Cost Basis": 100,
-    "__1": "Poon"
-  },
-  {
     "Title": "Hawaiian Eye",
     "Issue #": 1,
     "Condition": "F/VF",
@@ -103,7 +94,7 @@ export const data = [
     "Issue #": 3,
     "Condition": "F/VF",
     "Website Notes": "Photo Cvr",
-    "": "",
+    "": "2 avail",
     "Cost Basis": 25,
     "__1": ""
   },
@@ -171,24 +162,6 @@ export const data = [
     "__1": ""
   },
   {
-    "Title": "Scooby Doo (Gold Key)",
-    "Issue #": 13,
-    "Condition": "FN",
-    "Website Notes": "",
-    "": "",
-    "Cost Basis": 5,
-    "__1": ""
-  },
-  {
-    "Title": "Scooby Doo (Gold Key)",
-    "Issue #": 29,
-    "Condition": "F/VF",
-    "Website Notes": "",
-    "": "",
-    "Cost Basis": 5,
-    "__1": ""
-  },
-  {
     "Title": "Secret Agent",
     "Issue #": 1,
     "Condition": "FN",
@@ -213,24 +186,6 @@ export const data = [
     "Website Notes": "Photo Cover",
     "": "",
     "Cost Basis": "",
-    "__1": ""
-  },
-  {
-    "Title": "Star Trek",
-    "Issue #": 1,
-    "Condition": "CGC 5.5",
-    "Website Notes": "",
-    "": "",
-    "Cost Basis": 175,
-    "__1": ""
-  },
-  {
-    "Title": "Star Trek",
-    "Issue #": 1,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "": "",
-    "Cost Basis": 100,
     "__1": ""
   },
   {
@@ -378,6 +333,15 @@ export const data = [
     "__1": ""
   },
   {
+    "Title": "UFO Flying Saucers",
+    "Issue #": 1,
+    "Condition": "F/VF",
+    "Website Notes": "Giant",
+    "": "",
+    "Cost Basis": 30,
+    "__1": "BCC"
+  },
+  {
     "Title": "Walt Dsney's Christmas Parade (2003)",
     "Issue #": 1,
     "Condition": "NM",
@@ -422,4 +386,5 @@ export const data = [
     "Cost Basis": 425,
     "__1": ""
   }
-];
+]
+;
