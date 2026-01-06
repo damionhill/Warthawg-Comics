@@ -1,4 +1,4 @@
-export const data= [
+export const data =[
   {
     "Title": "Badge of Justice",
     "Issue #": 22,
@@ -97,6 +97,15 @@ export const data= [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": ""
+  },
+  {
+    "Title": "Jetsons",
+    "Issue #": 1,
+    "Condition": "VF+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "2025 BCC"
   },
   {
     "Title": "Monster Hunters",
@@ -277,15 +286,6 @@ export const data= [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 1350,
     "": "George Cumberland"
-  },
-  {
-    "Title": "Tales of the Mysterious Traveler",
-    "Issue #": 1,
-    "Condition": "CGC 4.5",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 125,
-    "": ""
   },
   {
     "Title": "Timmy the Timid Ghost",

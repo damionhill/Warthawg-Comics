@@ -81,15 +81,6 @@ export const data =[
     "": ""
   },
   {
-    "Title": "Haunt of Fear",
-    "Issue #": 26,
-    "Condition": "GD",
-    "Website Notes": "Ingels Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 100,
-    "": "Trade"
-  },
-  {
     "Title": "Humbug",
     "Issue #": 2,
     "Condition": "GD",
@@ -307,6 +298,15 @@ export const data =[
   },
   {
     "Title": "ShockSuspenstories",
+    "Issue #": 15,
+    "Condition": "CGC 5.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 250,
+    "": "Joe"
+  },
+  {
+    "Title": "ShockSuspenstories",
     "Issue #": 16,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -430,15 +430,6 @@ export const data =[
     "Personal Notes (Not on website)": "",
     "Cost Basis": 720,
     "": "Todd"
-  },
-  {
-    "Title": "Vault of Horror",
-    "Issue #": 26,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 300,
-    "": "Darnell"
   },
   {
     "Title": "Vault of Horror",
@@ -577,15 +568,6 @@ export const data =[
   },
   {
     "Title": "Weird Science Fantasy",
-    "Issue #": 27,
-    "Condition": "G/VG",
-    "Website Notes": "Wood Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 100,
-    "": ""
-  },
-  {
-    "Title": "Weird Science Fantasy",
     "Issue #": 28,
     "Condition": "VG",
     "Website Notes": "Williamson Art",
@@ -612,4 +594,3 @@ export const data =[
     "": "Jerry Hayes"
   }
 ];
- 
