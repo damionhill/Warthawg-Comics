@@ -1,4 +1,4 @@
-export const data = [
+export const data =[
   {
     "Title": "Alarming Adventures",
     "Issue #": 1,
@@ -13,11 +13,11 @@ export const data = [
   {
     "Title": "Aliens (1988)",
     "Issue #": 1,
-    "Condition": "VF/NM",
+    "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Dark Horse",
-    "Cost Basis": 25,
-    "": "",
+    "Cost Basis": 100,
+    "": "Trade",
     "__1": "",
     "__2": ""
   },
@@ -104,28 +104,6 @@ export const data = [
     "Condition": "G/VG",
     "Website Notes": "w/record",
     "Personal Notes (Not on website)": "Power Records",
-    "Cost Basis": 10,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Caliber Presents",
-    "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": "1st Crow",
-    "Personal Notes (Not on website)": "Caliber",
-    "Cost Basis": 75,
-    "": "Jerry friend",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Care Bears",
-    "Issue #": 6,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Marvel/Star",
     "Cost Basis": 10,
     "": "",
     "__1": "",
@@ -231,28 +209,6 @@ export const data = [
     "__2": ""
   },
   {
-    "Title": "Droids",
-    "Issue #": 1,
-    "Condition": "CGC 9.8",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Star",
-    "Cost Basis": 30,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Droids",
-    "Issue #": 2,
-    "Condition": "CGC 9.8",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Star",
-    "Cost Basis": 30,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Eternal Warrior",
     "Issue #": 4,
     "Condition": "NM-",
@@ -266,17 +222,6 @@ export const data = [
   {
     "Title": "Fatman the Human Flying Saucer",
     "Issue #": 1,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Lightning",
-    "Cost Basis": 10,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Fatman the Human Flying Saucer",
-    "Issue #": 2,
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Lightning",
@@ -370,6 +315,17 @@ export const data = [
     "Personal Notes (Not on website)": "JW",
     "Cost Basis": 25,
     "": "Rich G",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "Title": "Fright",
+    "Issue #": 1,
+    "Condition": "NM",
+    "Website Notes": "Son of Dracula",
+    "Personal Notes (Not on website)": "Atlas Seaboard",
+    "Cost Basis": 100,
+    "": "TTReasures",
     "__1": "",
     "__2": ""
   },
@@ -1056,6 +1012,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Saga",
+    "Issue #": 1,
+    "Condition": "CGC 9.8",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Image",
+    "Cost Basis": 210,
+    "": "Matt",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Samurai Son of Death",
     "Issue #": "",
     "Condition": "NM",
@@ -1354,17 +1321,6 @@ export const data = [
   },
   {
     "Title": "Teen Age Mutant Ninja Turtles",
-    "Issue #": 4,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Mirage",
-    "Cost Basis": 50,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Teen Age Mutant Ninja Turtles",
     "Issue #": 10,
     "Condition": "NM",
     "Website Notes": "3rd Print",
@@ -1550,4 +1506,5 @@ export const data = [
     "__1": "",
     "__2": ""
   }
-];
+]
+;

@@ -110,11 +110,101 @@ export const data =[
   {
     "Title": "Mad",
     "Issue #": 1,
+    "Condition": "CGC 5.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1750,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 1,
     "Condition": "GD",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 575,
     "": "Gilligans"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 2,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 350,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 2,
+    "Condition": "CBCS 3.0",
+    "Website Notes": "Jerry Garcia",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 210,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 5,
+    "Condition": "CGC 4.0",
+    "Website Notes": "Scarce",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 280,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 6,
+    "Condition": "CGC 5.5",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 210,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 7,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 8,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 9,
+    "Condition": "FN-",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 10,
+    "Condition": "VG+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 11,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
   },
   {
     "Title": "Mad",
@@ -127,12 +217,48 @@ export const data =[
   },
   {
     "Title": "Mad",
+    "Issue #": 12,
+    "Condition": "FN-",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 13,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 14,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
     "Issue #": 15,
     "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 80,
     "": "Beyond"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 15,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
   },
   {
     "Title": "Mad",
@@ -145,10 +271,19 @@ export const data =[
   },
   {
     "Title": "Mad",
+    "Issue #": 16,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
     "Issue #": 17,
     "Condition": "VG/F",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "",
+    "Personal Notes (Not on website)": "2 avail",
     "Cost Basis": 65,
     "": "Beyond"
   },
@@ -163,12 +298,39 @@ export const data =[
   },
   {
     "Title": "Mad",
+    "Issue #": 18,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
     "Issue #": 19,
     "Condition": "VF-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 160,
     "": "Beyond"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 19,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 20,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
   },
   {
     "Title": "Mad",
@@ -190,6 +352,24 @@ export const data =[
   },
   {
     "Title": "Mad",
+    "Issue #": 21,
+    "Condition": "F/VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 22,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
     "Issue #": 23,
     "Condition": "VF",
     "Website Notes": "",
@@ -199,12 +379,39 @@ export const data =[
   },
   {
     "Title": "Mad",
+    "Issue #": 23,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 24,
+    "Condition": "F/VF",
+    "Website Notes": "1st Magazine Iss",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 300,
+    "": "Matt"
+  },
+  {
+    "Title": "Mad",
     "Issue #": 24,
     "Condition": "VG/F",
     "Website Notes": "1st Magazine Iss",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 75,
     "": "PBA"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 30,
+    "Condition": "FN-",
+    "Website Notes": "1st AE Neuman C",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Matt"
   },
   {
     "Title": "MD",
@@ -442,15 +649,6 @@ export const data =[
   },
   {
     "Title": "Vault of Horror",
-    "Issue #": 30,
-    "Condition": "VG/F",
-    "Website Notes": "Classic Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 1200,
-    "": ""
-  },
-  {
-    "Title": "Vault of Horror",
     "Issue #": 35,
     "Condition": "CGC 4.5",
     "Website Notes": "Classic Cvr",
@@ -524,15 +722,6 @@ export const data =[
   {
     "Title": "Weird Science Fantasy",
     "Issue #": 25,
-    "Condition": "FN-",
-    "Website Notes": "Williamson Art",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 210,
-    "": "Chris"
-  },
-  {
-    "Title": "Weird Science Fantasy",
-    "Issue #": 25,
     "Condition": "VG",
     "Website Notes": "Williamson Art",
     "Personal Notes (Not on website)": "",
@@ -593,4 +782,5 @@ export const data =[
     "Cost Basis": 200,
     "": "Jerry Hayes"
   }
-];
+]
+;

@@ -1,4 +1,4 @@
-export const data = [
+export const data =[
   {
     "Title": "A-Bomb",
     "Issue #": 2,
@@ -4067,4 +4067,5 @@ export const data = [
     "Cost Basis": 2,
     "": ""
   }
-];
+]
+;

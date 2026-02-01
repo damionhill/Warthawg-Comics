@@ -262,6 +262,15 @@ export const data =[
   },
   {
     "Title": "Space Adventures",
+    "Issue #": 6,
+    "Condition": "GD",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "Matt"
+  },
+  {
+    "Title": "Space Adventures",
     "Issue #": 35,
     "Condition": "VG/F",
     "Website Notes": "Ditko",
@@ -325,6 +334,15 @@ export const data =[
   },
   {
     "Title": "Unusual Tales",
+    "Issue #": 36,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 5,
+    "": "Matt"
+  },
+  {
+    "Title": "Unusual Tales",
     "Issue #": 47,
     "Condition": "F/VF",
     "Website Notes": "",
@@ -341,4 +359,5 @@ export const data =[
     "Cost Basis": 10,
     "": ""
   }
-];
+]
+;

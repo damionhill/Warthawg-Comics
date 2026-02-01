@@ -694,6 +694,24 @@ export const data =[
   },
   {
     "Title": "Black Cat Comics",
+    "Issue #": 59,
+    "Condition": "FN",
+    "Website Notes": "Kirby Art",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 25,
+    "": "house flipper"
+  },
+  {
+    "Title": "Black Cat Comics",
+    "Issue #": 61,
+    "Condition": "FN+",
+    "Website Notes": "Simon Cvr",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 25,
+    "": "house flipper"
+  },
+  {
+    "Title": "Black Cat Comics",
     "Issue #": 63,
     "Condition": "G",
     "Website Notes": "",
@@ -1087,6 +1105,15 @@ export const data =[
     "Personal Notes (Not on website)": "Fawcett",
     "Cost Basis": 50,
     "": "Todd"
+  },
+  {
+    "Title": "Captain Marvel Jr",
+    "Issue #": 18,
+    "Condition": "CGC 4.0",
+    "Website Notes": "Raboy Cvr",
+    "Personal Notes (Not on website)": "Fawcett",
+    "Cost Basis": 140,
+    "": "Matt"
   },
   {
     "Title": "Captain Marvel Jr",
@@ -3078,15 +3105,6 @@ export const data =[
     "": ""
   },
   {
-    "Title": "Little Roquefort",
-    "Issue #": 4,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "St John",
-    "Cost Basis": 10,
-    "": "Todd"
-  },
-  {
     "Title": "Lone Rider",
     "Issue #": 6,
     "Condition": "VG",
@@ -3250,12 +3268,48 @@ export const data =[
   },
   {
     "Title": "Man in Black",
+    "Issue #": 1,
+    "Condition": "FN+",
+    "Website Notes": "Powell Art",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 25,
+    "": "house flipper"
+  },
+  {
+    "Title": "Man in Black",
+    "Issue #": 2,
+    "Condition": "FN+",
+    "Website Notes": "Powell Art",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 25,
+    "": "house flipper"
+  },
+  {
+    "Title": "Man in Black",
     "Issue #": 2,
     "Condition": "VG/F",
     "Website Notes": "Powell Art",
     "Personal Notes (Not on website)": "Harvey",
     "Cost Basis": 15,
     "": ""
+  },
+  {
+    "Title": "Man in Black",
+    "Issue #": 3,
+    "Condition": "FN",
+    "Website Notes": "Powell Art",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 25,
+    "": "house flipper"
+  },
+  {
+    "Title": "Man in Black",
+    "Issue #": 4,
+    "Condition": "FN-",
+    "Website Notes": "Powell Art",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 25,
+    "": "house flipper"
   },
   {
     "Title": "Man O' Mars",
@@ -4096,6 +4150,15 @@ export const data =[
   },
   {
     "Title": "Planet Comics",
+    "Issue #": 42,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Fiction House",
+    "Cost Basis": 200,
+    "": "Matt"
+  },
+  {
+    "Title": "Planet Comics",
     "Issue #": 46,
     "Condition": "F/G",
     "Website Notes": "",
@@ -4300,6 +4363,33 @@ export const data =[
     "Personal Notes (Not on website)": "Hillman",
     "Cost Basis": 25,
     "": ""
+  },
+  {
+    "Title": "Race For the Moon",
+    "Issue #": 1,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 25,
+    "": "house flipper"
+  },
+  {
+    "Title": "Race For the Moon",
+    "Issue #": 2,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 25,
+    "": "house flipper"
+  },
+  {
+    "Title": "Race For the Moon",
+    "Issue #": 3,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Harvey",
+    "Cost Basis": 25,
+    "": "house flipper"
   },
   {
     "Title": "Railroads Deliver the Goods",
@@ -5391,15 +5481,6 @@ export const data =[
     "": "CConnect"
   },
   {
-    "Title": "War Adventures",
-    "Issue #": 13,
-    "Condition": "CGC 4.0",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 50,
-    "": "Sean"
-  },
-  {
     "Title": "War Combat",
     "Issue #": 1,
     "Condition": "VG/F",
@@ -5876,4 +5957,5 @@ export const data =[
     "Cost Basis": 125,
     "": ""
   }
-];
+]
+;
