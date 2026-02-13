@@ -72,15 +72,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Archie",
-    "Issue #": 116,
-    "Condition": "F/VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 12,
-    "": ""
-  },
-  {
     "Title": "Archie and Mr Weatherbee",
     "Issue #": "",
     "Condition": "VG/F",
@@ -126,15 +117,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Archie Giant Series Magazine",
-    "Issue #": 207,
-    "Condition": "FN",
-    "Website Notes": "Sabrina",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 12,
-    "": ""
-  },
-  {
     "Title": "Archie's Girls Betty and Veronica",
     "Issue #": 23,
     "Condition": "VG/F",
@@ -151,6 +133,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Archie's Girls Betty and Veronica",
+    "Issue #": 72,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Rapid City"
   },
   {
     "Title": "Archie's Girls Betty and Veronica",
@@ -324,6 +315,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Archie's Rival Reggie",
+    "Issue #": 9,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Rapid City"
+  },
+  {
     "Title": "Archie's Roller Coaster",
     "Issue #": "",
     "Condition": "VF",
@@ -414,6 +414,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Katy Keene",
+    "Issue #": 60,
+    "Condition": "G/VG",
+    "Website Notes": "Octopus Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "BCC"
+  },
+  {
     "Title": "Laugh",
     "Issue #": 38,
     "Condition": "FN-",
@@ -486,42 +495,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Mighty Comics",
-    "Issue #": 43,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
-    "Title": "Mighty Comics",
-    "Issue #": 44,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
-    "Title": "Mighty Comics",
-    "Issue #": 45,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
-    "Title": "Mighty Comics",
-    "Issue #": 46,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
     "Title": "On the Road Andrae Grouch",
     "Issue #": "",
     "Condition": "VF/NM",
@@ -558,24 +531,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Sabrina",
-    "Issue #": 3,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
-    "Title": "Sabrina",
-    "Issue #": 5,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
     "Title": "Suzie",
     "Issue #": 79,
     "Condition": "VG",
@@ -601,5 +556,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
     "": ""
+  },
+  {
+    "Title": "Wilbur",
+    "Issue #": 35,
+    "Condition": "VG+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15,
+    "": "Gilligans"
   }
-];
+]
+;

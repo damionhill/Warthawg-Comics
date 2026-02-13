@@ -1,4 +1,4 @@
-export const data =[
+export const data = [
   {
     "Title": "Abbott and Costello",
     "Issue #": 18,
@@ -2295,6 +2295,15 @@ export const data =[
     "": "Todd"
   },
   {
+    "Title": "Gay Comics",
+    "Issue #": 21,
+    "Condition": "VG/F",
+    "Website Notes": "Wolverton Art",
+    "Personal Notes (Not on website)": "Timely",
+    "Cost Basis": 25,
+    "": "Rapid City"
+  },
+  {
     "Title": "Ghost Comics",
     "Issue #": 6,
     "Condition": "CGC 2.0",
@@ -3033,6 +3042,24 @@ export const data =[
     "": "Gilligans"
   },
   {
+    "Title": "Kilroys",
+    "Issue #": 16,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "ACG",
+    "Cost Basis": 10,
+    "": "Rapid City"
+  },
+  {
+    "Title": "Kilroys",
+    "Issue #": 23,
+    "Condition": "F/VF",
+    "Website Notes": "GGA",
+    "Personal Notes (Not on website)": "ACG",
+    "Cost Basis": 20,
+    "": "Rapid City"
+  },
+  {
     "Title": "King Comics",
     "Issue #": 87,
     "Condition": "G/VG",
@@ -3094,6 +3121,15 @@ export const data =[
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
     "": ""
+  },
+  {
+    "Title": "Little Audrey",
+    "Issue #": 4,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "St John",
+    "Cost Basis": 25,
+    "": "Rapid City"
   },
   {
     "Title": "Little Eva (3-D)",
@@ -3517,6 +3553,15 @@ export const data =[
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 155,
     "": ""
+  },
+  {
+    "Title": "Men's Adventures",
+    "Issue #": 24,
+    "Condition": "VG/F",
+    "Website Notes": "Horror",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 129,
+    "": "ebay"
   },
   {
     "Title": "Men's Adventures",
@@ -4507,15 +4552,6 @@ export const data =[
     "Personal Notes (Not on website)": "Fiction House",
     "Cost Basis": 100,
     "": "BCC"
-  },
-  {
-    "Title": "Rangers Comics",
-    "Issue #": 37,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fiction House",
-    "Cost Basis": 85,
-    "": ""
   },
   {
     "Title": "Rangers Comics",

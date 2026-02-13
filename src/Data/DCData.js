@@ -46,15 +46,6 @@ export const data = [
   },
   {
     "Title": "Action Comics",
-    "Issue #": 241,
-    "Condition": "CGC 3.5",
-    "Website Notes": "Fortress of Solitude",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 190,
-    "": "Matt"
-  },
-  {
-    "Title": "Action Comics",
     "Issue #": 244,
     "Condition": "FN+",
     "Website Notes": "",
@@ -64,12 +55,30 @@ export const data = [
   },
   {
     "Title": "Action Comics",
+    "Issue #": 257,
+    "Condition": "F/VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 75,
+    "": "Rapid City"
+  },
+  {
+    "Title": "Action Comics",
     "Issue #": 258,
     "Condition": "FN",
     "Website Notes": "Supergirl",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 50,
     "": ""
+  },
+  {
+    "Title": "Action Comics",
+    "Issue #": 259,
+    "Condition": "F/VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 75,
+    "": "Rapid City"
   },
   {
     "Title": "Action Comics",
@@ -316,6 +325,24 @@ export const data = [
   },
   {
     "Title": "Adventure Comics",
+    "Issue #": 267,
+    "Condition": "FN+",
+    "Website Notes": "2nd Lgion App",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "Rapid City"
+  },
+  {
+    "Title": "Adventure Comics",
+    "Issue #": 268,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "Rapid City"
+  },
+  {
+    "Title": "Adventure Comics",
     "Issue #": 271,
     "Condition": "VG",
     "Website Notes": "Origin Lex Luthor",
@@ -443,7 +470,7 @@ export const data = [
   {
     "Title": "Adventure Comics",
     "Issue #": 317,
-    "Condition": "VF",
+    "Condition": "CGC 7.5",
     "Website Notes": "1st Dream Girl",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
@@ -880,6 +907,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": ""
+  },
+  {
+    "Title": "Adventures of Bob Hope",
+    "Issue #": 46,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Rapid City"
   },
   {
     "Title": "Adventures of Bob Hope",
@@ -1449,6 +1485,24 @@ export const data = [
     "": ""
   },
   {
+    "Title": "All Star Western",
+    "Issue #": 109,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "Rapid City"
+  },
+  {
+    "Title": "All Star Western",
+    "Issue #": 110,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "Rapid City"
+  },
+  {
     "Title": "All Star Western (1971)",
     "Issue #": 1,
     "Condition": "FN+",
@@ -1505,7 +1559,7 @@ export const data = [
   {
     "Title": "Aquaman",
     "Issue #": 1,
-    "Condition": "G.VG",
+    "Condition": "G/VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 150,
@@ -2251,15 +2305,6 @@ export const data = [
   },
   {
     "Title": "Batman",
-    "Issue #": 147,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 35,
-    "": "Poon"
-  },
-  {
-    "Title": "Batman",
     "Issue #": 149,
     "Condition": "VG+",
     "Website Notes": "",
@@ -2557,6 +2602,15 @@ export const data = [
   },
   {
     "Title": "Batman",
+    "Issue #": 193,
+    "Condition": "VF",
+    "Website Notes": "Giant",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 35,
+    "": "TTreasures"
+  },
+  {
+    "Title": "Batman",
     "Issue #": 194,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -2644,6 +2698,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
     "": "Nick"
+  },
+  {
+    "Title": "Batman",
+    "Issue #": 205,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "gilligans"
   },
   {
     "Title": "Batman",
@@ -3553,6 +3616,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5,
     "": ""
+  },
+  {
+    "Title": "Bomba",
+    "Issue #": 2,
+    "Condition": "F/VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Gilligans"
   },
   {
     "Title": "Boy Commandos",
@@ -5707,15 +5779,6 @@ export const data = [
   },
   {
     "Title": "Flash",
-    "Issue #": 120,
-    "Condition": "CGC 6.5",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 125,
-    "": "Dahlgren"
-  },
-  {
-    "Title": "Flash",
     "Issue #": 124,
     "Condition": "VF",
     "Website Notes": "Last .10 Iss",
@@ -6354,6 +6417,24 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Gangbusters",
+    "Issue #": 42,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15,
+    "": "Rapud City"
+  },
+  {
+    "Title": "Gangbusters",
+    "Issue #": 43,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Rapud City"
+  },
+  {
     "Title": "Ghosts",
     "Issue #": 2,
     "Condition": "FN",
@@ -6904,12 +6985,39 @@ export const data = [
   },
   {
     "Title": "Green Lantern",
+    "Issue #": 7,
+    "Condition": "G/VG",
+    "Website Notes": "1st Sinestro",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 150,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Green Lantern",
     "Issue #": 8,
     "Condition": "VG/F",
     "Website Notes": "Grey Tone c",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 55,
     "": ""
+  },
+  {
+    "Title": "Green Lantern",
+    "Issue #": 8,
+    "Condition": "VG",
+    "Website Notes": "Grey Tone c",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Green Lantern",
+    "Issue #": 10,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "Gilligans"
   },
   {
     "Title": "Green Lantern",
@@ -7084,12 +7192,30 @@ export const data = [
   },
   {
     "Title": "Green Lantern",
+    "Issue #": 45,
+    "Condition": "VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Green Lantern",
     "Issue #": 47,
     "Condition": "VF/NM",
     "Website Notes": "Dr Polaris",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 50,
     "": ""
+  },
+  {
+    "Title": "Green Lantern",
+    "Issue #": 48,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 8,
+    "": "Gilligans"
   },
   {
     "Title": "Green Lantern",
@@ -7117,6 +7243,33 @@ export const data = [
     "Personal Notes (Not on website)": 48,
     "Cost Basis": 55,
     "": ""
+  },
+  {
+    "Title": "Green Lantern",
+    "Issue #": 68,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Green Lantern",
+    "Issue #": 73,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 5,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Green Lantern",
+    "Issue #": 76,
+    "Condition": "GD+",
+    "Website Notes": "Adams",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 60,
+    "": "Gilligans"
   },
   {
     "Title": "Green Lantern",
@@ -7153,6 +7306,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 55,
     "": ""
+  },
+  {
+    "Title": "Green Lantern",
+    "Issue #": 81,
+    "Condition": "VG",
+    "Website Notes": "Adams",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Gilligans"
   },
   {
     "Title": "Green Lantern",
@@ -7318,6 +7480,15 @@ export const data = [
   },
   {
     "Title": "Green Lantern",
+    "Issue #": 90,
+    "Condition": "VF+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Green Lantern",
     "Issue #": 116,
     "Condition": "VF",
     "Website Notes": "",
@@ -7435,6 +7606,15 @@ export const data = [
   },
   {
     "Title": "Hawkman",
+    "Issue #": 10,
+    "Condition": "VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "TTreasures"
+  },
+  {
+    "Title": "Hawkman",
     "Issue #": 11,
     "Condition": "VF-",
     "Website Notes": "",
@@ -7463,11 +7643,29 @@ export const data = [
   {
     "Title": "Hawkman",
     "Issue #": 14,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "TTreasures"
+  },
+  {
+    "Title": "Hawkman",
+    "Issue #": 14,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 60,
     "": ""
+  },
+  {
+    "Title": "Hawkman",
+    "Issue #": 15,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "TTreasures"
   },
   {
     "Title": "Hawkman",
@@ -7729,15 +7927,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 30,
     "": ""
-  },
-  {
-    "Title": "House of Mystery",
-    "Issue #": 174,
-    "Condition": "CGC 3.0",
-    "Website Notes": "1st Mystery Issue",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 50,
-    "": "BCC"
   },
   {
     "Title": "House of Mystery",
@@ -8399,15 +8588,6 @@ export const data = [
   {
     "Title": "Joker",
     "Issue #": 1,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 40,
-    "": "Geaorge"
-  },
-  {
-    "Title": "Joker",
-    "Issue #": 1,
     "Condition": "FN+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
@@ -8587,15 +8767,6 @@ export const data = [
   },
   {
     "Title": "Justice League of America",
-    "Issue #": 7,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 35,
-    "": ""
-  },
-  {
-    "Title": "Justice League of America",
     "Issue #": 8,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -8644,15 +8815,6 @@ export const data = [
     "Issue #": 20,
     "Condition": "VG/F",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 35,
-    "": ""
-  },
-  {
-    "Title": "Justice League of America",
-    "Issue #": 21,
-    "Condition": "VG",
-    "Website Notes": "Crisis on Earth-2",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 35,
     "": ""
@@ -8812,11 +8974,11 @@ export const data = [
   },
   {
     "Title": "Justice League of America",
-    "Issue #": 98,
-    "Condition": "F/VF",
+    "Issue #": 97,
+    "Condition": "VF+",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
+    "Cost Basis": 20,
     "": ""
   },
   {
@@ -9082,12 +9244,30 @@ export const data = [
   },
   {
     "Title": "Masters of the Universe",
+    "Issue #": 1,
+    "Condition": "VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "gilligans"
+  },
+  {
+    "Title": "Masters of the Universe",
     "Issue #": 2,
     "Condition": "VF/NM",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "",
+    "Personal Notes (Not on website)": "2 avail",
     "Cost Basis": 15,
     "": ""
+  },
+  {
+    "Title": "Masters of the Universe",
+    "Issue #": 3,
+    "Condition": "NM",
+    "Website Notes": "Newsstand",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "gilligans"
   },
   {
     "Title": "Masters of the Universe",
@@ -9700,6 +9880,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 85,
     "": ""
+  },
+  {
+    "Title": "Mystery in Space",
+    "Issue #": 56,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "Rapid City"
   },
   {
     "Title": "Mystery in Space",
@@ -11062,6 +11251,51 @@ export const data = [
   },
   {
     "Title": "Showcase",
+    "Issue #": 8,
+    "Condition": "FN-",
+    "Website Notes": "2nd SA Flash",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1500,
+    "": "House Flipper"
+  },
+  {
+    "Title": "Showcase",
+    "Issue #": 13,
+    "Condition": "FN+",
+    "Website Notes": "3rd SA Flash",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1000,
+    "": "House Flipper"
+  },
+  {
+    "Title": "Showcase",
+    "Issue #": 14,
+    "Condition": "VG/F",
+    "Website Notes": "4th SA Flash",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 800,
+    "": "House Flipper"
+  },
+  {
+    "Title": "Showcase",
+    "Issue #": 15,
+    "Condition": "VG/F",
+    "Website Notes": "1st Space Ranger",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "House Flipper"
+  },
+  {
+    "Title": "Showcase",
+    "Issue #": 16,
+    "Condition": "VG/F",
+    "Website Notes": "2nd Space Ranger",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "House Flipper"
+  },
+  {
+    "Title": "Showcase",
     "Issue #": 22,
     "Condition": "CGC 4.5",
     "Website Notes": "1st SA Green Lantern",
@@ -11990,6 +12224,15 @@ export const data = [
   {
     "Title": "Strange Adventures",
     "Issue #": 93,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "Rapid City"
+  },
+  {
+    "Title": "Strange Adventures",
+    "Issue #": 93,
     "Condition": "VG",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
@@ -12022,6 +12265,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 400,
     "": "Tomlinson"
+  },
+  {
+    "Title": "Strange Adventures",
+    "Issue #": 112,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Rapid City"
   },
   {
     "Title": "Strange Adventures",
@@ -12409,6 +12661,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 1100,
     "": "Holder"
+  },
+  {
+    "Title": "Superboy",
+    "Issue #": 68,
+    "Condition": "FN+",
+    "Website Notes": "1st Bizarro",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1000,
+    "": "House Flipper"
   },
   {
     "Title": "Superboy",
@@ -13249,6 +13510,15 @@ export const data = [
   },
   {
     "Title": "Superman's Girlfriend Lois Lane",
+    "Issue #": 1,
+    "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 1500,
+    "": "House Flipper"
+  },
+  {
+    "Title": "Superman's Girlfriend Lois Lane",
     "Issue #": 70,
     "Condition": "CGC 9.6",
     "Website Notes": "1st SA Catwoman",
@@ -13421,6 +13691,15 @@ export const data = [
   {
     "Title": "Swamp Thing",
     "Issue #": 1,
+    "Condition": "VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 200,
+    "": "Mark"
+  },
+  {
+    "Title": "Swamp Thing",
+    "Issue #": 1,
     "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
@@ -13507,15 +13786,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
     "": ""
-  },
-  {
-    "Title": "Swamp Thing",
-    "Issue #": 37,
-    "Condition": "NM-",
-    "Website Notes": "1st John Constatine",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 190,
-    "": "green valley"
   },
   {
     "Title": "Swamp Thing",
@@ -14011,6 +14281,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
     "": ""
+  },
+  {
+    "Title": "Tomahawk",
+    "Issue #": 50,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15,
+    "": "Rapid City"
   },
   {
     "Title": "Tomahawk",

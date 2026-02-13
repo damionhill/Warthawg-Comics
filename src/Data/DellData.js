@@ -127,6 +127,15 @@ export const data = [
   },
   {
     "Title": "Four Color",
+    "Issue #": 307,
+    "Condition": "VG+",
+    "Website Notes": "Bugs Bunny",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
+    "": "Gilligans"
+  },
+  {
+    "Title": "Four Color",
     "Issue #": 386,
     "Condition": "FA",
     "Website Notes": "Uncle Scrooge #1",
@@ -151,6 +160,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "cost": 21,
     "": ""
+  },
+  {
+    "Title": "Four Color",
+    "Issue #": 840,
+    "Condition": "VG/F",
+    "Website Notes": "Duck Album",
+    "Personal Notes (Not on website)": "",
+    "cost": 5,
+    "": "Gilligans"
   },
   {
     "Title": "Henry",
@@ -342,6 +360,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Little Iodine",
+    "Issue #": 1,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "cost": 10,
+    "": "Rapid City"
+  },
+  {
     "Title": "Little Lulu",
     "Issue #": 165,
     "Condition": "VG",
@@ -358,15 +385,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "cost": 10,
     "": ""
-  },
-  {
-    "Title": "Lobo",
-    "Issue #": 1,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "cost": 110,
-    "": "Gilligans"
   },
   {
     "Title": "Lone Ranger",
@@ -451,15 +469,6 @@ export const data = [
   },
   {
     "Title": "Mickey Mouse",
-    "Issue #": "FC 279",
-    "Condition": "GD",
-    "Website Notes": "Giant Ants",
-    "Personal Notes (Not on website)": "",
-    "cost": 5,
-    "": "Green Valley"
-  },
-  {
-    "Title": "Mickey Mouse",
     "Issue #": "FC 296",
     "Condition": "VG",
     "Website Notes": "Private Eye",
@@ -511,6 +520,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "cost": 5,
     "": ""
+  },
+  {
+    "Title": "Raggedy Ann + Andy",
+    "Issue #": 11,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "cost": 10,
+    "": "Rapid City"
   },
   {
     "Title": "Ricky Nelson",
@@ -872,4 +890,5 @@ export const data = [
     "cost": 55,
     "": ""
   }
-];
+]
+;
