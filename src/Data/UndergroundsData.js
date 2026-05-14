@@ -1,4 +1,4 @@
-export const data =[
+export const data = [
   {
     "Title": "A-Bomb",
     "Issue #": 2,
@@ -897,16 +897,7 @@ export const data =[
     "Website Notes": "",
     "Personal Notes (Not on website)": "Aircel",
     "Cost Basis": 20,
-    "": "BCC 2 avail"
-  },
-  {
-    "Title": "Debbie Does Dallas",
-    "Issue #": 18,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Aircel",
-    "Cost Basis": 20,
-    "": "BCC"
+    "": ""
   },
   {
     "Title": "Demented Pervert",
@@ -4067,5 +4058,4 @@ export const data =[
     "Cost Basis": 2,
     "": ""
   }
-]
-;
+];

@@ -1,4 +1,4 @@
-export const data =[
+export const data = [
   {
     "Title": "Badge of Justice",
     "Issue #": 22,
@@ -72,6 +72,15 @@ export const data =[
     "": "Gilligans"
   },
   {
+    "Title": "Gorgo",
+    "Issue #": 10,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Rapid City"
+  },
+  {
     "Title": "Hot Rod Racers",
     "Issue #": 9,
     "Condition": "F/VF",
@@ -108,6 +117,15 @@ export const data =[
     "": "2025 BCC"
   },
   {
+    "Title": "Konga",
+    "Issue #": 23,
+    "Condition": "VG",
+    "Website Notes": "Last Iss",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 5,
+    "": "Vince"
+  },
+  {
     "Title": "Monster Hunters",
     "Issue #": 14,
     "Condition": "FN+",
@@ -124,6 +142,24 @@ export const data =[
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5,
     "": ""
+  },
+  {
+    "Title": "Mysteries of Unexplored Worlds",
+    "Issue #": 19,
+    "Condition": "G/VG",
+    "Website Notes": "Ditko C/A",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Vince"
+  },
+  {
+    "Title": "Out of This World",
+    "Issue #": 16,
+    "Condition": "GD",
+    "Website Notes": "Ditko C/A",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 10,
+    "": "Vince"
   },
   {
     "Title": "Outer Space",
@@ -225,6 +261,15 @@ export const data =[
     "": ""
   },
   {
+    "Title": "Reptilicus",
+    "Issue #": 1,
+    "Condition": "CGC 7.5",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 175,
+    "": "comiclink"
+  },
+  {
     "Title": "Rookie Cop",
     "Issue #": 27,
     "Condition": "VG/F",
@@ -297,6 +342,24 @@ export const data =[
     "": "George Cumberland"
   },
   {
+    "Title": "Tales of the Mysterious Traveler",
+    "Issue #": 5,
+    "Condition": "VG+",
+    "Website Notes": "Ditko C/A",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Vince"
+  },
+  {
+    "Title": "Thing!",
+    "Issue #": 4,
+    "Condition": "GD",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": "Vince"
+  },
+  {
     "Title": "Timmy the Timid Ghost",
     "Issue #": 17,
     "Condition": "VG",
@@ -304,6 +367,15 @@ export const data =[
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5,
     "": ""
+  },
+  {
+    "Title": "Unusual Tales",
+    "Issue #": 9,
+    "Condition": "VG",
+    "Website Notes": "Ditko C/S",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Vince"
   },
   {
     "Title": "Unusual Tales",
@@ -359,5 +431,4 @@ export const data =[
     "Cost Basis": 10,
     "": ""
   }
-]
-;
+];

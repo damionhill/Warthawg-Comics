@@ -199,6 +199,15 @@ export const data = [
   },
   {
     "Title": "Creepy",
+    "Issue #": 1,
+    "Condition": "VG/F",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Warren",
+    "Cost Basis": 30,
+    "": "Joe"
+  },
+  {
+    "Title": "Creepy",
     "Issue #": 12,
     "Condition": "VF",
     "Website Notes": "",
@@ -263,7 +272,7 @@ export const data = [
   {
     "Title": "Deadly Hands of Kung Fu",
     "Issue #": 1,
-    "Condition": "VG/F",
+    "Condition": "VF/NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 12,
@@ -310,15 +319,6 @@ export const data = [
     "Issue #": 25,
     "Condition": "NM",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 12,
-    "": ""
-  },
-  {
-    "Title": "Deadly Hands of Kung Fu",
-    "Issue #": 28,
-    "Condition": "FN",
-    "Website Notes": "Bruce Lee C/S",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 12,
     "": ""
@@ -524,7 +524,7 @@ export const data = [
   {
     "Title": "Famous Monsters",
     "Issue #": 6,
-    "Condition": "VG",
+    "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
     "Cost Basis": 150,
@@ -570,7 +570,7 @@ export const data = [
     "Title": "Famous Monsters",
     "Issue #": 14,
     "Condition": "VG/F",
-    "Website Notes": "2 avail",
+    "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
     "Cost Basis": 65,
     "": ""
@@ -595,29 +595,11 @@ export const data = [
   },
   {
     "Title": "Famous Monsters",
-    "Issue #": 22,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 40,
-    "": ""
-  },
-  {
-    "Title": "Famous Monsters",
     "Issue #": 21,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 10,
-    "": ""
-  },
-  {
-    "Title": "Famous Monsters",
-    "Issue #": 26,
-    "Condition": "VG/F",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 30,
+    "Cost Basis": 40,
     "": ""
   },
   {
@@ -741,6 +723,15 @@ export const data = [
     "Title": "Famous Monsters Annual",
     "Issue #": 1962,
     "Condition": "FN+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Warren",
+    "Cost Basis": 25,
+    "": ""
+  },
+  {
+    "Title": "Famous Monsters Annual",
+    "Issue #": 1962,
+    "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Warren",
     "Cost Basis": 25,
@@ -964,24 +955,6 @@ export const data = [
   },
   {
     "Title": "Marvel Preview",
-    "Issue #": 4,
-    "Condition": "VG/F",
-    "Website Notes": "1st Starlord",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 120,
-    "": ""
-  },
-  {
-    "Title": "Marvel Preview",
-    "Issue #": 7,
-    "Condition": "CGC 8.5",
-    "Website Notes": "1st Rocket Raccoon",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 400,
-    "": ""
-  },
-  {
-    "Title": "Marvel Preview",
     "Issue #": 7,
     "Condition": "VG",
     "Website Notes": "1st Rocket Raccoon",
@@ -1047,15 +1020,6 @@ export const data = [
     "Title": "Monster Parade",
     "Issue #": 3,
     "Condition": "G",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 80,
-    "": ""
-  },
-  {
-    "Title": "Monster Parade",
-    "Issue #": 4,
-    "Condition": "FN",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 80,
@@ -1197,15 +1161,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Monster World",
-    "Issue #": 9,
-    "Condition": "VF+",
-    "Website Notes": "Addams Family",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
     "Title": "Nam",
     "Issue #": 1,
     "Condition": "NM",
@@ -1270,29 +1225,11 @@ export const data = [
   },
   {
     "Title": "Planet of the Apes",
-    "Issue #": 3,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Planet of the Apes",
     "Issue #": 4,
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Planet of the Apes",
-    "Issue #": 29,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
     "": ""
   },
   {
@@ -1311,33 +1248,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
-    "": ""
-  },
-  {
-    "Title": "Psycho",
-    "Issue #": 13,
-    "Condition": "NM-",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Psycho",
-    "Issue #": 16,
-    "Condition": "VF+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": ""
-  },
-  {
-    "Title": "Psycho",
-    "Issue #": 20,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
     "": ""
   },
   {
@@ -1386,6 +1296,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Raphael",
+    "Issue #": 1,
+    "Condition": "VF",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Roger Fairfax"
+  },
+  {
     "Title": "Savage Sword of Conan",
     "Issue #": 234,
     "Condition": "VF/NM",
@@ -1397,11 +1316,29 @@ export const data = [
   {
     "Title": "Savage Tales",
     "Issue #": 1,
+    "Condition": "F/VF",
+    "Website Notes": "1st Man Thing",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 300,
+    "": "Aftertime"
+  },
+  {
+    "Title": "Savage Tales",
+    "Issue #": 1,
     "Condition": "FN",
     "Website Notes": "1st Man Thing",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 300,
     "": ""
+  },
+  {
+    "Title": "Savage Tales",
+    "Issue #": 1,
+    "Condition": "G/VG",
+    "Website Notes": "1st Man Thing",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Aftertime"
   },
   {
     "Title": "Savage Tales",
@@ -1476,28 +1413,10 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Scream",
-    "Issue #": 1,
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": ""
-  },
-  {
     "Title": "Shock",
     "Issue #": "V1#2",
     "Condition": "VF/NM",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
-    "Title": "Slags Pals n Gals",
-    "Issue #": "",
-    "Condition": "",
-    "Website Notes": "fanzine",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": ""
@@ -1881,15 +1800,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Witches Tales",
-    "Issue #": "V2#1",
-    "Condition": "VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
-  },
-  {
     "Title": "World Famous Creatures (1958)",
     "Issue #": 1,
     "Condition": "CGC 4.0",
@@ -1903,7 +1813,7 @@ export const data = [
     "Issue #": 1,
     "Condition": "VG/F",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "2 avail",
+    "Personal Notes (Not on website)": "",
     "Cost Basis": 125,
     "": ""
   },
@@ -1921,7 +1831,7 @@ export const data = [
     "Issue #": 3,
     "Condition": "FN",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "2 avail",
+    "Personal Notes (Not on website)": "",
     "Cost Basis": 125,
     "": ""
   },

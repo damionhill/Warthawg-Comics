@@ -1,4 +1,4 @@
-export const data =[
+export const data = [
   {
     "Title": "Aces High",
     "Issue #": 1,
@@ -43,6 +43,15 @@ export const data =[
     "Personal Notes (Not on website)": "",
     "Cost Basis": 600,
     "": "Darnell"
+  },
+  {
+    "Title": "Crime SuspenStories",
+    "Issue #": 24,
+    "Condition": "GD+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 125,
+    "": "Joe"
   },
   {
     "Title": "Crime SuspenStories",
@@ -99,6 +108,15 @@ export const data =[
     "": "Rich G"
   },
   {
+    "Title": "Impact",
+    "Issue #": 2,
+    "Condition": "G//VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 25,
+    "": "Joe"
+  },
+  {
     "Title": "Incredible Science Fiction",
     "Issue #": 32,
     "Condition": "VG",
@@ -132,33 +150,6 @@ export const data =[
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 350,
-    "": "Matt"
-  },
-  {
-    "Title": "Mad",
-    "Issue #": 2,
-    "Condition": "CBCS 3.0",
-    "Website Notes": "Jerry Garcia",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 210,
-    "": "Matt"
-  },
-  {
-    "Title": "Mad",
-    "Issue #": 5,
-    "Condition": "CGC 4.0",
-    "Website Notes": "Scarce",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 280,
-    "": "Matt"
-  },
-  {
-    "Title": "Mad",
-    "Issue #": 6,
-    "Condition": "CGC 5.5",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 210,
     "": "Matt"
   },
   {
@@ -560,6 +551,15 @@ export const data =[
   {
     "Title": "Two-Fisted Tales",
     "Issue #": 28,
+    "Condition": "FN-",
+    "Website Notes": "Classic Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 35,
+    "": "Vince"
+  },
+  {
+    "Title": "Two-Fisted Tales",
+    "Issue #": 28,
     "Condition": "VG/F",
     "Website Notes": "Classic Cvr",
     "Personal Notes (Not on website)": "",
@@ -659,10 +659,10 @@ export const data =[
   {
     "Title": "Vault of Horror",
     "Issue #": 36,
-    "Condition": "VG/F",
+    "Condition": "F/VF",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 200,
+    "Cost Basis": 400,
     "": ""
   },
   {
@@ -702,15 +702,6 @@ export const data =[
     "": "Beyond"
   },
   {
-    "Title": "Weird Fantasy",
-    "Issue #": 22,
-    "Condition": "VG",
-    "Website Notes": "Williamson Art",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 200,
-    "": "Gilligans"
-  },
-  {
     "Title": "Weird Science",
     "Issue #": 15,
     "Condition": "GD",
@@ -739,24 +730,6 @@ export const data =[
   },
   {
     "Title": "Weird Science Fantasy",
-    "Issue #": 27,
-    "Condition": "CGC 5.0",
-    "Website Notes": "Wood Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 200,
-    "": "Dahlgren"
-  },
-  {
-    "Title": "Weird Science Fantasy",
-    "Issue #": 27,
-    "Condition": "VG",
-    "Website Notes": "Wood Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 150,
-    "": "Jerry Hayes"
-  },
-  {
-    "Title": "Weird Science Fantasy",
     "Issue #": 28,
     "Condition": "VG",
     "Website Notes": "Williamson Art",
@@ -782,5 +755,4 @@ export const data =[
     "Cost Basis": 200,
     "": "Jerry Hayes"
   }
-]
-;
+];

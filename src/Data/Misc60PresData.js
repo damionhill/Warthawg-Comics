@@ -1,4 +1,4 @@
-export const data =[
+export const data = [
   {
     "Title": "Alarming Adventures",
     "Issue #": 1,
@@ -73,17 +73,6 @@ export const data =[
     "Personal Notes (Not on website)": "Revolutionary",
     "Cost Basis": 5,
     "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Betie Page Queen of the Nile",
-    "Issue #": 1,
-    "Condition": "NM",
-    "Website Notes": "Stevens Cvr",
-    "Personal Notes (Not on website)": "Dark Horse",
-    "Cost Basis": 50,
-    "": "Comiclink",
     "__1": "",
     "__2": ""
   },
@@ -176,6 +165,17 @@ export const data =[
     "__2": ""
   },
   {
+    "Title": "Destroyer Duck",
+    "Issue #": 1,
+    "Condition": "NM",
+    "Website Notes": "1st Groo",
+    "Personal Notes (Not on website)": "Eclipse",
+    "Cost Basis": 25,
+    "": "Joe",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Donatello",
     "Issue #": 1,
     "Condition": "NM",
@@ -214,17 +214,6 @@ export const data =[
     "Condition": "NM-",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Valiant",
-    "Cost Basis": 10,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Fatman the Human Flying Saucer",
-    "Issue #": 1,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Lightning",
     "Cost Basis": 10,
     "": "",
     "__1": "",
@@ -638,17 +627,6 @@ export const data =[
     "__2": ""
   },
   {
-    "Title": "Out of This World",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "Sci Fi Bondage Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 150,
-    "": "BCC",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Personality Comics",
     "Issue #": "",
     "Condition": "NM",
@@ -979,17 +957,6 @@ export const data =[
     "__2": ""
   },
   {
-    "Title": "Rocketeer Special Edition",
-    "Issue #": 1,
-    "Condition": "VF/NM",
-    "Website Notes": "Stevens C/A",
-    "Personal Notes (Not on website)": "Eclipse",
-    "Cost Basis": 5,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Rock Happening",
     "Issue #": 2,
     "Condition": "VG",
@@ -1008,17 +975,6 @@ export const data =[
     "Personal Notes (Not on website)": "Harvey",
     "Cost Basis": 5,
     "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Saga",
-    "Issue #": 1,
-    "Condition": "CGC 9.8",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Image",
-    "Cost Basis": 210,
-    "": "Matt",
     "__1": "",
     "__2": ""
   },
@@ -1430,17 +1386,6 @@ export const data =[
     "__2": ""
   },
   {
-    "Title": "Top Secret Adventures",
-    "Issue #": 1,
-    "Condition": "F/VF",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Harvey",
-    "Cost Basis": 10,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "22 Brides",
     "Issue #": 1,
     "Condition": "NM",
@@ -1506,5 +1451,4 @@ export const data =[
     "__1": "",
     "__2": ""
   }
-]
-;
+];
