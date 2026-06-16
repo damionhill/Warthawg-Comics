@@ -1,4 +1,4 @@
-export const data = [
+export const data= [
   {
     "Title": "A-Bomb",
     "Issue #": 2,
@@ -1306,15 +1306,6 @@ export const data = [
   },
   {
     "Title": "Freak Brothers",
-    "Issue #": 3,
-    "Condition": "F/VF",
-    "Website Notes": ".75 Cvr Price",
-    "Personal Notes (Not on website)": "Rip Off Press",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Freak Brothers",
     "Issue #": 4,
     "Condition": "F/VF",
     "Website Notes": "1.50 Cvr Price",
@@ -1512,15 +1503,6 @@ export const data = [
     "": ""
   },
   {
-    "Title": "Happy Endings Comics",
-    "Issue #": "",
-    "Condition": "VG/F",
-    "Website Notes": "1st Print",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 2,
-    "": ""
-  },
-  {
     "Title": "Hash-Slinger Comix",
     "Issue #": "",
     "Condition": "NM",
@@ -1707,7 +1689,7 @@ export const data = [
     "Website Notes": "1st Print 1970",
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
-    "": "2 avail"
+    "": ""
   },
   {
     "Title": "Illuminatus!",
@@ -2207,15 +2189,6 @@ export const data = [
   {
     "Title": "Mr. Natural",
     "Issue #": 2,
-    "Condition": "VF",
-    "Website Notes": "1st Print 1971",
-    "Personal Notes (Not on website)": "SF Comic Book Co",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Mr. Natural",
-    "Issue #": 2,
     "Condition": "F/VF",
     "Website Notes": ".50 Cvr Price Crumb",
     "Personal Notes (Not on website)": "SF Comic Book Co 2 avail",
@@ -2700,15 +2673,6 @@ export const data = [
     "": "steve"
   },
   {
-    "Title": "R. Crumb's Comics and Stories",
-    "Issue #": 1,
-    "Condition": "VF",
-    "Website Notes": 1969,
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
-    "": "20th Century"
-  },
-  {
     "Title": "Real Pulp Comics",
     "Issue #": 1,
     "Condition": "VF/NM",
@@ -2851,15 +2815,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5,
     "": "20th Century"
-  },
-  {
-    "Title": "Roxy Funnies",
-    "Issue #": 1,
-    "Condition": "FN",
-    "Website Notes": "1972 Lynch",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 5,
-    "": ""
   },
   {
     "Title": "Sally Forth",

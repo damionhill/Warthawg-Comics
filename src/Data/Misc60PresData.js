@@ -539,17 +539,6 @@ export const data = [
     "__2": ""
   },
   {
-    "Title": "Madman Comics",
-    "Issue #": 4,
-    "Condition": "CGC 9.8",
-    "Website Notes": "D Stevens",
-    "Personal Notes (Not on website)": "Dark Horse",
-    "Cost Basis": 130,
-    "": "clink",
-    "__1": "",
-    "__2": ""
-  },
-  {
     "Title": "Mandrake the Magician",
     "Issue #": 2,
     "Condition": "VG/F",
@@ -979,6 +968,17 @@ export const data = [
     "__2": ""
   },
   {
+    "Title": "Saga",
+    "Issue #": 1,
+    "Condition": "CGC 9.8",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Image",
+    "Cost Basis": 250,
+    "": "comiclink",
+    "__1": "",
+    "__2": ""
+  },
+  {
     "Title": "Samurai Son of Death",
     "Issue #": "",
     "Condition": "NM",
@@ -1323,28 +1323,6 @@ export const data = [
     "Title": "Thunder Agents",
     "Issue #": 1,
     "Condition": "G/VG",
-    "Website Notes": "Wood Art",
-    "Personal Notes (Not on website)": "Tower",
-    "Cost Basis": 25,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Thunder Agents",
-    "Issue #": 2,
-    "Condition": "FN",
-    "Website Notes": "Wood Art",
-    "Personal Notes (Not on website)": "Tower",
-    "Cost Basis": 25,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Title": "Thunder Agents",
-    "Issue #": 3,
-    "Condition": "F/VF",
     "Website Notes": "Wood Art",
     "Personal Notes (Not on website)": "Tower",
     "Cost Basis": 25,

@@ -1,4 +1,4 @@
-export const data = [
+export const data =[
   {
     "Title": "All Man",
     "Issue #": 1961,
@@ -514,15 +514,6 @@ export const data = [
   },
   {
     "Title": "Famous Monsters",
-    "Issue #": 2,
-    "Condition": "FN+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Warren",
-    "Cost Basis": 300,
-    "": ""
-  },
-  {
-    "Title": "Famous Monsters",
     "Issue #": 6,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -848,7 +839,7 @@ export const data = [
   {
     "Title": "Legion of Monsters",
     "Issue #": 1,
-    "Condition": "NM-",
+    "Condition": "CGC 9.0",
     "Website Notes": "1st Appearance",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 50,
@@ -1305,15 +1296,6 @@ export const data = [
     "": "Roger Fairfax"
   },
   {
-    "Title": "Savage Sword of Conan",
-    "Issue #": 234,
-    "Condition": "VF/NM",
-    "Website Notes": "Low Print",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
-    "": ""
-  },
-  {
     "Title": "Savage Tales",
     "Issue #": 1,
     "Condition": "F/VF",
@@ -1419,6 +1401,24 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
+    "": ""
+  },
+  {
+    "Title": "Six Million Dollar Man",
+    "Issue #": 1,
+    "Condition": "CGC 9.8",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
+    "": ""
+  },
+  {
+    "Title": "Six Million Dollar Man",
+    "Issue #": 1,
+    "Condition": "CGC 9.6",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 50,
     "": ""
   },
   {

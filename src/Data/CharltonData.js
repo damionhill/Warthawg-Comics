@@ -145,6 +145,15 @@ export const data = [
   },
   {
     "Title": "Mysteries of Unexplored Worlds",
+    "Issue #": 4,
+    "Condition": "FN+",
+    "Website Notes": "Ditko C/A",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 90,
+    "": "AHeroes"
+  },
+  {
+    "Title": "Mysteries of Unexplored Worlds",
     "Issue #": 19,
     "Condition": "G/VG",
     "Website Notes": "Ditko C/A",

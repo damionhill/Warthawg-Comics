@@ -1,4 +1,4 @@
-export const data = [
+export const data =[
   {
     "Title": "Aces High",
     "Issue #": 1,
@@ -43,15 +43,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 600,
     "": "Darnell"
-  },
-  {
-    "Title": "Crime SuspenStories",
-    "Issue #": 24,
-    "Condition": "GD+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 125,
-    "": "Joe"
   },
   {
     "Title": "Crime SuspenStories",

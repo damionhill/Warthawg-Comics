@@ -1,4 +1,4 @@
-export const data = [
+export const data =[
   {
     "Title": "Action Comics",
     "Issue #": 22,
@@ -910,15 +910,6 @@ export const data = [
   },
   {
     "Title": "Adventure Comics",
-    "Issue #": 436,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 10,
-    "": "Bednarz"
-  },
-  {
-    "Title": "Adventure Comics",
     "Issue #": 437,
     "Condition": "VF/NM",
     "Website Notes": "",
@@ -1168,6 +1159,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
     "": ""
+  },
+  {
+    "Title": "All American Comics",
+    "Issue #": 16,
+    "Condition": "P",
+    "Website Notes": "Cvrless 1st GL",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 5800,
+    "": "Hello Comics"
   },
   {
     "Title": "All American Men of War",
@@ -1708,15 +1708,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
     "": "Vince"
-  },
-  {
-    "Title": "Aquaman",
-    "Issue #": 43,
-    "Condition": "FN",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 12,
-    "": ""
   },
   {
     "Title": "Aquaman",
@@ -2971,15 +2962,6 @@ export const data = [
   },
   {
     "Title": "Batman",
-    "Issue #": 171,
-    "Condition": "G/VG",
-    "Website Notes": "1st SA Riddler",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 160,
-    "": "DC Big Flea"
-  },
-  {
-    "Title": "Batman",
     "Issue #": 172,
     "Condition": "FN+",
     "Website Notes": "",
@@ -3215,15 +3197,6 @@ export const data = [
   {
     "Title": "Batman",
     "Issue #": 190,
-    "Condition": "CGC 8.0",
-    "Website Notes": "Penguin C/S",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 95,
-    "": ""
-  },
-  {
-    "Title": "Batman",
-    "Issue #": 190,
     "Condition": "VG+",
     "Website Notes": "Penguin C/S",
     "Personal Notes (Not on website)": "",
@@ -3301,6 +3274,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": "",
     "": ""
+  },
+  {
+    "Title": "Batman",
+    "Issue #": 200,
+    "Condition": "CGC 9.2",
+    "Website Notes": "Anniversary Issue",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 300,
+    "": "Holder"
   },
   {
     "Title": "Batman",
@@ -3539,20 +3521,20 @@ export const data = [
   {
     "Title": "Batman",
     "Issue #": 251,
-    "Condition": "CGC 5.5",
-    "Website Notes": "Adams Joker Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 330,
-    "": "clink"
-  },
-  {
-    "Title": "Batman",
-    "Issue #": 251,
     "Condition": "CGC 8.0",
     "Website Notes": "Adams Joker Cvr",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 600,
     "": ""
+  },
+  {
+    "Title": "Batman",
+    "Issue #": 251,
+    "Condition": "CGC 4.5",
+    "Website Notes": "Adams Joker Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 320,
+    "": "comiclink"
   },
   {
     "Title": "Batman",
@@ -4681,15 +4663,6 @@ export const data = [
   },
   {
     "Title": "Brave and the Bold",
-    "Issue #": 93,
-    "Condition": "VF+",
-    "Website Notes": "Adams",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 100,
-    "": "Bednarz"
-  },
-  {
-    "Title": "Brave and the Bold",
     "Issue #": 100,
     "Condition": "VF+",
     "Website Notes": "",
@@ -5005,15 +4978,6 @@ export const data = [
   },
   {
     "Title": "DC 100 pg Super Spectacular",
-    "Issue #": 4,
-    "Condition": "G/VG",
-    "Website Notes": "Wrightson",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 25,
-    "": "Hunt Valley"
-  },
-  {
-    "Title": "DC 100 pg Super Spectacular",
     "Issue #": 6,
     "Condition": "FN",
     "Website Notes": "Adams",
@@ -5064,15 +5028,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "DC Special",
-    "Issue #": 11,
-    "Condition": "VF+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 45,
     "": ""
   },
   {
@@ -6712,15 +6667,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 30,
     "": ""
-  },
-  {
-    "Title": "Flash",
-    "Issue #": 175,
-    "Condition": "CGC 6.5",
-    "Website Notes": "Flash/Sup race",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 75,
-    "": "Dahlgren"
   },
   {
     "Title": "Flash",
@@ -8533,21 +8479,21 @@ export const data = [
   },
   {
     "Title": "House of Mystery",
-    "Issue #": 1,
-    "Condition": "CGC 5.5",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 1400,
-    "": "PBA"
-  },
-  {
-    "Title": "House of Mystery",
     "Issue #": 42,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 50,
     "": "Brian"
+  },
+  {
+    "Title": "House of Mystery",
+    "Issue #": 32,
+    "Condition": "VG",
+    "Website Notes": "Classic Cvr",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 90,
+    "": "AHeroes"
   },
   {
     "Title": "House of Mystery",
@@ -9748,15 +9694,6 @@ export const data = [
   },
   {
     "Title": "Justice League of America",
-    "Issue #": 97,
-    "Condition": "VF+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Justice League of America",
     "Issue #": 108,
     "Condition": "VF/NM",
     "Website Notes": "",
@@ -10021,7 +9958,7 @@ export const data = [
     "Issue #": 2,
     "Condition": "VF/NM",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "2 avail",
+    "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
     "": ""
   },
@@ -10033,15 +9970,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 25,
     "": "gilligans"
-  },
-  {
-    "Title": "Masters of the Universe",
-    "Issue #": 3,
-    "Condition": "VF/NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
-    "": ""
   },
   {
     "Title": "Metal Men",
@@ -10726,6 +10654,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 180,
     "": ""
+  },
+  {
+    "Title": "New Gods",
+    "Issue #": 1,
+    "Condition": "CGC 9.6",
+    "Website Notes": "White Pages",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 150,
+    "": "TTreasures"
   },
   {
     "Title": "New Gods",
@@ -12368,15 +12305,6 @@ export const data = [
   {
     "Title": "Showcase",
     "Issue #": 97,
-    "Condition": "VF",
-    "Website Notes": "Power Girl",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 20,
-    "": ""
-  },
-  {
-    "Title": "Showcase",
-    "Issue #": 97,
     "Condition": "VG/F",
     "Website Notes": "Power Girl",
     "Personal Notes (Not on website)": "",
@@ -13690,15 +13618,6 @@ export const data = [
   },
   {
     "Title": "Superman",
-    "Issue #": 13,
-    "Condition": "F/G",
-    "Website Notes": "War Cover",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 525,
-    "": "30th Century"
-  },
-  {
-    "Title": "Superman",
     "Issue #": 51,
     "Condition": "VG",
     "Website Notes": "CFL Lois Lane Cvr",
@@ -14623,6 +14542,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 10,
     "": ""
+  },
+  {
+    "Title": "Swamp Thing",
+    "Issue #": 37,
+    "Condition": "CGC 9.4",
+    "Website Notes": "1st John Constatine",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 260,
+    "": "comiclink"
   },
   {
     "Title": "Swamp Thing",
@@ -15829,15 +15757,6 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 75,
     "": "Bednarz"
-  },
-  {
-    "Title": "Witching Hour",
-    "Issue #": 1,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 60,
-    "": "trade"
   },
   {
     "Title": "Witching Hour",
