@@ -18,6 +18,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Adventure into Mystery",
+    "Issue #": 8,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 30,
+    "": "Trade"
+  },
+  {
     "Title": "Adventures in 3-D",
     "Issue #": 1,
     "Condition": "F/VF",
@@ -796,9 +805,18 @@ export const data = [
     "Issue #": 1,
     "Condition": "CGC 2.5",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "Timely",
+    "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 1600,
     "": "Mike"
+  },
+  {
+    "Title": "Black Knight",
+    "Issue #": 5,
+    "Condition": "G/VG",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 50,
+    "": "Kent ref"
   },
   {
     "Title": "Black Magic",
@@ -3970,6 +3988,15 @@ export const data = [
   },
   {
     "Title": "Mystic",
+    "Issue #": 39,
+    "Condition": "GD",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 20,
+    "": "Kent ref"
+  },
+  {
+    "Title": "Mystic",
     "Issue #": 47,
     "Condition": "P",
     "Website Notes": "No Back Cover",
@@ -5103,6 +5130,24 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Strange Worlds (1958)",
+    "Issue #": 1,
+    "Condition": "GD+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 75,
+    "": "Kent ref"
+  },
+  {
+    "Title": "Strange Worlds (1958)",
+    "Issue #": 4,
+    "Condition": "VG",
+    "Website Notes": "Williamson",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 80,
+    "": "Kent ref"
+  },
+  {
     "Title": "Stuntman",
     "Issue #": 1,
     "Condition": "VG/F",
@@ -6019,6 +6064,15 @@ export const data = [
     "Personal Notes (Not on website)": "",
     "Cost Basis": 20,
     "": "GFalls"
+  },
+  {
+    "Title": "World of Fantasy",
+    "Issue #": 17,
+    "Condition": "GD",
+    "Website Notes": "Ditko/Kirby",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 25,
+    "": "Kent ref"
   },
   {
     "Title": "World of Fantasy",
