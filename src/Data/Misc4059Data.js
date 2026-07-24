@@ -1001,15 +1001,6 @@ export const data = [
   {
     "Title": "Bulls Eye",
     "Issue #": 3,
-    "Condition": "VG/F",
-    "Website Notes": "Simon Kirby",
-    "Personal Notes (Not on website)": "Mainline",
-    "Cost Basis": 150,
-    "": "Dahlgren"
-  },
-  {
-    "Title": "Bulls Eye",
-    "Issue #": 3,
     "Condition": "GD",
     "Website Notes": "Simon Kirby",
     "Personal Notes (Not on website)": "Mainline",
@@ -2853,6 +2844,15 @@ export const data = [
     "": "MyComicShop"
   },
   {
+    "Title": "Jumbo Comics",
+    "Issue #": "",
+    "Condition": "VG",
+    "Website Notes": "Canadian Giant",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100,
+    "": "Frederick"
+  },
+  {
     "Title": "Jungle Action",
     "Issue #": 3,
     "Condition": "FN",
@@ -3592,15 +3592,6 @@ export const data = [
   },
   {
     "Title": "Marvel Mystery Comics",
-    "Issue #": 29,
-    "Condition": "CGC 2.5",
-    "Website Notes": "Schomburg",
-    "Personal Notes (Not on website)": "Timely",
-    "Cost Basis": 2000,
-    "": "Brandon"
-  },
-  {
-    "Title": "Marvel Mystery Comics",
     "Issue #": 61,
     "Condition": "GD-",
     "Website Notes": "Schomburg",
@@ -3697,15 +3688,6 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 155,
     "": ""
-  },
-  {
-    "Title": "Men's Adventures",
-    "Issue #": 24,
-    "Condition": "VG/F",
-    "Website Notes": "Horror",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 129,
-    "": "ebay"
   },
   {
     "Title": "Men's Adventures",
@@ -5563,15 +5545,6 @@ export const data = [
   },
   {
     "Title": "Uncanny Tales",
-    "Issue #": 26,
-    "Condition": "G/VG",
-    "Website Notes": "Spider Man",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 100,
-    "": "UK"
-  },
-  {
-    "Title": "Uncanny Tales",
     "Issue #": 41,
     "Condition": "GD+",
     "Website Notes": "",
@@ -5587,6 +5560,15 @@ export const data = [
     "Personal Notes (Not on website)": "Fawcett",
     "Cost Basis": 240,
     "": "Gilligans"
+  },
+  {
+    "Title": "Uncle Sam Quarterly",
+    "Issue #": 2,
+    "Condition": "CGC 3.0",
+    "Website Notes": "Slt R",
+    "Personal Notes (Not on website)": "Quality",
+    "Cost Basis": 200,
+    "": ""
   },
   {
     "Title": "Undersea Commandos",
@@ -6073,15 +6055,6 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 25,
     "": "Kent ref"
-  },
-  {
-    "Title": "World of Fantasy",
-    "Issue #": 19,
-    "Condition": "FN-",
-    "Website Notes": "Ditko/Kirby",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 150,
-    "": "BCC"
   },
   {
     "Title": "World of Fantasy",

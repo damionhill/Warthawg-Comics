@@ -117,6 +117,51 @@ export const data = [
     "": "2025 BCC"
   },
   {
+    "Title": "Jetsons",
+    "Issue #": 3,
+    "Condition": "VF/NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "2025 BCC"
+  },
+  {
+    "Title": "Jetsons",
+    "Issue #": 10,
+    "Condition": "NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "2025 BCC"
+  },
+  {
+    "Title": "Jetsons",
+    "Issue #": 11,
+    "Condition": "NM",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "2025 BCC"
+  },
+  {
+    "Title": "Jetsons",
+    "Issue #": 12,
+    "Condition": "NM-",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 20,
+    "": "2025 BCC"
+  },
+  {
+    "Title": "Jetsons",
+    "Issue #": 15,
+    "Condition": "VF+",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 15,
+    "": "2025 BCC"
+  },
+  {
     "Title": "Konga",
     "Issue #": 23,
     "Condition": "VG",
@@ -279,13 +324,13 @@ export const data = [
     "": "comiclink"
   },
   {
-    "Title": "Rookie Cop",
-    "Issue #": 27,
-    "Condition": "VG/F",
-    "Website Notes": "1st Issue",
+    "Title": "Reptilicus",
+    "Issue #": 1,
+    "Condition": "FN",
+    "Website Notes": "",
     "Personal Notes (Not on website)": "",
-    "Cost Basis": 50,
-    "": "Brian"
+    "Cost Basis": 30,
+    "": ""
   },
   {
     "Title": "Scooby Doo (Charlton)",
@@ -294,15 +339,6 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 5,
-    "": ""
-  },
-  {
-    "Title": "Scooby Doo (Charlton)",
-    "Issue #": 11,
-    "Condition": "VF/VF+",
-    "Website Notes": "Last Issue",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 15,
     "": ""
   },
   {
