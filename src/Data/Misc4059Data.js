@@ -1,4 +1,4 @@
-export const data = [
+export const data= [
   {
     "Title": "Abbott and Costello",
     "Issue #": 18,
@@ -649,15 +649,6 @@ export const data = [
   },
   {
     "Title": "Black Cat Comics",
-    "Issue #": 51,
-    "Condition": "GD+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Harvey",
-    "Cost Basis": 100,
-    "": "30thCentury"
-  },
-  {
-    "Title": "Black Cat Comics",
     "Issue #": 55,
     "Condition": "VG",
     "Website Notes": "",
@@ -1090,15 +1081,6 @@ export const data = [
   },
   {
     "Title": "Captain Marvel Adventures",
-    "Issue #": 33,
-    "Condition": "VG",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Fawcett",
-    "Cost Basis": 40,
-    "": ""
-  },
-  {
-    "Title": "Captain Marvel Adventures",
     "Issue #": 88,
     "Condition": "G/VG",
     "Website Notes": "",
@@ -1199,7 +1181,7 @@ export const data = [
   {
     "Title": "Catman",
     "Issue #": 31,
-    "Condition": "P",
+    "Condition": "CGC .5",
     "Website Notes": "CF Missing",
     "Personal Notes (Not on website)": "Holyoke",
     "Cost Basis": 500,
@@ -1964,7 +1946,7 @@ export const data = [
   {
     "Title": "Debbie Dean Career Girl",
     "Issue #": 2,
-    "Condition": "VG/F",
+    "Condition": "CGC 4.0",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Civil Service",
     "Cost Basis": 75,
@@ -2646,15 +2628,6 @@ export const data = [
     "": "Gilligans"
   },
   {
-    "Title": "Horrific",
-    "Issue #": 3,
-    "Condition": "CGC 3.5",
-    "Website Notes": "Classic Cvr",
-    "Personal Notes (Not on website)": "Comic Media",
-    "Cost Basis": 1775,
-    "": "comiclink"
-  },
-  {
     "Title": "Hot Rod and Speedway Comics",
     "Issue #": 5,
     "Condition": "FN",
@@ -2773,12 +2746,12 @@ export const data = [
   },
   {
     "Title": "Journey into Fear",
-    "Issue #": 12,
-    "Condition": "VG",
-    "Website Notes": "",
+    "Issue #": 15,
+    "Condition": "CGC 2.0",
+    "Website Notes": "SOTI",
     "Personal Notes (Not on website)": "Superior",
-    "Cost Basis": 270,
-    "": ""
+    "Cost Basis": 110,
+    "": "30th Century"
   },
   {
     "Title": "Journey into Fear",
@@ -3013,15 +2986,6 @@ export const data = [
     "Personal Notes (Not on website)": "Prize",
     "Cost Basis": 15,
     "": ""
-  },
-  {
-    "Title": "Kaanga",
-    "Issue #": 1,
-    "Condition": "CGC 5.0",
-    "Website Notes": "Feed Store Copy",
-    "Personal Notes (Not on website)": "Fiction House",
-    "Cost Basis": 125,
-    "": "Darnell"
   },
   {
     "Title": "Kaanga",
@@ -3820,9 +3784,18 @@ export const data = [
     "Issue #": 5,
     "Condition": "VG",
     "Website Notes": "",
-    "Personal Notes (Not on website)": "",
+    "Personal Notes (Not on website)": "St John",
     "Cost Basis": 40,
     "": ""
+  },
+  {
+    "Title": "Mopsy",
+    "Issue #": 11,
+    "Condition": "CGC 7.5",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "St John",
+    "Cost Basis": 50,
+    "": "Rapid City"
   },
   {
     "Title": "Motion Picture Comics",
@@ -3886,15 +3859,6 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 240,
     "": "CConnect"
-  },
-  {
-    "Title": "Mystery Tales",
-    "Issue #": 15,
-    "Condition": "VG+",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "Atlas",
-    "Cost Basis": 125,
-    "": "Ofden Trade"
   },
   {
     "Title": "Mystery Tales",
@@ -4887,6 +4851,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Single Series",
+    "Issue #": 4,
+    "Condition": "CGC 5.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "United Features",
+    "Cost Basis": 92,
+    "": "Pedigree"
+  },
+  {
     "Title": "Soldier Comics",
     "Issue #": 5,
     "Condition": "VG",
@@ -5013,15 +4986,6 @@ export const data = [
     "": "30th Century"
   },
   {
-    "Title": "Startling Terror Tales",
-    "Issue #": 11,
-    "Condition": "CGC 2.5",
-    "Website Notes": "LB Cole Spider Cvr",
-    "Personal Notes (Not on website)": "Star",
-    "Cost Basis": 2700,
-    "": "TTreasures"
-  },
-  {
     "Title": "Steve Samson",
     "Issue #": 34,
     "Condition": "VG",
@@ -5065,6 +5029,15 @@ export const data = [
     "Personal Notes (Not on website)": "Atlas",
     "Cost Basis": 300,
     "": "Dahlgren"
+  },
+  {
+    "Title": "Strange Tales",
+    "Issue #": 29,
+    "Condition": "CGC 5.0",
+    "Website Notes": "Classic Cvr",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 1425,
+    "": "Comiclink"
   },
   {
     "Title": "Strange Tales",
@@ -5356,6 +5329,15 @@ export const data = [
   },
   {
     "Title": "This Magazine is Haunted",
+    "Issue #": 4,
+    "Condition": "VG-",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Fawcett",
+    "Cost Basis": 140,
+    "": "Joe"
+  },
+  {
+    "Title": "This Magazine is Haunted",
     "Issue #": 9,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -5479,6 +5461,15 @@ export const data = [
     "Personal Notes (Not on website)": "Harvey",
     "Cost Basis": 150,
     "": "TTreasures"
+  },
+  {
+    "Title": "Tom Mix Comics",
+    "Issue #": 1,
+    "Condition": "CGC 4.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Ralston-Purina",
+    "Cost Basis": 102,
+    "": "Pedigre"
   },
   {
     "Title": "Tom Mix Western",

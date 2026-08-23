@@ -191,15 +191,6 @@ export const data= [
   {
     "Title": "Artistic Comics",
     "Issue #": 1,
-    "Condition": "FN",
-    "Website Notes": "1st Print Crumb",
-    "Personal Notes (Not on website)": "Golden Gate",
-    "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Artistic Comics",
-    "Issue #": 1,
     "Condition": "VG",
     "Website Notes": "1st Print Crumb",
     "Personal Notes (Not on website)": "Golden Gate",
@@ -213,15 +204,6 @@ export const data= [
     "Website Notes": 1977,
     "Personal Notes (Not on website)": "Last Gasp",
     "Cost Basis": "",
-    "": ""
-  },
-  {
-    "Title": "Baby, You're really something",
-    "Issue #": "NN",
-    "Condition": "VF/NM",
-    "Website Notes": "Frazetta",
-    "Personal Notes (Not on website)": "Eros",
-    "Cost Basis": 5,
     "": ""
   },
   {
@@ -1747,15 +1729,6 @@ export const data= [
   },
   {
     "Title": "Jaguar God",
-    "Issue #": 5,
-    "Condition": "NM",
-    "Website Notes": "Frazetta",
-    "Personal Notes (Not on website)": "Verotik",
-    "Cost Basis": 5,
-    "": "steve"
-  },
-  {
-    "Title": "Jaguar God",
     "Issue #": 6,
     "Condition": "NM",
     "Website Notes": "Frazetta",
@@ -2018,15 +1991,6 @@ export const data= [
   {
     "Title": "Mara",
     "Issue #": 4,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "EROS",
-    "Cost Basis": 10,
-    "": "steve"
-  },
-  {
-    "Title": "Mara Paper Doll Book",
-    "Issue #": 1,
     "Condition": "NM",
     "Website Notes": "",
     "Personal Notes (Not on website)": "EROS",
@@ -3231,15 +3195,6 @@ export const data= [
     "": "Hunt Valley"
   },
   {
-    "Title": "Submissive Suzanne",
-    "Issue #": 1,
-    "Condition": "NM",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "EROS",
-    "Cost Basis": 10,
-    "": "steve"
-  },
-  {
     "Title": "Super Taboo",
     "Issue #": 7,
     "Condition": "NM",
@@ -3868,6 +3823,15 @@ export const data= [
     "Personal Notes (Not on website)": "Apex",
     "Cost Basis": 4,
     "": ""
+  },
+  {
+    "Title": "Zap Comix",
+    "Issue #": 0,
+    "Condition": "VG+",
+    "Website Notes": "UK Variant",
+    "Personal Notes (Not on website)": "Apex",
+    "Cost Basis": 200,
+    "": "Frederick"
   },
   {
     "Title": "Zap Comix",
