@@ -1,4 +1,4 @@
-export const data =[
+export const data= [
   {
     "Title": "Aces High",
     "Issue #": 1,
@@ -83,7 +83,7 @@ export const data =[
   {
     "Title": "Humbug",
     "Issue #": 2,
-    "Condition": "GD",
+    "Condition": "GD  ",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 15,
@@ -119,15 +119,6 @@ export const data =[
   {
     "Title": "Mad",
     "Issue #": 1,
-    "Condition": "CGC 5.0",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 1750,
-    "": "Matt"
-  },
-  {
-    "Title": "Mad",
-    "Issue #": 1,
     "Condition": "GD",
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
@@ -142,6 +133,15 @@ export const data =[
     "Personal Notes (Not on website)": "",
     "Cost Basis": 350,
     "": "Matt"
+  },
+  {
+    "Title": "Mad",
+    "Issue #": 6,
+    "Condition": "CGC 6.0",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 230,
+    "": "Comiclink"
   },
   {
     "Title": "Mad",
@@ -487,15 +487,6 @@ export const data =[
   },
   {
     "Title": "ShockSuspenstories",
-    "Issue #": 15,
-    "Condition": "CGC 5.0",
-    "Website Notes": "",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 250,
-    "": "Joe"
-  },
-  {
-    "Title": "ShockSuspenstories",
     "Issue #": 16,
     "Condition": "VG/F",
     "Website Notes": "",
@@ -693,7 +684,7 @@ export const data =[
     "": "Beyond"
   },
   {
-    "Title": "Weird Science",
+    "Title": "Weird Science  ",
     "Issue #": 15,
     "Condition": "GD",
     "Website Notes": "Williamson Art",
@@ -736,14 +727,5 @@ export const data =[
     "Personal Notes (Not on website)": "",
     "Cost Basis": 270,
     "": "Gilligans"
-  },
-  {
-    "Title": "Weird Science Fantasy",
-    "Issue #": 29,
-    "Condition": "GD",
-    "Website Notes": "Classic Frazetta Cvr",
-    "Personal Notes (Not on website)": "",
-    "Cost Basis": 200,
-    "": "Jerry Hayes"
   }
 ];
